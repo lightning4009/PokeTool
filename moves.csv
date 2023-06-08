@@ -1,0 +1,901 @@
+﻿#,Name,Type,Category,Power,Damage Type,Secondary Effect?,Contact?,Multihit?,Max # of Hits
+1,Pound,normal,Physical,40,normal,no,yes,no,1
+2,Karate Chop,fighting,Physical,50,normal,no,yes,no,1
+3,Double Slap,normal,Physical,15,normal,no,yes,yes,5
+4,Comet Punch,normal,Physical,18,punch,no,yes,yes,5
+5,Mega Punch,normal,Physical,80,punch,no,yes,no,1
+6,Pay Day,normal,Physical,40,normal,no,no,no,1
+7,Fire Punch,fire,Physical,75,punch,yes,yes,no,1
+8,Ice Punch,ice,Physical,75,punch,yes,yes,no,1
+9,Thunder Punch,electric,Physical,75,punch,yes,yes,no,1
+10,Scratch,normal,Physical,40,normal,no,yes,no,1
+11,Vise Grip,normal,Physical,55,normal,no,yes,no,1
+12,Guillotine,normal,Physical,0,ohko,no,yes,no,1
+13,Razor Wind,normal,Special,80,normal,no,no,no,1
+14,Swords Dance,normal,Status,0,none,no,no,no,0
+15,Cut,normal,Physical,50,slice,no,yes,no,1
+16,Gust,flying,Special,40,normal,no,no,no,1
+17,Wing Attack,flying,Physical,60,normal,no,yes,no,1
+18,Whirlwind,normal,Status,0,none,no,no,no,0
+19,Fly,flying,Physical,90,normal,no,yes,no,1
+20,Bind,normal,Physical,15,normal,no,yes,yes,1
+21,Slam,normal,Physical,80,normal,no,yes,no,1
+22,Vine Whip,grass,Physical,45,normal,no,yes,no,1
+23,Stomp,normal,Physical,65,normal,yes,yes,no,1
+24,Double Kick,fighting,Physical,30,normal,no,yes,yes,2
+25,Mega Kick,normal,Physical,120,normal,no,yes,no,1
+26,Jump Kick,fighting,Physical,100,crash,no,yes,no,1
+27,Rolling Kick,fighting,Physical,60,normal,yes,yes,no,1
+28,Sand Attack,ground,Status,0,none,no,yes,no,0
+29,Headbutt,normal,Physical,70,normal,yes,yes,no,1
+30,Horn Attack,normal,Physical,65,normal,no,yes,no,1
+31,Fury Attack,normal,Physical,15,normal,no,yes,yes,5
+32,Horn Drill,normal,Physical,0,ohko,no,yes,no,1
+33,Tackle,normal,Physical,40,normal,no,yes,no,1
+34,Body Slam,normal,Physical,85,normal,yes,yes,no,1
+35,Wrap,normal,Physical,15,multihit-5,no,yes,no,1
+36,Take Down,normal,Physical,90,recoil,no,yes,no,1
+37,Thrash,normal,Physical,120,normal,no,yes,no,1
+38,Double-Edge,normal,Physical,120,recoil,no,yes,no,1
+39,Tail Whip,normal,Status,0,none,no,no,no,0
+40,Poison Sting,poison,Physical,15,normal,yes,no,no,1
+41,Twineedle,bug,Physical,25,normal,yes,no,yes,2
+42,Pin Missile,bug,Physical,25,normal,no,no,yes,5
+43,Leer,normal,Status,0,none,no,no,no,0
+44,Bite,dark,Physical,60,bite,yes,yes,no,1
+45,Growl,normal,Status,0,none,no,no,no,0
+46,Roar,normal,Status,0,none,no,no,no,0
+47,Sing,normal,Status,0,none,no,no,no,0
+48,Supersonic,normal,Status,0,none,no,no,no,0
+49,Sonic Boom,normal,Special,20,set,no,no,no,1
+50,Disable,normal,Status,0,none,no,no,no,0
+51,Acid,poison,Special,40,normal,yes,no,no,1
+52,Ember,fire,Special,40,normal,yes,no,no,1
+53,Flamethrower,fire,Special,90,normal,yes,no,no,1
+54,Mist,ice,Status,0,none,no,no,no,0
+55,Water Gun,water,Special,40,normal,no,no,no,1
+56,Hydro Pump,water,Special,110,normal,no,no,no,1
+57,Surf,water,Special,90,normal,no,no,no,1
+58,Ice Beam,ice,Special,90,normal,yes,no,no,1
+59,Blizzard,ice,Special,110,normal,yes,no,no,1
+60,Psybeam,psychic,Special,65,normal,yes,no,no,1
+61,Bubble Beam,water,Special,65,normal,yes,no,no,1
+62,Aurora Beam,ice,Special,65,normal,yes,no,no,1
+63,Hyper Beam,normal,Special,150,normal,no,no,no,1
+64,Peck,flying,Physical,35,normal,no,yes,no,1
+65,Drill Peck,flying,Physical,80,normal,no,yes,no,1
+66,Submission,fighting,Physical,80,recoil,no,yes,no,1
+67,Low Kick,fighting,Physical,0,weight,no,yes,no,1
+68,Counter,fighting,Physical,0,none,no,yes,no,1
+69,Seismic Toss,fighting,Physical,0,level,no,yes,no,1
+70,Strength,normal,Physical,80,normal,no,yes,no,1
+71,Absorb,grass,Special,20,normal,no,no,no,1
+72,Mega Drain,grass,Special,40,normal,no,no,no,1
+73,Leech Seed,grass,Status,0,none,no,no,no,0
+74,Growth,normal,Status,0,none,no,no,no,0
+75,Razor Leaf,grass,Physical,55,slice,no,no,no,1
+76,Solar Beam,grass,Special,120,normal,no,no,no,1
+77,Poison Powder,poison,Status,0,none,no,no,no,0
+78,Stun Spore,grass,Status,0,none,no,no,no,0
+79,Sleep Powder,grass,Status,0,none,no,no,no,0
+80,Petal Dance,grass,Special,120,normal,no,yes,no,1
+81,String Shot,bug,Status,0,none,no,no,no,0
+82,Dragon Rage,dragon,Special,40,set,no,no,no,1
+83,Fire Spin,fire,Special,35,trapping,no,no,no,1
+84,Thunder Shock,electric,Special,40,normal,yes,no,no,1
+85,Thunderbolt,electric,Special,90,normal,yes,no,no,1
+86,Thunder Wave,electric,Status,0,none,no,no,no,0
+87,Thunder,electric,Special,110,normal,yes,no,no,1
+88,Rock Throw,rock,Physical,50,normal,no,no,no,1
+89,Earthquake,ground,Physical,100,normal,no,no,no,1
+90,Fissure,ground,Physical,0,ohko,no,no,no,1
+91,Dig,ground,Physical,80,normal,no,yes,no,1
+92,Toxic,poison,Status,0,none,no,no,no,0
+93,Confusion,psychic,Special,50,normal,yes,no,no,1
+94,Psychic,psychic,Special,90,normal,yes,no,no,1
+95,Hypnosis,psychic,Status,0,none,no,no,no,0
+96,Meditate,psychic,Status,0,none,no,no,no,0
+97,Agility,psychic,Status,0,none,no,no,no,0
+98,Quick Attack,normal,Physical,40,normal,no,yes,no,1
+99,Rage,normal,Physical,20,normal,no,yes,no,1
+100,Teleport,psychic,Status,0,none,no,no,no,0
+101,Night Shade,ghost,Special,0,level,no,no,no,1
+102,Mimic,normal,Status,0,none,no,no,no,0
+103,Screech,normal,Status,0,none,no,no,no,0
+104,Double Team,normal,Status,0,none,no,no,no,0
+105,Recover,normal,Status,0,none,no,no,no,0
+106,Harden,normal,Status,0,none,no,no,no,0
+107,Minimize,normal,Status,0,none,no,no,no,0
+108,Smokescreen,normal,Status,0,none,no,no,no,0
+109,Confuse Ray,ghost,Status,0,none,no,no,no,0
+110,Withdraw,water,Status,0,none,no,no,no,0
+111,Defense Curl,normal,Status,0,none,no,no,no,0
+112,Barrier,psychic,Status,0,none,no,no,no,0
+113,Light Screen,psychic,Status,0,none,no,no,no,0
+114,Haze,ice,Status,0,none,no,no,no,0
+115,Reflect,psychic,Status,0,none,no,no,no,0
+116,Focus Energy,normal,Status,0,none,no,no,no,0
+117,Bide,normal,Physical,0,none,no,yes,no,1
+118,Metronome,normal,Status,0,none,no,no,no,0
+119,Mirror Move,flying,Status,0,none,no,no,no,0
+120,Self-Destruct,normal,Physical,200,normal,no,no,no,1
+121,Egg Bomb,normal,Physical,100,normal,no,no,no,1
+122,Lick,ghost,Physical,30,normal,yes,yes,no,1
+123,Smog,poison,Special,30,normal,yes,no,no,1
+124,Sludge,poison,Special,65,normal,yes,no,no,1
+125,Bone Club,ground,Physical,65,normal,yes,no,no,1
+126,Fire Blast,fire,Special,110,norma;,yes,no,no,1
+127,Waterfall,water,Physical,80,normal,yes,yes,no,1
+128,Clamp,water,Physical,35,trapping,no,yes,no,1
+129,Swift,normal,Special,60,normal,no,no,no,1
+130,Skull Bash,normal,Physical,130,normal,no,yes,no,1
+131,Spike Cannon,normal,Physical,20,normal,no,no,yes,5
+132,Constrict,normal,Physical,10,normal,yes,yes,no,1
+133,Amnesia,psychic,Status,0,none,no,no,no,0
+134,Kinesis,psychic,Status,0,none,no,no,no,0
+135,Soft-Boiled,normal,Status,0,none,no,no,no,0
+136,High Jump Kick,fighting,Physical,130,crash,no,yes,no,1
+137,Glare,normal,Status,0,none,no,no,no,0
+138,Dream Eater,psychic,Special,100,normal,no,no,no,1
+139,Poison Gas,poison,Status,0,none,no,no,no,0
+140,Barrage,normal,Physical,15,normal,no,no,yes,5
+141,Leech Life,bug,Physical,80,normal,no,yes,no,1
+142,Lovely Kiss,normal,Status,0,none,no,no,no,0
+143,Sky Attack,flying,Physical,140,normal,yes,no,no,1
+144,Transform,normal,Status,0,none,no,no,no,0
+145,Bubble,water,Special,40,normal,yes,no,no,1
+146,Dizzy Punch,normal,Physical,70,punch,yes,yes,no,1
+147,Spore,grass,Status,0,none,no,no,no,0
+148,Flash,normal,Status,0,none,no,no,no,0
+149,Psywave,psychic,Special,0,psywave,no,no,no,1
+150,Splash,normal,Status,0,none,no,no,no,0
+151,Acid Armor,poison,Status,0,none,no,no,no,0
+152,Crabhammer,water,Physical,100,normal,no,yes,no,1
+153,Explosion,normal,Physical,250,normal,no,no,no,1
+154,Fury Swipes,normal,Physical,18,normal,no,yes,yes,5
+155,Bonemerang,ground,Physical,50,normal,no,no,yes,2
+156,Rest,psychic,Status,0,none,no,no,no,0
+157,Rock Slide,rock,Physical,75,normal,yes,no,no,1
+158,Hyper Fang,normal,Physical,80,bite,yes,yes,no,1
+159,Sharpen,normal,Status,0,none,no,no,no,0
+160,Conversion,normal,Status,0,none,no,no,no,0
+161,Tri Attack,normal,Special,80,normal,yes,no,no,1
+162,Super Fang,normal,Physical,50,half,no,yes,no,1
+163,Slash,normal,Physical,70,slice,no,yes,no,1
+164,Substitute,normal,Status,0,none,no,no,no,0
+165,Struggle,normal,Physical,50,recoil,no,yes,no,1
+166,Sketch,normal,Status,0,none,no,no,no,0
+167,Triple Kick,fighting,Physical,10,triple kick,no,yes,yes,3
+168,Thief,dark,Physical,60,normal,no,yes,no,1
+169,Spider Web,bug,Status,0,none,no,no,no,0
+170,Mind Reader,normal,Status,0,none,no,no,no,0
+171,Nightmare,ghost,Status,0,none,no,no,no,0
+172,Flame Wheel,fire,Physical,60,normal,yes,yes,no,1
+173,Snore,normal,Special,50,sound,yes,no,no,1
+174,Curse,ghost,Status,0,none,no,no,no,0
+175,Flail,normal,Physical,0,reversal,no,yes,no,1
+176,Conversion 2,normal,Status,0,none,no,no,no,0
+177,Aeroblast,flying,Special,100,normal,no,no,no,1
+178,Cotton Spore,grass,Status,0,none,no,no,no,0
+179,Reversal,fighting,Physical,0,reversal,no,yes,no,1
+180,Spite,ghost,Status,0,none,no,no,no,0
+181,Powder Snow,ice,Special,40,normal,yes,no,no,1
+182,Protect,normal,Status,0,none,no,no,no,0
+183,Mach Punch,fighting,Physical,40,punch,no,yes,no,1
+184,Scary Face,normal,Status,0,none,no,no,no,0
+185,Feint Attack,dark,Physical,60,normal,no,yes,no,1
+186,Sweet Kiss,fairy,Status,0,none,no,no,no,0
+187,Belly Drum,normal,Status,0,none,no,no,no,0
+188,Sludge Bomb,poison,Special,90,normal,yes,no,no,1
+189,Mud-Slap,ground,Special,20,normal,yes,no,no,1
+190,Octazooka,water,Special,65,normal,yes,no,no,1
+191,Spikes,ground,Status,0,none,no,no,no,0
+192,Zap Cannon,electric,Special,120,normal,yes,no,no,1
+193,Foresight,normal,Status,0,none,no,no,no,0
+194,Destiny Bond,ghost,Status,0,none,no,no,no,0
+195,Perish Song,normal,Status,0,none,no,no,no,0
+196,Icy Wind,ice,Special,55,normal,yes,no,no,1
+197,Detect,fighting,Status,0,none,no,no,no,0
+198,Bone Rush,ground,Physical,25,normal,no,no,yes,5
+199,Lock-On,normal,Status,0,none,no,no,no,0
+200,Outrage,dragon,Physical,120,normal,no,yes,no,1
+201,Sandstorm,rock,Status,0,none,no,no,no,0
+202,Giga Drain,grass,Special,75,normal,no,no,no,1
+203,Endure,normal,Status,0,none,no,no,no,0
+204,Charm,fairy,Status,0,none,no,no,no,0
+205,Rollout,rock,Physical,30,rollout,no,yes,no,1
+206,False Swipe,normal,Physical,40,never kill,no,yes,no,1
+207,Swagger,normal,Status,0,none,no,no,no,0
+208,Milk Drink,normal,Status,0,none,no,no,no,0
+209,Spark,electric,Physical,65,normal,yes,yes,no,1
+210,Fury Cutter,bug,Physical,40,slice,no,yes,no,1
+211,Steel Wing,steel,Physical,70,normal,yes,yes,no,1
+212,Mean Look,normal,Status,0,none,no,no,no,0
+213,Attract,normal,Status,0,none,no,no,no,0
+214,Sleep Talk,normal,Status,0,none,no,no,no,0
+215,Heal Bell,normal,Status,0,none,no,no,no,0
+216,Return,normal,Physical,0,happiness,no,yes,no,1
+217,Present,normal,Physical,0,present,no,no,no,1
+218,Frustration,normal,Physical,0,happiness,no,yes,no,1
+219,Safeguard,normal,Status,0,none,no,no,no,0
+220,Pain Split,normal,Status,0,none,no,no,no,0
+221,Sacred Fire,fire,Physical,100,normal,yes,no,no,1
+222,Magnitude,ground,Physical,0,normal,no,no,no,1
+223,Dynamic Punch,fighting,Physical,100,punch,yes,yes,no,1
+224,Megahorn,bug,Physical,120,normal,no,yes,no,1
+225,Dragon Breath,dragon,Special,60,normal,no,no,no,1
+226,Baton Pass,normal,Status,0,none,no,no,no,0
+227,Encore,normal,Status,0,none,no,no,no,0
+228,Pursuit,dark,Physical,40,switching,no,yes,no,1
+229,Rapid Spin,normal,Physical,50,normal,yes,yes,no,1
+230,Sweet Scent,normal,Status,0,none,no,no,no,0
+231,Iron Tail,steel,Physical,100,normal,yes,yes,no,1
+232,Metal Claw,steel,Physical,50,normal,yes,yes,no,1
+233,Vital Throw,fighting,Physical,70,normal,no,yes,no,1
+234,Morning Sun,normal,Status,0,none,no,no,no,0
+235,Synthesis,grass,Status,0,none,no,no,no,0
+236,Moonlight,fairy,Status,0,none,no,no,no,0
+237,Hidden Power,normal,Special,60,hidden power,no,no,no,1
+238,Cross Chop,fighting,Physical,100,normal,no,yes,no,1
+239,Twister,dragon,Special,40,normal,yes,no,no,1
+240,Rain Dance,water,Status,0,none,no,no,no,0
+241,Sunny Day,fire,Status,0,none,no,no,no,0
+242,Crunch,dark,Physical,80,bite,yes,yes,no,1
+243,Mirror Coat,psychic,Special,0,none,no,no,no,1
+244,Psych Up,normal,Status,0,none,no,no,no,0
+245,Extreme Speed,normal,Physical,80,normal,no,yes,no,1
+246,Ancient Power,rock,Special,60,normal,yes,no,no,1
+247,Shadow Ball,ghost,Special,80,normal,yes,no,no,1
+248,Future Sight,psychic,Special,120,normal,no,no,no,1
+249,Rock Smash,fighting,Physical,40,normal,yes,no,no,1
+250,Whirlpool,water,Special,35,trapping,no,no,no,1
+251,Beat Up,dark,Physical,0,beat up,no,no,no,1
+252,Fake Out,normal,Physical,40,normal,yes,yes,no,1
+253,Uproar,normal,Special,90,sound,no,no,no,1
+254,Stockpile,normal,Status,0,none,no,no,no,0
+255,Spit Up,normal,Special,0,none,no,no,no,1
+256,Swallow,normal,Status,0,none,no,no,no,0
+257,Heat Wave,fire,Special,95,normal,yes,no,no,1
+258,Hail,ice,Status,0,none,no,no,no,0
+259,Torment,dark,Status,0,none,no,no,no,0
+260,Flatter,dark,Status,0,none,no,no,no,0
+261,Will-O-Wisp,fire,Status,0,none,no,no,no,0
+262,Memento,dark,Status,0,none,no,no,no,0
+263,Facade,normal,Physical,70,normal,no,yes,no,1
+264,Focus Punch,fighting,Physical,150,punch,no,yes,no,1
+265,Smelling Salts,normal,Physical,70,normal,no,yes,no,1
+266,Follow Me,normal,Status,0,none,no,no,no,0
+267,Nature Power,normal,Status,0,terrain,no,no,no,0
+268,Charge,electric,Status,0,none,no,no,no,0
+269,Taunt,dark,Status,0,none,no,no,no,0
+270,Helping Hand,normal,Status,0,none,no,no,no,0
+271,Trick,psychic,Status,0,none,no,no,no,0
+272,Role Play,psychic,Status,0,none,no,no,no,0
+273,Wish,normal,Status,0,none,no,no,no,0
+274,Assist,normal,Status,0,none,no,no,no,0
+275,Ingrain,grass,Status,0,none,no,no,no,0
+276,Superpower,fighting,Physical,120,normal,no,yes,no,1
+277,Magic Coat,psychic,Status,0,none,no,no,no,0
+278,Recycle,normal,Status,0,none,no,no,no,0
+279,Revenge,fighting,Physical,60,normal,no,yes,no,1
+280,Brick Break,fighting,Physical,75,normal,no,yes,no,1
+281,Yawn,normal,Status,0,none,no,no,no,0
+282,Knock Off,dark,Physical,65,knock off,no,yes,no,1
+283,Endeavor,normal,Physical,0,none,no,yes,no,1
+284,Eruption,fire,Special,150,health,no,no,no,1
+285,Skill Swap,psychic,Status,0,none,no,no,no,0
+286,Imprison,psychic,Status,0,none,no,no,no,0
+287,Refresh,normal,Status,0,none,no,no,no,0
+288,Grudge,ghost,Status,0,none,no,no,no,0
+289,Snatch,dark,Status,0,none,no,no,no,0
+290,Secret Power,normal,Physical,70,normal,yes,no,no,1
+291,Dive,water,Physical,80,normal,no,yes,no,1
+292,Arm Thrust,fighting,Physical,15,normal,no,yes,yes,5
+293,Camouflage,normal,Status,0,none,no,no,no,0
+294,Tail Glow,bug,Status,0,none,no,no,no,0
+295,Luster Purge,psychic,Special,70,normal,yes,no,no,1
+296,Mist Ball,psychic,Special,70,normal,yes,no,no,1
+297,Feather Dance,flying,Status,0,none,no,no,no,0
+298,Teeter Dance,normal,Status,0,none,no,no,no,0
+299,Blaze Kick,fire,Physical,85,normal,yes,yes,no,1
+300,Mud Sport,ground,Status,0,none,no,no,no,0
+301,Ice Ball,ice,Physical,30,rollout,no,yes,no,1
+302,Needle Arm,grass,Physical,60,normal,yes,yes,no,1
+303,Slack Off,normal,Status,0,none,no,no,no,0
+304,Hyper Voice,normal,Special,90,sound,no,no,no,1
+305,Poison Fang,poison,Physical,50,bite,yes,yes,no,1
+306,Crush Claw,normal,Physical,75,normal,yes,yes,no,1
+307,Blast Burn,fire,Special,150,normal,no,no,no,1
+308,Hydro Cannon,water,Special,150,normal,no,no,no,1
+309,Meteor Mash,steel,Physical,90,punch,yes,yes,no,1
+310,Astonish,ghost,Physical,30,normal,yes,yes,no,1
+311,Weather Ball,normal,Special,50,weather,no,no,no,1
+312,Aromatherapy,grass,Status,0,none,no,no,no,0
+313,Fake Tears,dark,Status,0,none,no,no,no,0
+314,Air Cutter,flying,Special,60,slice,no,no,no,1
+315,Overheat,fire,Special,130,normal,no,no,no,1
+316,Odor Sleuth,normal,Status,0,none,no,no,no,0
+317,Rock Tomb,rock,Physical,60,normal,yes,no,no,1
+318,Silver Wind,bug,Special,60,normal,yes,no,no,1
+319,Metal Sound,steel,Status,0,none,no,no,no,0
+320,Grass Whistle,grass,Status,0,none,no,no,no,0
+321,Tickle,normal,Status,0,none,no,no,no,0
+322,Cosmic Power,psychic,Status,0,none,no,no,no,0
+323,Water Spout,water,Special,150,health,no,no,no,1
+324,Signal Beam,bug,Special,75,normal,yes,no,no,1
+325,Shadow Punch,ghost,Physical,60,punch,no,yes,no,1
+326,Extrasensory,psychic,Special,80,normal,yes,no,no,1
+327,Sky Uppercut,fighting,Physical,85,punch,no,yes,no,1
+328,Sand Tomb,ground,Physical,35,trapping,no,no,no,1
+329,Sheer Cold,ice,Special,0,ohko,no,no,no,1
+330,Muddy Water,water,Special,90,normal,yes,no,no,1
+331,Bullet Seed,grass,Physical,25,normal,no,no,yes,5
+332,Aerial Ace,flying,Physical,60,slice,no,yes,no,1
+333,Icicle Spear,ice,Physical,25,normal,no,no,yes,5
+334,Iron Defense,steel,Status,0,none,no,no,no,0
+335,Block,normal,Status,0,none,no,no,no,0
+336,Howl,normal,Status,0,none,no,no,no,0
+337,Dragon Claw,dragon,Physical,80,normal,no,yes,no,1
+338,Frenzy Plant,grass,Special,150,normal,no,no,no,1
+339,Bulk Up,fighting,Status,0,none,no,no,no,0
+340,Bounce,flying,Physical,85,normal,yes,yes,no,1
+341,Mud Shot,ground,Special,55,normal,yes,no,no,1
+342,Poison Tail,poison,Physical,50,normal,yes,yes,no,1
+343,Covet,normal,Physical,60,normal,no,yes,no,1
+344,Volt Tackle,electric,Physical,120,recoil,yes,yes,no,1
+345,Magical Leaf,grass,Special,60,normal,no,no,no,1
+346,Water Sport,water,Status,0,none,no,no,no,0
+347,Calm Mind,psychic,Status,0,none,no,no,no,0
+348,Leaf Blade,grass,Physical,90,slice,no,yes,no,1
+349,Dragon Dance,dragon,Status,0,none,no,no,no,0
+350,Rock Blast,rock,Physical,25,normal,no,no,yes,5
+351,Shock Wave,electric,Special,60,normal,no,no,no,1
+352,Water Pulse,water,Special,60,pulse,yes,no,no,1
+353,Doom Desire,steel,Special,140,normal,no,no,no,1
+354,Psycho Boost,psychic,Special,140,normal,no,no,no,1
+355,Roost,flying,Status,0,none,no,no,no,0
+356,Gravity,psychic,Status,0,none,no,no,no,0
+357,Miracle Eye,psychic,Status,0,none,no,no,no,0
+358,Wake-Up Slap,fighting,Physical,70,normal,no,yes,no,1
+359,Hammer Arm,fighting,Physical,100,punch,no,yes,no,1
+360,Gyro Ball,steel,Physical,0,none,no,yes,no,1
+361,Healing Wish,psychic,Status,0,none,no,no,no,0
+362,Brine,water,Special,65,brine,no,no,no,1
+363,Natural Gift,normal,Physical,0,none,no,no,no,1
+364,Feint,normal,Physical,30,normal,no,no,no,1
+365,Pluck,flying,Physical,60,normal,no,yes,no,1
+366,Tailwind,flying,Status,0,none,no,no,no,0
+367,Acupressure,normal,Status,0,none,no,no,no,0
+368,Metal Burst,steel,Physical,0,none,no,no,no,1
+369,U-turn,bug,Physical,70,normal,no,yes,no,1
+370,Close Combat,fighting,Physical,120,normal,no,yes,no,1
+371,Payback,dark,Physical,50,normal,no,yes,no,1
+372,Assurance,dark,Physical,60,normal,no,yes,no,1
+373,Embargo,dark,Status,0,none,no,no,no,0
+374,Fling,dark,Physical,0,item,no,no,no,1
+375,Psycho Shift,psychic,Status,0,none,no,no,no,0
+376,Trump Card,normal,Special,0,pp,no,yes,no,1
+377,Heal Block,psychic,Status,0,none,no,no,no,0
+378,Wring Out,normal,Special,0,none,no,yes,no,1
+379,Power Trick,psychic,Status,0,none,no,no,no,0
+380,Gastro Acid,poison,Status,0,none,no,no,no,0
+381,Lucky Chant,normal,Status,0,none,no,no,no,0
+382,Me First,normal,Status,0,none,no,no,no,0
+383,Copycat,normal,Status,0,none,no,no,no,0
+384,Power Swap,psychic,Status,0,none,no,no,no,0
+385,Guard Swap,psychic,Status,0,none,no,no,no,0
+386,Punishment,dark,Physical,0,punishment,no,yes,no,1
+387,Last Resort,normal,Physical,140,normal,no,yes,no,1
+388,Worry Seed,grass,Status,0,none,no,no,no,0
+389,Sucker Punch,dark,Physical,70,normal,no,yes,no,1
+390,Toxic Spikes,poison,Status,0,none,no,no,no,0
+391,Heart Swap,psychic,Status,0,none,no,no,no,0
+392,Aqua Ring,water,Status,0,none,no,no,no,0
+393,Magnet Rise,electric,Status,0,none,no,no,no,0
+394,Flare Blitz,fire,Physical,120,recoil,yes,yes,no,1
+395,Force Palm,fighting,Physical,60,normal,yes,yes,no,1
+396,Aura Sphere,fighting,Special,80,pulse,no,no,no,1
+397,Rock Polish,rock,Status,0,none,no,no,no,0
+398,Poison Jab,poison,Physical,80,normal,yes,yes,no,1
+399,Dark Pulse,dark,Special,80,pulse,yes,no,no,1
+400,Night Slash,dark,Physical,70,slice,no,yes,no,1
+401,Aqua Tail,water,Physical,90,normal,no,yes,no,1
+402,Seed Bomb,grass,Physical,80,normal,no,no,no,1
+403,Air Slash,flying,Special,75,slice,yes,no,no,1
+404,X-Scissor,bug,Physical,80,slice,no,yes,no,1
+405,Bug Buzz,bug,Special,90,sound,yes,no,no,1
+406,Dragon Pulse,dragon,Special,85,pulse,no,no,no,1
+407,Dragon Rush,dragon,Physical,100,normal,yes,yes,no,1
+408,Power Gem,rock,Special,80,normal,no,no,no,1
+409,Drain Punch,fighting,Physical,75,punch,no,yes,no,1
+410,Vacuum Wave,fighting,Special,40,normal,no,no,no,1
+411,Focus Blast,fighting,Special,120,normal,yes,no,no,1
+412,Energy Ball,grass,Special,90,normal,yes,no,no,1
+413,Brave Bird,flying,Physical,120,recoil,no,yes,no,1
+414,Earth Power,ground,Special,90,normal,yes,no,no,1
+415,Switcheroo,dark,Status,0,none,no,no,no,0
+416,Giga Impact,normal,Physical,150,normal,no,yes,no,1
+417,Nasty Plot,dark,Status,0,none,no,no,no,0
+418,Bullet Punch,steel,Physical,40,punching,no,yes,no,1
+419,Avalanche,ice,Physical,60,normal,no,yes,no,1
+420,Ice Shard,ice,Physical,40,normal,no,no,no,1
+421,Shadow Claw,ghost,Physical,70,normal,no,yes,no,1
+422,Thunder Fang,electric,Physical,65,bite,yes,yes,no,1
+423,Ice Fang,ice,Physical,65,bite,yes,yes,no,1
+424,Fire Fang,fire,Physical,65,bite,yes,yes,no,1
+425,Shadow Sneak,ghost,Physical,40,normal,no,yes,no,1
+426,Mud Bomb,ground,Special,65,normal,yes,no,no,1
+427,Psycho Cut,psychic,Physical,70,slice,no,no,no,1
+428,Zen Headbutt,psychic,Physical,80,normal,yes,yes,no,1
+429,Mirror Shot,steel,Special,65,normal,yes,no,no,1
+430,Flash Cannon,steel,Special,80,normal,yes,no,no,1
+431,Rock Climb,normal,Physical,90,normal,yes,yes,no,1
+432,Defog,flying,Status,0,none,no,no,no,0
+433,Trick Room,psychic,Status,0,none,no,no,no,0
+434,Draco Meteor,dragon,Special,130,normal,no,no,no,1
+435,Discharge,electric,Special,80,normal,yes,no,no,1
+436,Lava Plume,fire,Special,80,normal,yes,no,no,1
+437,Leaf Storm,grass,Special,130,normal,no,no,no,1
+438,Power Whip,grass,Physical,120,normal,no,yes,no,1
+439,Rock Wrecker,rock,Physical,150,normal,no,no,no,1
+440,Cross Poison,poison,Physical,70,slice,yes,yes,no,1
+441,Gunk Shot,poison,Physical,120,normal,yes,no,no,1
+442,Iron Head,steel,Physical,80,normal,yes,yes,no,1
+443,Magnet Bomb,steel,Physical,60,normal,no,no,no,1
+444,Stone Edge,rock,Physical,100,normal,no,no,no,1
+445,Captivate,normal,Status,0,none,no,no,no,0
+446,Stealth Rock,rock,Status,0,none,no,no,no,0
+447,Grass Knot,grass,Special,0,weight,no,yes,no,1
+448,Chatter,flying,Special,65,normal,yes,no,no,1
+449,Judgment,normal,Special,100,plate,no,no,no,1
+450,Bug Bite,bug,Physical,60,normal,no,yes,no,1
+451,Charge Beam,electric,Special,50,normal,yes,no,no,1
+452,Wood Hammer,grass,Physical,120,recoil,no,yes,no,1
+453,Aqua Jet,water,Physical,40,normal,no,yes,no,1
+454,Attack Order,bug,Physical,90,normal,no,no,no,1
+455,Defend Order,bug,Status,0,none,no,no,no,0
+456,Heal Order,bug,Status,0,none,no,no,no,0
+457,Head Smash,rock,Physical,150,recoil,no,yes,no,1
+458,Double Hit,normal,Physical,35,normal,no,yes,yes,2
+459,Roar of Time,dragon,Special,150,normal,no,no,no,1
+460,Spacial Rend,dragon,Special,100,normal,no,no,no,1
+461,Lunar Dance,psychic,Status,0,none,no,no,no,0
+462,Crush Grip,normal,Physical,0,none,no,yes,no,1
+463,Magma Storm,fire,Special,100,trapping,no,no,no,1
+464,Dark Void,dark,Status,0,none,no,no,no,0
+465,Seed Flare,grass,Special,120,normal,yes,no,no,1
+466,Ominous Wind,ghost,Special,60,normal,yes,no,no,1
+467,Shadow Force,ghost,Physical,120,normal,no,yes,no,1
+468,Hone Claws,dark,Status,0,none,no,no,no,0
+469,Wide Guard,rock,Status,0,none,no,no,no,0
+470,Guard Split,psychic,Status,0,none,no,no,no,0
+471,Power Split,psychic,Status,0,none,no,no,no,0
+472,Wonder Room,psychic,Status,0,none,no,no,no,0
+473,Psyshock,psychic,Special,80,defense,no,no,no,1
+474,Venoshock,poison,Special,65,venoshock,no,no,no,1
+475,Autotomize,steel,Status,0,none,no,no,no,0
+476,Rage Powder,bug,Status,0,none,no,no,no,0
+477,Telekinesis,psychic,Status,0,none,no,no,no,0
+478,Magic Room,psychic,Status,0,none,no,no,no,0
+479,Smack Down,rock,Physical,50,normal,no,no,no,1
+480,Storm Throw,fighting,Physical,60,always crits,no,yes,no,1
+481,Flame Burst,fire,Special,70,normal,no,no,no,1
+482,Sludge Wave,poison,Special,95,normal,no,no,no,1
+483,Quiver Dance,bug,Status,0,none,no,no,no,0
+484,Heavy Slam,steel,Physical,0,heavy slam,no,yes,no,1
+485,Synchronoise,psychic,Special,120,synchronoise,no,no,no,1
+486,Electro Ball,electric,Special,0,speed,no,no,no,1
+487,Soak,water,Status,0,none,no,no,no,0
+488,Flame Charge,fire,Physical,50,normal,yes,yes,no,1
+489,Coil,poison,Status,0,none,no,no,no,0
+490,Low Sweep,fighting,Physical,65,normal,yes,yes,no,1
+491,Acid Spray,poison,Special,40,normal,yes,no,no,1
+492,Foul Play,dark,Physical,95,foul play,no,yes,no,1
+493,Simple Beam,normal,Status,0,none,no,no,no,0
+494,Entrainment,normal,Status,0,none,no,no,no,0
+495,After You,normal,Status,0,none,no,no,no,0
+496,Round,normal,Special,60,sound,no,no,no,1
+497,Echoed Voice,normal,Special,40,sound,no,no,no,1
+498,Chip Away,normal,Physical,70,normal,no,yes,no,1
+499,Clear Smog,poison,Special,50,normal,no,no,no,1
+500,Stored Power,psychic,Special,20,stats,no,no,no,1
+501,Quick Guard,fighting,Status,0,none,no,no,no,0
+502,Ally Switch,psychic,Status,0,none,no,no,no,0
+503,Scald,water,Special,80,normal,yes,no,no,1
+504,Shell Smash,normal,Status,0,none,no,no,no,0
+505,Heal Pulse,psychic,Status,0,none,no,no,no,0
+506,Hex,ghost,Special,65,normal,no,no,no,1
+507,Sky Drop,flying,Physical,60,sky drop,no,yes,no,1
+508,Shift Gear,steel,Status,0,none,no,no,no,0
+509,Circle Throw,fighting,Physical,60,normal,no,yes,no,1
+510,Incinerate,fire,Special,60,normal,no,no,no,1
+511,Quash,dark,Status,0,none,no,no,no,0
+512,Acrobatics,flying,Physical,55,acrobatics,no,yes,no,1
+513,Reflect Type,normal,Status,0,none,no,no,no,0
+514,Retaliate,normal,Physical,70,normal,no,yes,no,1
+515,Final Gambit,fighting,Special,0,hp,no,no,no,1
+516,Bestow,normal,Status,0,none,no,no,no,0
+517,Inferno,fire,Special,100,normal,yes,no,no,1
+518,Water Pledge,water,Special,80,normal,no,no,no,1
+519,Fire Pledge,fire,Special,80,normal,no,no,no,1
+520,Grass Pledge,grass,Special,80,normal,no,no,no,1
+521,Volt Switch,electric,Special,70,normal,no,no,no,1
+522,Struggle Bug,bug,Special,50,normal,yes,no,no,1
+523,Bulldoze,ground,Physical,60,normal,yes,no,no,1
+524,Frost Breath,ice,Special,60,always crits,no,no,no,1
+525,Dragon Tail,dragon,Physical,60,normal,no,yes,no,1
+526,Work Up,normal,Status,0,none,no,no,no,0
+527,Electroweb,electric,Special,55,normal,yes,no,no,1
+528,Wild Charge,electric,Physical,90,recoil,no,yes,no,1
+529,Drill Run,ground,Physical,80,normal,no,yes,no,1
+530,Dual Chop,dragon,Physical,40,normal,no,yes,yes,2
+531,Heart Stamp,psychic,Physical,60,normal,yes,yes,no,1
+532,Horn Leech,grass,Physical,75,normal,no,yes,no,1
+533,Sacred Sword,fighting,Physical,90,slice,no,yes,no,1
+534,Razor Shell,water,Physical,75,slice,yes,yes,no,1
+535,Heat Crash,fire,Physical,0,heat crash,no,yes,no,1
+536,Leaf Tornado,grass,Special,65,normal,yes,no,no,1
+537,Steamroller,bug,Physical,65,normal,yes,yes,no,1
+538,Cotton Guard,grass,Status,0,none,no,no,no,0
+539,Night Daze,dark,Special,85,normal,yes,no,no,1
+540,Psystrike,psychic,Special,100,normal,no,no,no,1
+541,Tail Slap,normal,Physical,25,normal,no,yes,yes,5
+542,Hurricane,flying,Special,110,normal,yes,no,no,1
+543,Head Charge,normal,Physical,120,recoil,no,yes,no,1
+544,Gear Grind,steel,Physical,50,normal,no,yes,yes,2
+545,Searing Shot,fire,Special,100,normal,yes,no,no,1
+546,Techno Blast,normal,Special,120,techno blast,no,no,no,1
+547,Relic Song,normal,Special,75,sound,yes,no,no,1
+548,Secret Sword,fighting,Special,85,normal,no,no,no,1
+549,Glaciate,ice,Special,65,normal,yes,no,no,1
+550,Bolt Strike,electric,Physical,130,normal,yes,yes,no,1
+551,Blue Flare,fire,Special,130,normal,yes,no,no,1
+552,Fiery Dance,fire,Special,80,normal,yes,no,no,1
+553,Freeze Shock,ice,Physical,140,normal,yes,no,no,1
+554,Ice Burn,ice,Special,140,normal,yes,no,no,1
+555,Snarl,dark,Special,55,sound,yes,no,no,1
+556,Icicle Crash,ice,Physical,85,normal,yes,no,no,1
+557,V-create,fire,Physical,180,normal,no,yes,no,1
+558,Fusion Flare,fire,Special,100,normal,no,no,no,1
+559,Fusion Bolt,electric,Physical,100,normal,no,no,no,1
+560,Flying Press,fighting,Physical,100,flying press,no,yes,no,1
+561,Mat Block,fighting,Status,0,none,no,no,no,0
+562,Belch,poison,Special,120,normal,no,no,no,1
+563,Rototiller,ground,Status,0,none,no,no,no,0
+564,Sticky Web,bug,Status,0,none,no,no,no,0
+565,Fell Stinger,bug,Physical,50,normal,no,yes,no,1
+566,Phantom Force,ghost,Physical,90,normal,no,yes,no,1
+567,Trick-or-Treat,ghost,Status,0,none,no,no,no,0
+568,Noble Roar,normal,Status,0,none,no,no,no,0
+569,Ion Deluge,electric,Status,0,none,no,no,no,0
+570,Parabolic Charge,electric,Special,65,normal,no,no,no,1
+571,Forest's Curse,grass,Status,0,none,no,no,no,0
+572,Petal Blizzard,grass,Physical,90,normal,no,no,no,1
+573,Freeze-Dry,ice,Special,70,freeze dry,yes,no,no,1
+574,Disarming Voice,fairy,Special,40,sound,no,no,no,1
+575,Parting Shot,dark,Status,0,none,no,no,no,0
+576,Topsy-Turvy,dark,Status,0,none,no,no,no,0
+577,Draining Kiss,fairy,Special,50,normal,no,yes,no,1
+578,Crafty Shield,fairy,Status,0,none,no,no,no,0
+579,Flower Shield,fairy,Status,0,none,no,no,no,0
+580,Grassy Terrain,grass,Status,0,none,no,no,no,0
+581,Misty Terrain,fairy,Status,0,none,no,no,no,0
+582,Electrify,electric,Status,0,none,no,no,no,0
+583,Play Rough,fairy,Physical,90,normal,yes,yes,no,1
+584,Fairy Wind,fairy,Special,40,normal,no,no,no,1
+585,Moonblast,fairy,Special,95,normal,yes,no,no,1
+586,Boomburst,normal,Special,140,sound,no,no,no,1
+587,Fairy Lock,fairy,Status,0,none,no,no,no,0
+588,King's Shield,steel,Status,0,none,no,no,no,0
+589,Play Nice,normal,Status,0,none,no,no,no,0
+590,Confide,normal,Status,0,none,no,no,no,0
+591,Diamond Storm,rock,Physical,100,normal,yes,no,no,1
+592,Steam Eruption,water,Special,110,normal,yes,no,no,1
+593,Hyperspace Hole,psychic,Special,80,normal,no,no,no,1
+594,Water Shuriken,water,Special,15,normal,no,no,yes,5
+595,Mystical Fire,fire,Special,75,normal,yes,no,no,1
+596,Spiky Shield,grass,Status,0,none,no,no,no,0
+597,Aromatic Mist,fairy,Status,0,none,no,no,no,0
+598,Eerie Impulse,electric,Status,0,none,no,no,no,0
+599,Venom Drench,poison,Status,0,none,no,no,no,0
+600,Powder,bug,Status,0,none,no,no,no,0
+601,Geomancy,fairy,Status,0,none,no,no,no,0
+602,Magnetic Flux,electric,Status,0,none,no,no,no,0
+603,Happy Hour,normal,Status,0,none,no,no,no,0
+604,Electric Terrain,electric,Status,0,none,no,no,no,0
+605,Dazzling Gleam,fairy,Special,80,normal,no,no,no,1
+606,Celebrate,normal,Status,0,none,no,no,no,0
+607,Hold Hands,normal,Status,0,none,no,no,no,0
+608,Baby-Doll Eyes,fairy,Status,0,none,no,no,no,0
+609,Nuzzle,electric,Physical,20,normal,yes,yes,no,1
+610,Hold Back,normal,Physical,40,normal,no,yes,no,1
+611,Infestation,bug,Special,20,trapping,no,yes,no,1
+612,Power-Up Punch,fighting,Physical,40,punch,yes,yes,no,1
+613,Oblivion Wing,flying,Special,80,oblivion wing,no,no,no,1
+614,Thousand Arrows,ground,Physical,90,thousand arrows,no,no,no,1
+615,Thousand Waves,ground,Physical,90,normal,no,no,no,1
+616,Land's Wrath,ground,Physical,90,normal,no,no,no,1
+617,Light of Ruin,fairy,Special,140,recoil,no,no,no,1
+618,Origin Pulse,water,Special,110,pulse,no,no,no,1
+619,Precipice Blades,ground,Physical,120,normal,no,no,no,1
+620,Dragon Ascent,flying,Physical,120,normal,no,yes,no,1
+621,Hyperspace Fury,dark,Physical,100,normal,no,yes,no,1
+622,Breakneck Blitz,normal,Physical,0,z move,no,yes,no,1
+623,Breakneck Blitz,normal,Special,0,z move,no,no,no,1
+624,All-Out Pummeling,fighting,Physical,0,z move,no,no,no,1
+625,All-Out Pummeling,fighting,Special,0,z move,no,no,no,1
+626,Supersonic Skystrike,flying,Physical,0,z move,no,no,no,1
+627,Supersonic Skystrike,flying,Special,0,z move,no,no,no,1
+628,Acid Downpour,poison,Physical,0,z move,no,no,no,1
+629,Acid Downpour,poison,Special,0,z move,no,no,no,1
+630,Tectonic Rage,ground,Physical,0,z move,no,no,no,1
+631,Tectonic Rage,ground,Special,0,z move,no,no,no,1
+632,Continental Crush,rock,Physical,0,z move,no,no,no,1
+633,Continental Crush,rock,Special,0,z move,no,no,no,1
+634,Savage Spin-Out,bug,Physical,0,z move,no,no,no,1
+635,Savage Spin-Out,bug,Special,0,z move,no,no,no,1
+636,Never-Ending Nightmare,ghost,Physical,0,z move,no,no,no,1
+637,Never-Ending Nightmare,ghost,Special,0,z move,no,no,no,1
+638,Corkscrew Crash,steel,Physical,0,z move,no,no,no,1
+639,Corkscrew Crash,steel,Special,0,z move,no,no,no,1
+640,Inferno Overdrive,fire,Physical,0,z move,no,no,no,1
+641,Inferno Overdrive,fire,Special,0,z move,no,no,no,1
+642,Hydro Vortex,water,Physical,0,z move,no,no,no,1
+643,Hydro Vortex,water,Special,0,z move,no,no,no,1
+644,Bloom Doom,grass,Physical,0,z move,no,no,no,1
+645,Bloom Doom,grass,Special,0,z move,no,no,no,1
+646,Gigavolt Havoc,electric,Physical,0,z move,no,no,no,1
+647,Gigavolt Havoc,electric,Special,0,z move,no,no,no,1
+648,Shattered Psyche,psychic,Physical,0,z move,no,no,no,1
+649,Shattered Psyche,psychic,Special,0,z move,no,no,no,1
+650,Subzero Slammer,ice,Physical,0,z move,no,no,no,1
+651,Subzero Slammer,ice,Special,0,z move,no,no,no,1
+652,Devastating Drake,dragon,Physical,0,z move,no,no,no,1
+653,Devastating Drake,dragon,Special,0,z move,no,no,no,1
+654,Black Hole Eclipse,dark,Physical,0,z move,no,no,no,1
+655,Black Hole Eclipse,dark,Special,0,z move,no,no,no,1
+656,Twinkle Tackle,fairy,Physical,0,z move,no,no,no,1
+657,Twinkle Tackle,fairy,Special,0,z move,no,no,no,1
+658,Catastropika,electric,Physical,210,normal,no,yes,no,1
+659,Shore Up,ground,Status,0,none,no,no,no,0
+660,First Impression,bug,Physical,90,normal,no,yes,no,1
+661,Baneful Bunker,poison,Status,0,none,no,no,no,0
+662,Spirit Shackle,ghost,Physical,80,normal,yes,no,no,1
+663,Darkest Lariat,dark,Physical,85,darkest lariat,no,yes,no,1
+664,Sparkling Aria,water,Special,90,sound,yes,no,no,1
+665,Ice Hammer,ice,Physical,100,punch,no,yes,no,1
+666,Floral Healing,fairy,Status,0,none,no,no,no,0
+667,High Horsepower,ground,Physical,95,normal,no,yes,no,1
+668,Strength Sap,grass,Status,0,none,no,no,no,0
+669,Solar Blade,grass,Physical,125,slice,no,yes,no,1
+670,Leafage,grass,Physical,40,normal,no,no,no,1
+671,Spotlight,normal,Status,0,none,no,no,no,0
+672,Toxic Thread,poison,Status,0,none,no,no,no,0
+673,Laser Focus,normal,Status,0,none,no,no,no,0
+674,Gear Up,steel,Status,0,none,no,no,no,0
+675,Throat Chop,dark,Physical,80,yes,no,yes,no,1
+676,Pollen Puff,bug,Special,90,normal,no,no,no,1
+677,Anchor Shot,steel,Physical,80,normal,yes,yes,no,1
+678,Psychic Terrain,psychic,Status,0,none,no,no,no,0
+679,Lunge,bug,Physical,80,normal,yes,yes,no,1
+680,Fire Lash,fire,Physical,80,normal,yes,yes,no,1
+681,Power Trip,dark,Physical,20,stats,no,yes,no,1
+682,Burn Up,fire,Special,130,normal,no,no,no,1
+683,Speed Swap,psychic,Status,0,none,no,no,no,0
+684,Smart Strike,steel,Physical,70,normal,no,yes,no,1
+685,Purify,poison,Status,0,none,no,no,no,0
+686,Revelation Dance,normal,Special,90,revelation dance,no,no,no,1
+687,Core Enforcer,dragon,Special,100,normal,no,no,no,1
+688,Trop Kick,grass,Physical,70,normal,yes,yes,no,1
+689,Instruct,psychic,Status,0,none,no,yes,no,0
+690,Beak Blast,flying,Physical,100,normal,no,no,no,1
+691,Clanging Scales,dragon,Special,110,sound,no,no,no,1
+692,Dragon Hammer,dragon,Physical,90,normal,no,yes,no,1
+693,Brutal Swing,dark,Physical,60,normal,no,yes,no,1
+694,Aurora Veil,ice,Status,0,none,no,no,no,0
+695,Sinister Arrow Raid,ghost,Physical,180,normal,no,no,no,1
+696,Malicious Moonsault,dark,Physical,180,normal,no,yes,no,1
+697,Oceanic Operetta,water,Special,195,normal,no,no,no,1
+698,Guardian of Alola,fairy,Special,0,guardian of alola,no,no,no,1
+699,Soul-Stealing 7-Star Strike,ghost,Physical,195,normal,no,yes,no,1
+700,Stoked Sparksurfer,electric,Special,175,normal,yes,no,no,1
+701,Pulverizing Pancake,normal,Physical,210,normal,no,yes,no,1
+702,Extreme Evoboost,normal,Status,0,none,no,yes,no,0
+703,Genesis Supernova,psychic,Special,185,normal,yes,no,no,1
+704,Shell Trap,fire,Special,150,normal,no,no,no,1
+705,Fleur Cannon,fairy,Special,130,normal,no,no,no,1
+706,Psychic Fangs,psychic,Physical,85,bite,no,yes,no,1
+707,Stomping Tantrum,ground,Physical,75,normal,no,yes,no,1
+708,Shadow Bone,ghost,Physical,85,normal,yes,no,no,1
+709,Accelerock,rock,Physical,40,normal,no,yes,no,1
+710,Liquidation,water,Physical,85,normal,yes,yes,no,1
+711,Prismatic Laser,psychic,Special,160,normal,no,no,no,1
+712,Spectral Thief,ghost,Physical,90,normal,no,yes,no,1
+713,Sunsteel Strike,steel,Physical,100,normal,no,yes,no,1
+714,Moongeist Beam,ghost,Special,100,normal,no,no,no,1
+715,Tearful Look,normal,Status,0,none,no,no,no,0
+716,Zing Zap,electric,Physical,80,normal,no,yes,no,1
+717,Nature's Madness,fairy,Special,0,half,no,no,no,1
+718,Multi-Attack,normal,Physical,120,multi-attack,no,yes,no,1
+719,10.000.000 Volt Thunderbolt,electric,Special,195,normal,no,no,no,1
+720,Mind Blown,fire,Special,150,big recoil,no,no,no,1
+721,Plasma Fists,electric,Physical,100,punch,no,yes,no,1
+722,Photon Geyser,psychic,Special,100,photon geyser,no,no,no,1
+723,Light That Burns the Sky,psychic,Special,200,light that burns the sky,no,no,no,1
+724,Searing Sunraze Smash,steel,Physical,200,searing sunraze smash,no,yes,no,1
+725,Menacing Moonraze Maelstrom,ghost,Special,200,menacing moonraze maelstrom,no,no,no,1
+726,Let's Snuggle Forever,fairy,Physical,190,normal,no,yes,no,1
+727,Splintered Stormshards,rock,Physical,190,normal,no,no,no,1
+728,Clangorous Soulblaze,dragon,Special,185,normal,yes,no,no,1
+729,Zippy Zap,electric,Physical,80,always crits,no,yes,no,1
+730,Splishy Splash,water,Special,90,normal,yes,no,no,1
+731,Floaty Fall,flying,Physical,90,normal,yes,yes,no,1
+732,Pika Papow,electric,Special,0,happiness,no,no,no,1
+733,Bouncy Bubble,water,Special,60,normal,no,no,no,1
+734,Buzzy Buzz,electric,Special,60,normal,yes,no,no,1
+735,Sizzly Slide,fire,Physical,60,normal,yes,yes,no,1
+736,Glitzy Glow,psychic,Special,80,normal,no,no,no,1
+737,Baddy Bad,dark,Special,80,normal,no,no,no,1
+738,Sappy Seed,grass,Physical,100,normal,no,yes,no,1
+739,Freezy Frost,ice,Special,100,normal,no,no,no,1
+740,Sparkly Swirl,fairy,Special,120,normal,no,no,no,1
+741,Veevee Volley,normal,Physical,0,happiness,no,yes,no,1
+742,Double Iron Bash,steel,Physical,60,punch,yes,yes,yes,2
+743,Max Guard,normal,Status,0,none,no,no,no,0
+744,Dynamax Cannon,dragon,Special,100,dynamax,no,no,no,1
+745,Snipe Shot,water,Special,80,normal,no,no,no,1
+746,Jaw Lock,dark,Physical,80,bite,no,yes,no,1
+747,Stuff Cheeks,normal,Status,0,none,no,no,no,0
+748,No Retreat,fighting,Status,0,none,no,no,no,0
+749,Tar Shot,rock,Status,0,none,no,no,no,0
+750,Magic Powder,psychic,Status,0,none,no,no,no,0
+751,Dragon Darts,dragon,Physical,50,normal,no,no,yes,2
+752,Teatime,normal,Status,0,none,no,no,no,0
+753,Octolock,fighting,Status,0,none,no,no,no,0
+754,Bolt Beak,electric,Physical,85,first,no,yes,no,1
+755,Fishious Rend,water,Physical,85,bite,no,yes,no,1
+756,Court Change,normal,Status,0,max move,no,no,no,0
+757,Max Flare,fire,???,0,max move,no,no,no,1
+758,Max Flutterby,bug,???,0,max move,no,no,no,1
+759,Max Lightning,electric,???,0,max move,no,no,no,1
+760,Max Strike,normal,???,0,max move,no,no,no,1
+761,Max Knuckle,fighting,???,0,max move,no,no,no,1
+762,Max Phantasm,ghost,???,0,max move,no,no,no,1
+763,Max Hailstorm,ice,???,0,max move,no,no,no,1
+764,Max Ooze,poison,???,0,max move,no,no,no,1
+765,Max Geyser,water,???,0,max move,no,no,no,1
+766,Max Airstream,flying,???,0,max move,no,no,no,1
+767,Max Starfall,fairy,???,0,max move,no,no,no,1
+768,Max Wyrmwind,dragon,???,0,max move,no,no,no,1
+769,Max Mindstorm,psychic,???,0,max move,no,no,no,1
+770,Max Rockfall,rock,???,0,max move,no,no,no,1
+771,Max Quake,ground,???,0,max move,no,no,no,1
+772,Max Darkness,dark,???,0,max move,no,no,no,1
+773,Max Overgrowth,grass,???,0,max move,no,no,no,1
+774,Max Steelspike,steel,???,0,max move,no,no,no,1
+775,Clangorous Soul,dragon,Status,0,none,no,no,no,0
+776,Body Press,fighting,Physical,80,body press,no,yes,no,1
+777,Decorate,fairy,Status,0,none,no,no,no,0
+778,Drum Beating,grass,Physical,80,normal,yes,no,no,1
+779,Snap Trap,grass,Physical,35,trapping,no,yes,no,1
+780,Pyro Ball,fire,Physical,120,normal,yes,no,no,1
+781,Behemoth Blade,steel,Physical,100,behemoth blade,no,yes,no,1
+782,Behemoth Bash,steel,Physical,100,dynamax,no,yes,no,1
+783,Aura Wheel,electric,Physical,110,aura wheel,yes,no,no,1
+784,Breaking Swipe,dragon,Physical,60,normal,yes,yes,no,1
+785,Branch Poke,grass,Physical,40,normal,no,yes,no,1
+786,Overdrive,electric,Special,80,sound,no,no,no,1
+787,Apple Acid,grass,Special,80,normal,yes,no,no,1
+788,Grav Apple,grass,Physical,80,grav apple,yes,no,no,1
+789,Spirit Break,fairy,Physical,75,normal,yes,yes,no,1
+790,Strange Steam,fairy,Special,90,normal,yes,no,no,1
+791,Life Dew,water,Status,0,none,no,no,no,0
+792,Obstruct,dark,Status,0,none,no,no,no,0
+793,False Surrender,dark,Physical,80,normal,no,yes,no,1
+794,Meteor Assault,fighting,Physical,150,normal,no,no,no,1
+795,Eternabeam,dragon,Special,160,normal,no,no,no,1
+796,Steel Beam,steel,Special,140,big recoil,no,no,no,1
+797,Expanding Force,psychic,Special,80,expanding force,no,no,no,1
+798,Steel Roller,steel,Physical,130,steel roller,no,yes,no,1
+799,Scale Shot,dragon,Physical,25,normal,no,no,yes,5
+800,Meteor Beam,rock,Special,120,normal,no,no,no,1
+801,Shell Side Arm,poison,Special,90,shell side arm,yes,no,no,1
+802,Misty Explosion,fairy,Special,100,misty explosion,no,no,no,1
+803,Grassy Glide,grass,Physical,60,normal,no,yes,no,1
+804,Rising Voltage,electric,Special,70,rising voltage,no,no,no,1
+805,Terrain Pulse,normal,Special,50,terrain pulse,no,no,no,1
+806,Skitter Smack,bug,Physical,70,normal,no,yes,no,1
+807,Burning Jealousy,fire,Special,70,normal,yes,no,no,1
+808,Lash Out,dark,Physical,75,normal,no,yes,no,1
+809,Poltergeist,ghost,Physical,110,normal,no,no,no,1
+810,Corrosive Gas,poison,Status,0,none,no,no,no,0
+811,Coaching,fighting,Status,0,none,no,no,no,0
+812,Flip Turn,water,Physical,60,normal,no,yes,no,1
+813,Triple Axel,ice,Physical,20,triple axel,no,yes,yes,3
+814,Dual Wingbeat,flying,Physical,40,normal,no,yes,yes,2
+815,Scorching Sands,ground,Special,70,normal,yes,no,no,1
+816,Jungle Healing,grass,Status,0,none,no,no,no,0
+817,Wicked Blow,dark,Physical,75,always crits,no,yes,no,1
+818,Surging Strikes,water,Physical,25,always crits,no,yes,yes,3
+819,Thunder Cage,electric,Special,80,trapping,no,no,no,1
+820,Dragon Energy,dragon,Special,150,health,no,no,no,1
+821,Freezing Glare,psychic,Special,90,normal,yes,no,no,1
+822,Fiery Wrath,dark,Special,90,normal,yes,no,no,1
+823,Thunderous Kick,fighting,Physical,90,normal,yes,yes,no,1
+824,Glacial Lance,ice,Physical,120,normal,no,yes,no,1
+825,Astral Barrage,ghost,Special,120,normal,no,no,no,1
+826,Eerie Spell,psychic,Special,80,sound,yes,no,no,1
+827,Dire Claw,poison,Physical,80,normal,yes,yes,no,1
+828,Psyshield Bash,psychic,Physical,70,normal,yes,yes,no,1
+829,Power Shift,normal,Status,0,none,no,no,no,0
+830,Stone Axe,rock,Physical,65,slice,no,yes,no,1
+831,Springtide Storm,fairy,Special,100,normal,yes,no,no,1
+832,Mystical Power,psychic,Special,70,normal,yes,no,no,1
+833,Raging Fury,fire,Physical,120,normal,no,yes,no,1
+834,Wave Crash,water,Physical,120,recoil,no,yes,no,1
+835,Chloroblast,grass,Special,150,big recoil,no,no,no,1
+836,Mountain Gale,ice,Physical,100,normal,yes,yes,no,1
+837,Victory Dance,fighting,Status,0,none,no,no,no,0
+838,Headlong Rush,ground,Physical,120,punch,no,yes,no,1
+839,Barb Barrage,poison,Physical,60,barb barrage,yes,yes,no,1
+840,Esper Wing,psychic,Special,80,normal,yes,no,no,1
+841,Bitter Malice,ghost,Special,75,bitter malice,yes,no,no,1
+842,Shelter,steel,Status,0,none,no,no,no,0
+843,Triple Arrows,fighting,Physical,90,normal,yes,yes,no,1
+844,Infernal Parade,ghost,Special,60,infernal parade,yes,no,no,1
+845,Ceaseless Edge,dark,Physical,65,slice,yes,yes,no,1
+846,Bleakwind Storm,flying,Special,100,normal,yes,no,no,1
+847,Wildbolt Storm,electric,Special,100,normal,yes,no,no,1
+848,Sandsear Storm,ground,Special,100,normal,yes,no,no,1
+849,Lunar Blessing,psychic,Status,0,none,no,no,no,0
+850,Take Heart,psychic,Status,0,none,no,no,no,0
+851,Tera Blast,normal,Special,80,tera blast,no,no,no,1
+852,Silk Trap,bug,Status,0,none,no,no,no,0
+853,Axe Kick,fighting,Physical,120,crash,yes,yes,no,1
+854,Last Respects,ghost,Physical,50,last respects,no,no,no,1
+855,Lumina Crash,psychic,Special,80,normal,yes,no,no,1
+856,Order Up,dragon,Physical,80,normal,yes,no,no,1
+857,Jet Punch,water,Physical,60,punch,yes,yes,no,1
+858,Spicy Extract,grass,Status,0,none,no,no,no,0
+859,Spin Out,steel,Physical,100,normal,no,yes,no,1
+860,Population Bomb,normal,Physical,20,slice,no,yes,yes,10
+861,Ice Spinner,ice,Physical,80,normal,no,yes,no,1
+862,Glaive Rush,dragon,Physical,120,normal,no,yes,no,1
+863,Revival Blessing,normal,Status,0,none,no,no,no,0
+864,Salt Cure,rock,Physical,40,normal,yes,no,no,1
+865,Triple Dive,water,Physical,30,normal,no,yes,yes,3
+866,Mortal Spin,poison,Physical,30,normal,yes,yes,no,1
+867,Doodle,normal,Status,0,none,no,no,no,0
+868,Fillet Away,normal,Status,0,none,no,no,no,0
+869,Kowtow Cleave,dark,Physical,85,slice,no,yes,no,1
+870,Flower Trick,grass,Physical,70,always crits,no,no,no,1
+871,Torch Song,fire,Special,80,sound,yes,no,no,1
+872,Aqua Step,water,Physical,80,normal,yes,yes,no,1
+873,Raging Bull,normal,Physical,90,raging bull,no,yes,no,1
+874,Make It Rain,steel,Special,120,normal,no,no,no,1
+875,Psyblade,psychic,Physical,80,psyblade,no,yes,no,1
+876,Hydro Steam,water,Special,80,hydro steam,no,no,no,1
+877,Ruination,dark,Special,0,ruination,no,no,no,1
+878,Collision Course,fighting,Physical,100,extraeffective,no,yes,no,1
+879,Electro Drift,electric,Special,100,extraeffective,no,yes,no,1
+880,Shed Tail,normal,Status,0,none,no,no,no,0
+881,Chilly Reception,ice,Status,0,none,no,no,no,0
+882,Tidy Up,normal,Status,0,none,no,no,no,0
+883,Snowscape,ice,Status,0,none,no,no,no,0
+884,Pounce,bug,Physical,50,normal,yes,yes,no,1
+885,Trailblaze,grass,Physical,50,normal,yes,yes,no,1
+886,Chilling Water,water,Special,50,normal,yes,no,no,1
+887,Hyper Drill,normal,Physical,100,normal,no,yes,no,1
+888,Twin Beam,psychic,Special,40,normal,no,no,yes,2
+889,Rage Fist,ghost,Physical,50,punch,no,yes,no,1
+890,Armor Cannon,fire,Special,120,normal,no,no,no,1
+891,Bitter Blade,fire,Physical,90,slice,no,yes,no,1
+892,Double Shock,electric,Physical,120,normal,no,yes,no,1
+893,Gigaton Hammer,steel,Physical,160,normal,no,no,no,1
+894,Comeuppance,dark,Physical,0,none,no,yes,no,1
+895,Aqua Cutter,water,Physical,70,slice,no,no,no,1
+896,Blazing Torque,fire,Physical,80,normal,yes,yes,no,1
+897,Wicked Torque,dark,Physical,80,normal,yes,yes,no,1
+898,Noxious Torque,poison,Physical,100,normal,yes,yes,no,1
+899,Combat Torque,fighting,Physical,100,normal,yes,yes,no,1
+900,Magical Torque,fairy,Physical,100,normal,yes,yes,no,1

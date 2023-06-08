@@ -1,0 +1,26 @@
+﻿#,Nature,Increased stat,Decreased stat,Favorite flavor,Disliked flavor
+0,Hardy,none,none,none,none
+1,Lonely,atk,def,Spicy,Sour
+2,Brave,atk,spd,Spicy,Sweet
+3,Adamant,atk,spatk,Spicy,Dry
+4,Naughty,atk,spdef,Spicy,Bitter
+5,Bold,def,atk,Sour,Spicy
+6,Docile,none,none,none,none
+7,Relaxed,def,spd,Sour,Sweet
+8,Impish,def,spatk,Sour,Dry
+9,Lax,def,spdef,Sour,Bitter
+10,Timid,spd,atk,Sweet,Spicy
+11,Hasty,spd,def,Sweet,Sour
+12,Serious,none,none,none,none
+13,Jolly,spd,spatk,Sweet,Dry
+14,Naive,spd,spdef,Sweet,Bitter
+15,Modest,spatk,atk,Dry,Spicy
+16,Mild,spatk,def,Dry,Sour
+17,Quiet,spatk,spd,Dry,Sweet
+18,Bashful,none,none,none,none
+19,Rash,spatk,spdef,Dry,Bitter
+20,Calm,spdef,atk,Bitter,Spicy
+21,Gentle,spdef,def,Bitter,Sour
+22,Sassy,spdef,spd,Bitter,Sweet
+23,Careful,spdef,spatk,Bitter,Dry
+24,Quirky,none,none,none,none

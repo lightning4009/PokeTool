@@ -1,0 +1,1484 @@
+id,Dex Number,Region,Name,Type 1,Type 2,Ability 1,Ability 2,Hidden Ability,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Total,Weight (lb.),Height (m)
+1,1,Kanto,Bulbasaur,grass,poison,Overgrow,,Chlorophyll,45,49,49,65,65,45,318,15.2,0.7
+2,2,Kanto,Ivysaur,grass,poison,Overgrow,,Chlorophyll,60,62,63,80,80,60,405,28.7,1
+3,3,Kanto,Venusaur-M,grass,poison,Overgrow,,Chlorophyll,80,82,83,100,100,80,525,220.5,2
+4,3,Kanto,Venusaur-F,grass,poison,Overgrow,,Chlorophyll,80,82,83,100,100,80,525,220.5,2
+5,3,Kanto,Mega Venusaur,grass,poison,Thick Fat,,,80,100,123,122,120,80,625,342.8,2.4
+6,4,Kanto,Charmander,fire,,Blaze,,Solar Power,39,52,43,60,50,65,309,18.7,0.6
+7,5,Kanto,Charmeleon,fire,,Blaze,,Solar Power,58,64,58,80,65,80,405,41.9,1.1
+8,6,Kanto,Charizard,fire,flying,Blaze,,Solar Power,78,84,78,109,85,100,534,199.5,1.7
+9,6,Kanto,Mega Charizard X,fire,dragon,Tough Claws,,,78,130,111,130,85,100,634,243.6,1.7
+10,6,Kanto,Mega Charizard Y,fire,flying,Drought,,,78,104,78,159,115,100,634,221.6,1.7
+11,7,Kanto,Squirtle,water,,Torrent,,Rain Dish,44,48,65,50,64,43,314,19.8,0.5
+12,8,Kanto,Wartortle,water,,Torrent,,Rain Dish,59,63,80,65,80,58,405,49.6,1
+13,9,Kanto,Blastoise,water,,Torrent,,Rain Dish,79,83,100,85,105,78,530,188.5,1.6
+14,9,Kanto,Mega Blastoise,water,,Mega Launcher,,,79,103,120,135,115,78,630,222.9,1.6
+15,10,Kanto,Caterpie,bug,,Shield Dust,,Run Away,45,30,35,20,20,45,195,6.4,0.3
+16,11,Kanto,Metapod,bug,,Shed Skin,,,50,20,55,25,25,30,205,21.8,0.7
+17,12,Kanto,Butterfree-M,bug,flying,Compound Eyes,,Tinted Lens,60,45,50,90,80,70,395,70.5,1.1
+18,12,Kanto,Butterfree-F,bug,flying,Compound Eyes,,Tinted Lens,60,45,50,90,80,70,395,70.5,1.1
+19,13,Kanto,Weedle,bug,poison,Shield Dust,,Run Away,40,35,30,20,20,50,195,7.1,0.3
+20,14,Kanto,Kakuna,bug,poison,Shed Skin,,,45,25,50,25,25,35,205,22,0.6
+21,15,Kanto,Beedrill,bug,poison,Swarm,,Sniper,65,90,40,45,80,75,395,65,1
+22,15,Kanto,Mega Beedrill,bug,poison,Adaptability,,,65,150,40,15,80,145,495,89.3,1.4
+23,16,Kanto,Pidgey,normal,flying,Keen Eye,Tangled Feet,Big Pecks,40,45,40,35,35,56,251,4,0.3
+24,17,Kanto,Pidgeotto,normal,flying,Keen Eye,Tangled Feet,Big Pecks,63,60,55,50,50,71,349,66.1,1.1
+25,18,Kanto,Pidgeot,normal,flying,Keen Eye,Tangled Feet,Big Pecks,83,80,75,70,70,101,479,87.1,1.5
+26,18,Kanto,Mega Pidgeot,normal,flying,No Guard,,,83,80,80,135,80,121,579,111.3,2.2
+27,19,Kanto,Rattata-M,normal,,Run Away,Guts,Hustle,30,56,35,25,35,72,253,7.7,0.3
+28,19,Kanto,Rattata-F,normal,,Run Away,Guts,Hustle,30,56,35,25,35,72,253,7.7,0.3
+29,19,Alola,Alolan Rattata,normal,dark,Gluttony,Hustle,Thick Fat,30,56,35,25,35,72,253,8.4,0.3
+30,20,Kanto,Raticate-M,normal,,Run Away,Guts,Hustle,55,81,60,50,70,97,413,40.8,0.7
+31,20,Kanto,Raticate-F,normal,,Run Away,Guts,Hustle,55,81,60,50,70,97,413,40.8,0.7
+32,20,Alola,Alolan Raticate,normal,dark,Gluttony,Hustle,Thick Fat,75,71,70,40,80,77,413,56.2,0.7
+33,21,Kanto,Spearow,normal,flying,Keen Eye,,Sniper,40,60,30,31,31,70,262,4.4,0.3
+34,22,Kanto,Fearow,normal,flying,Keen Eye,,Sniper,65,90,65,61,61,100,442,83.8,1.2
+35,23,Kanto,Ekans,poison,,Intimidate,Shed Skin,Unnerve,35,60,44,40,54,55,288,15.2,2
+36,24,Kanto,Arbok,poison,,Intimidate,Shed Skin,Unnerve,60,95,69,65,79,80,448,143.3,3.5
+37,25,Kanto,Pikachu-M,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+38,25,Kanto,Pikachu-F,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+39,25,Kanto,Pikachu-Cosplay,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+40,25,Kanto,Pikachu-Rock Star,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+41,25,Kanto,Pikachu-Belle,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+42,25,Kanto,Pikachu-Pop Star,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+43,25,Kanto,Pikachu-Ph. D,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+44,25,Kanto,Pikachu-Libre,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+45,25,Kanto,Pikachu-Original Cap,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+46,25,Kanto,Pikachu-Hoenn Cap,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+47,25,Kanto,Pikachu-Sinnoh Cap,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+48,25,Kanto,Pikachu-Unova Cap,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+49,25,Kanto,Pikachu-Kalos Cap,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+50,25,Kanto,Pikachu-Alola Cap,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+51,25,Kanto,Pikachu-Partner Cap,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+52,25,Kanto,Pikachu-World Cap,electric,,Static,,Lightning Rod,35,55,40,50,50,90,320,13.2,0.4
+53,26,Kanto,Raichu-M,electric,,Static,,Lightning Rod,60,90,55,90,80,110,485,66.1,0.8
+54,26,Kanto,Raichu-F,electric,,Static,,Lightning Rod,60,90,55,90,80,110,485,66.1,0.8
+55,26,Alola,Alolan Raichu,electric,psychic,Surge Surfer,,,60,85,50,95,85,110,485,46.3,0.7
+56,27,Kanto,Sandshrew,ground,,Sand Veil,,Sand Rush,50,75,85,20,30,40,300,26.5,0.6
+57,27,Alola,Alolan Sandshrew,ice,,Snow Cloak,,Slush Rush,50,75,90,10,35,40,300,88.2,0.7
+58,28,Kanto,Sandslash,ground,,Sand Veil,,Sand Rush,75,100,110,45,55,65,450,65,1
+59,28,Alola,Alolan Sandslash,ice,steel,Snow Cloak,,Slush Rush,75,100,120,25,65,65,450,121.3,1.2
+60,29,Kanto,Nidoran-Female,poison,,Poison Point,Rivalry,Hustle,55,47,52,40,40,41,275,15.4,0.4
+61,30,Kanto,Nidorina,poison,,Poison Point,Rivalry,Hustle,70,62,67,55,55,56,365,44.1,0.8
+62,31,Kanto,Nidoqueen,poison,ground,Poison Point,Rivalry,Sheer Force,90,92,87,75,85,76,505,132.3,1.3
+63,32,Kanto,Nidoran-Male,poison,,Poison Point,Rivalry,Hustle,46,57,40,40,40,50,273,19.8,0.5
+64,33,Kanto,Nidorino,poison,,Poison Point,Rivalry,Hustle,61,72,57,55,55,65,365,43,0.9
+65,34,Kanto,Nidoking,poison,ground,Poison Point,Rivalry,Sheer Force,81,102,77,85,75,85,505,136.7,1.4
+66,35,Kanto,Clefairy,fairy,,Cute Charm,Magic Guard,Friend Guard,70,45,48,60,65,35,323,16.5,0.6
+67,36,Kanto,Clefable,fairy,,Cute Charm,Magic Guard,Unaware,95,70,73,95,90,60,483,88.2,1.3
+68,37,Kanto,Vulpix,fire,,Flash Fire,,Drought,38,41,40,50,65,65,299,21.8,0.6
+69,37,Alola,Alolan Vulpix,ice,,Snow Cloak,,Snow Warning,38,41,40,50,65,65,299,21.8,0.6
+70,38,Kanto,Ninetales,fire,,Flash Fire,,Drought,73,76,75,81,100,100,505,43.9,1.1
+71,38,Alola,Alolan Ninetales,ice,fairy,Snow Cloak,,Snow Warning,73,67,75,81,100,109,505,43.9,1.1
+72,39,Kanto,Jigglypuff,normal,fairy,Cute Charm,Competetive,Friend Guard,115,45,20,45,25,20,270,12.1,0.5
+73,40,Kanto,Wigglytuff,normal,fairy,Cute Charm,Competetive,Frisk,140,70,45,85,50,45,435,26.5,1
+74,41,Kanto,Zubat-M,poison,flying,Inner Focus,,Infiltrator,40,45,35,30,40,55,245,16.5,0.8
+75,41,Kanto,Zubat-F,poison,flying,Inner Focus,,Infiltrator,40,45,35,30,40,55,245,16.5,0.8
+76,42,Kanto,Golbat-M,poison,flying,Inner Focus,,Infiltrator,75,80,70,65,75,90,455,121.3,1.6
+77,42,Kanto,Golbat-F,poison,flying,Inner Focus,,Infiltrator,75,80,70,65,75,90,455,121.3,1.6
+78,43,Kanto,Oddish,grass,poison,Chlorophyll,,Run Away,45,50,55,75,65,30,320,11.9,0.5
+79,44,Kanto,Gloom-M,grass,poison,Chlorophyll,,Stench,60,65,70,85,75,40,395,19,0.8
+80,44,Kanto,Gloom-F,grass,poison,Chlorophyll,,Stench,60,65,70,85,75,40,395,19,0.8
+81,45,Kanto,Vileplume-M,grass,poison,Chlorophyll,,Effect Spore,75,80,85,110,90,50,490,41,1.2
+82,45,Kanto,Vileplume-F,grass,poison,Chlorophyll,,Effect Spore,75,80,85,110,90,50,490,41,1.2
+83,46,Kanto,Paras,bug,grass,Effect Spore,Dry Skin,Damp,35,70,55,45,55,25,285,11.9,0.3
+84,47,Kanto,Parasect,bug,grass,Effect Spore,Dry Skin,Damp,60,95,80,60,80,30,405,65,1
+85,48,Kanto,Venonat,bug,poison,Compound Eyes,Tinted Lens,Run Away,60,55,50,40,55,45,305,66.1,1
+86,49,Kanto,Venomoth,bug,poison,Shield Dust,Tinted Lens,Wonder Skin,70,65,60,90,75,90,450,27.6,1.5
+87,50,Kanto,Diglett,ground,,Sand Veil,Arena Trap,Sand Force,10,55,25,35,45,95,265,1.8,0.2
+88,50,Alola,Alolan Diglett,ground,steel,Sand Veil,Tangling Hair,Sand Force,10,55,30,35,45,90,265,2.2,0.2
+89,51,Kanto,Dugtrio,ground,,Sand Veil,Arena Trap,Sand Force,35,100,50,50,70,120,425,73.4,0.7
+90,51,Alola,Alolan Dugtrio,ground,steel,Sand Veil,Tangling Hair,Sand Force,35,100,60,50,70,110,425,146.8,0.7
+91,52,Kanto,Meowth,normal,,Pickup,Technician,Unnerve,40,45,35,40,40,90,290,9.3,0.4
+92,52,Alola,Alolan Meowth,dark,,Pickup,Technician,Rattled,40,35,35,50,40,90,290,9.3,0.4
+93,52,Galar,Galarian Meowth,steel,,Pickup,Tough Claws,Unnerve,50,65,55,40,40,40,290,16.5,0.4
+94,53,Kanto,Persian,normal,,Limber,Technician,Unnerve,65,70,60,65,65,115,440,70.5,1
+95,53,Alola,Alolan Persian,dark,,Fur Coat,Technician,Rattled,65,60,60,75,65,115,440,72.8,1.1
+96,54,Kanto,Psyduck,water,,Damp,Cloud Nine,Swift Swim,50,52,48,65,50,55,320,43.2,0.7
+97,55,Kanto,Golduck,water,,Damp,Cloud Nine,Swift Swim,80,82,78,95,80,85,500,168.9,1.7
+98,56,Kanto,Mankey,fighting,,Vital Spirit,Anger Point,Defiant,40,80,35,35,45,70,305,61.7,0.5
+99,57,Kanto,Primeape,fighting,,Vital Spirit,Anger Point,Defiant,65,105,60,60,70,95,455,70.5,1
+100,58,Kanto,Growlithe,fire,,Intimidate,Flash Fire,Justified,55,70,45,70,50,60,350,41.9,0.7
+101,58,Hisui,Hisuian Growlithe,fire,rock,Intimidate,Flash Fire,Rock Head,60,75,45,65,50,55,350,50,0.8
+102,59,Kanto,Arcanine,fire,,Intimidate,Flash Fire,Justified,90,110,80,100,80,95,555,341.7,1.9
+103,59,Hisui,Hisuian Arcanine,fire,rock,Intimidate,Flash Fire,Rock Head,95,115,80,95,80,90,555,370.4,2
+104,60,Kanto,Poliwag,water,,Water Absorb,Damp,Swift Swim,40,50,40,40,40,90,300,27.3,0.6
+105,61,Kanto,Poliwhirl,water,,Water Absorb,Damp,Swift Swim,65,65,65,50,50,90,385,44.1,1
+106,62,Kanto,Poliwrath,water,fighting,Water Absorb,Damp,Swift Swim,90,95,95,70,90,70,510,119,1.3
+107,63,Kanto,Abra,psychic,,Synchronize,Inner Focus,Magic Guard,25,20,15,105,55,90,310,43,0.9
+108,64,Kanto,Kadabra-M,psychic,,Synchronize,Inner Focus,Magic Guard,40,35,30,120,70,105,400,124.6,1.3
+109,64,Kanto,Kadabra-F,psychic,,Synchronize,Inner Focus,Magic Guard,40,35,30,120,70,105,400,124.6,1.3
+110,65,Kanto,Alakazam-M,psychic,,Synchronize,Inner Focus,Magic Guard,55,50,45,135,95,120,500,105.8,1.5
+111,65,Kanto,Alakazam-F,psychic,,Synchronize,Inner Focus,Magic Guard,55,50,45,135,95,120,500,105.8,1.5
+112,65,Kanto,Mega Alakazam,psychic,,Trace,,,55,50,65,175,105,150,600,105.8,1.2
+113,66,Kanto,Machop,fighting,,Guts,No Guard,Steadfast,70,80,50,35,35,35,305,43,0.8
+114,67,Kanto,Machoke,fighting,,Guts,No Guard,Steadfast,80,100,70,50,60,45,405,155.4,1.5
+115,68,Kanto,Machamp,fighting,,Guts,No Guard,Steadfast,90,130,80,65,85,55,505,286.6,1.6
+116,69,Kanto,Bellsprout,grass,poison,Chlorophyll,,Gluttony,50,75,35,70,30,40,300,8.8,0.7
+117,70,Kanto,Weepinbell,grass,poison,Chlorophyll,,Gluttony,65,90,50,85,45,55,390,14.1,1
+118,71,Kanto,Victreebel,grass,poison,Chlorophyll,,Gluttony,80,105,65,100,70,70,490,34.2,1.7
+119,72,Kanto,Tentacool,water,poison,Clear Body,Liquid Ooze,Rain Dish,40,40,35,50,100,70,335,100.3,0.9
+120,73,Kanto,Tentacruel,water,poison,Clear Body,Liquid Ooze,Rain Dish,80,70,65,80,120,100,515,121.3,1.6
+121,74,Kanto,Geodude,rock,ground,Rock Head,Sturdy,Sand Veil,40,80,100,30,30,20,300,44.1,0.4
+122,74,Alola,Alolan Geodude,rock,electric,Magnet Pull,Sturdy,Galvanize,40,80,100,30,30,20,300,44.8,0.4
+123,75,Kanto,Graveler,rock,ground,Rock Head,Sturdy,Sand Veil,55,95,115,45,45,35,390,231.5,1
+124,75,Alola,Alolan Graveler,rock,electric,Magnet Pull,Sturdy,Galvanize,55,95,115,45,45,35,390,242.5,1
+125,76,Kanto,Golem,rock,ground,Rock Head,Sturdy,Sand Veil,80,120,130,55,65,45,495,661.4,1.4
+126,76,Alola,Alolan Golem,rock,electric,Magnet Pull,Sturdy,Galvanize,80,120,130,55,65,45,495,696.7,1.7
+127,77,Kanto,Ponyta,fire,,Run Away,Flash Fire,Flame Body,50,85,55,65,65,90,410,66.1,1
+128,77,Galar,Galarian Ponyta,psychic,,Run Away,Pastel Veil,Anticipation,50,85,55,65,65,90,410,52.9,0.8
+129,78,Kanto,Rapidash,fire,,Run Away,Flash Fire,Flame Body,65,100,70,80,80,105,500,209.4,1.7
+130,78,Galar,Galarian Rapidash,psychic,fairy,Run Away,Pastel Veil,Anticipation,65,100,70,80,80,105,500,176.4,1.7
+131,79,Kanto,Slowpoke,water,psychic,Oblivious,Own Tempo,Regenerator,90,65,65,40,40,15,315,79.4,1.2
+132,79,Galar,Galarian Slowpoke,water,,Gluttony,Own Tempo,Regenerator,90,65,65,40,40,15,315,79.4,1.2
+133,80,Kanto,Slowbro,water,psychic,Oblivious,Own Tempo,Regenerator,95,75,110,100,80,30,490,173.1,1.6
+134,80,Galar,Galarian Slowbro,water,poison,Quick Draw,Own Tempo,Regenerator,95,100,95,100,70,30,490,155.4,1.6
+135,80,Kanto,Mega Slowbro,water,psychic,Shell Armor,,,95,75,180,130,80,30,590,264.6,2
+136,81,Kanto,Magnemite,electric,steel,Magnet Pull,Sturdy,Analytic,25,35,70,95,55,45,325,13.2,0.3
+137,82,Kanto,Magneton,electric,steel,Magnet Pull,Sturdy,Analytic,50,60,95,120,70,70,465,132.3,1
+138,83,Kanto,Farfetch'd,normal,flying,Keen Eye,Inner Focus,Defiant,52,90,55,58,62,60,377,33.1,0.8
+139,83,Galar,Galarian Farfetch'd,fighting,,Steadfast,,Scrappy,52,95,55,58,62,55,377,92.6,0.8
+140,84,Kanto,Doduo-M,normal,flying,Run Away,Early Bird,Tangled Feet,35,85,45,35,35,75,310,86.4,1.4
+141,84,Kanto,Doduo-F,normal,flying,Run Away,Early Bird,Tangled Feet,35,85,45,35,35,75,310,86.4,1.4
+142,85,Kanto,Dodrio-M,normal,flying,Run Away,Early Bird,Tangled Feet,60,110,70,60,60,110,470,187.8,1.8
+143,85,Kanto,Dodrio-F,normal,flying,Run Away,Early Bird,Tangled Feet,60,110,70,60,60,110,470,187.8,1.8
+144,86,Kanto,Seel,water,,Thick Fat,Hydration,Ice Body,65,45,55,45,70,45,325,198.4,1.1
+145,87,Kanto,Dewgong,water,ice,Thick Fat,Hydration,Ice Body,90,70,80,70,95,70,475,264.6,1.7
+146,88,Kanto,Grimer,poison,,Stench,Sticky Hold,Poison Touch,80,80,50,40,50,25,325,66.1,0.9
+147,88,Alola,Alolan Grimer,poison,dark,Poison Touch,Gluttony,Power of Alchemy,80,80,50,40,50,25,325,92.6,0.7
+148,89,Kanto,Muk,poison,,Stench,Sticky Hold,Poison Touch,105,105,75,65,100,50,500,66.1,1.2
+149,89,Alola,Alolan Muk,poison,dark,Poison Touch,Gluttony,Power of Alchemy,105,105,75,65,100,50,500,114.6,1
+150,90,Kanto,Shellder,water,,Shell Armor,Skill Link,Overcoat,30,65,100,45,25,40,305,8.8,0.3
+151,91,Kanto,Cloyster,water,ice,Shell Armor,Skill Link,Overcoat,50,95,180,85,45,70,525,292.1,1.5
+152,92,Kanto,Gastly,ghost,poison,Levitate,,,30,35,30,100,35,80,310,0.2,1.3
+153,93,Kanto,Haunter,ghost,poison,Levitate,,,45,50,45,115,55,95,405,0.2,1.6
+154,94,Kanto,Gengar,ghost,poison,Cursed Body,,,60,65,60,130,75,110,500,89.3,1.5
+155,94,Kanto,Mega Gengar,ghost,poison,Shadow Tag,,,60,65,80,170,95,130,600,89.3,1.4
+156,95,Kanto,Onix,rock,ground,Rock Head,Sturdy,Weak Armor,35,45,160,30,45,70,385,463,8.8
+157,96,Kanto,Drowzee,psychic,,Insomnia,Forewarn,Inner Focus,60,48,45,43,90,42,328,71.4,1
+158,97,Kanto,Hypno-M,psychic,,Insomnia,Forewarn,Inner Focus,85,73,70,73,115,67,483,166.7,1.6
+159,97,Kanto,Hypno-F,psychic,,Insomnia,Forewarn,Inner Focus,85,73,70,73,115,67,483,166.7,1.6
+160,98,Kanto,Krabby,water,,Hyper Cutter,Shell Armor,Sheer Force,30,105,90,25,25,50,325,14.3,0.4
+161,99,Kanto,Kingler,water,,Hyper Cutter,Shell Armor,Sheer Force,55,130,115,50,50,75,475,132.3,1.3
+162,100,Kanto,Voltorb,electric,,Soundproof,Static,Aftermath,40,30,50,55,55,100,330,22.9,0.5
+163,100,Hisui,Hisuian Voltorb,electric,grass,Soundproof,Static,Aftermath,40,30,50,55,55,100,330,28.7,0.5
+164,101,Kanto,Electrode,electric,,Soundproof,Static,Aftermath,60,50,70,80,80,150,490,146.8,1.2
+165,101,Hisui,Hisuian Electrode,electric,grass,Soundproof,Static,Aftermath,60,50,70,80,80,150,490,156.5,1.2
+166,102,Kanto,Exeggcute,grass,psychic,Chlorophyll,,Harvest,60,40,80,60,45,40,325,5.5,0.4
+167,103,Kanto,Exeggutor,grass,psychic,Chlorophyll,,Harvest,95,95,85,125,75,55,530,264.6,2
+168,103,Alola,Alolan Exeggutor,grass,dragon,Frisk,,Harvest,95,105,85,125,75,45,530,916.2,10.9
+169,104,Kanto,Cubone,ground,,Rock Head,Lightning Rod,Battle Armor,50,50,95,40,50,35,320,14.3,0.4
+170,105,Kanto,Marowak,ground,,Rock Head,Lightning Rod,Battle Armor,60,80,110,50,80,45,425,99.2,1
+171,105,Alola,Alolan Marowak,fire,ghost,Cursed Body,Lightning Rod,Rock Head,60,80,110,50,80,45,425,75,1
+172,106,Kanto,Hitmonlee,fighting,,Limber,Reckless,Unburden,50,120,53,35,110,87,455,109.8,1.5
+173,107,Kanto,Hitmonchan,fighting,,Keen Eye,Iron Fist,Inner Focus,50,105,79,35,110,76,455,110.7,1.4
+174,108,Kanto,Lickitung,normal,,Own Tempo,Oblivious,Cloud Nine,90,55,75,60,75,30,385,144.4,1.2
+175,109,Kanto,Koffing,poison,,Levitate,Neutralizing Gas,Stench,40,65,95,60,45,35,340,2.2,0.6
+176,110,Kanto,Weezing,poison,,Levitate,Neutralizing Gas,Stench,65,90,120,85,70,60,490,20.9,1.2
+177,110,Galar,Galarian Weezing,poison,fairy,Levitate,Neutralizing Gas,Misty Surge,65,90,120,85,70,60,490,35.3,3
+178,111,Kanto,Rhyhorn-M,ground,rock,Lightning Rod,Rock Head,Reckless,80,85,95,30,30,25,345,253.5,1
+179,111,Kanto,Rhyhorn-F,ground,rock,Lightning Rod,Rock Head,Reckless,80,85,95,30,30,25,345,253.5,1
+180,112,Kanto,Rhydon-M,ground,rock,Lightning Rod,Rock Head,Reckless,105,130,120,45,45,40,485,264.6,1.9
+181,112,Kanto,Rhydon-F,ground,rock,Lightning Rod,Rock Head,Reckless,105,130,120,45,45,40,485,264.6,1.9
+182,113,Kanto,Chansey,normal,,Natural Cure,Serene Grace,Healer,250,5,5,35,105,50,450,76.3,1.1
+183,114,Kanto,Tangela,grass,,Chlorophyll,Leaf Guard,Regenerator,65,55,115,100,40,60,435,77.2,1
+184,115,Kanto,Kangaskhan,normal,,Early Bird,Scrappy,Inner Focus,105,95,80,40,80,90,490,176.4,2.2
+185,115,Kanto,Mega Kangaskhan,normal,,Parental Bond,,,105,125,100,60,100,100,590,220.5,2.2
+186,116,Kanto,Horsea,water,,Swift Swim,Sniper,Damp,30,40,70,70,25,60,295,17.4,0.4
+187,117,Kanto,Seadra,water,,Poison Point,Sniper,Damp,55,65,95,95,45,85,440,55.1,1.2
+188,118,Kanto,Goldeen-M,water,,Swift Swim,Water Veil,Lightning Rod,45,67,60,35,50,63,320,33.1,0.6
+189,118,Kanto,Goldeen-F,water,,Swift Swim,Water Veil,Lightning Rod,45,67,60,35,50,63,320,33.1,0.6
+190,119,Kanto,Seaking-M,water,,Swift Swim,Water Veil,Lightning Rod,80,92,65,65,80,68,450,86,1.3
+191,119,Kanto,Seaking-F,water,,Swift Swim,Water Veil,Lightning Rod,80,92,65,65,80,68,450,86,1.3
+192,120,Kanto,Staryu,water,,Illuminate,Natural Cure,Analytic,30,45,55,70,55,85,340,76.1,0.8
+193,121,Kanto,Starmie,water,psychic,Illuminate,Natural Cure,Analytic,60,75,85,100,85,115,520,176.4,1.1
+194,122,Kanto,Mr. Mime,psychic,fairy,Soundproof,Filter,Technician,40,45,65,100,120,90,460,120.2,1.3
+195,122,Galar,Galarian Mr. Mime,psychic,ice,Vital Spirit,Screen Cleaner,Ice Body,50,65,65,90,90,100,460,125.2,1.4
+196,123,Kanto,Scyther-M,bug,flying,Swarm,Technician,Steadfast,70,110,80,55,80,105,500,123.5,1.5
+197,123,Kanto,Scyther-F,bug,flying,Swarm,Technician,Steadfast,70,110,80,55,80,105,500,123.5,1.5
+198,124,Kanto,Jynx,ice,psychic,Oblivious,Forewarn,Dry Skin,65,50,35,115,95,95,455,89.5,1.4
+199,125,Kanto,Electabuzz,electric,,Static,,Vital Spirit,65,83,57,95,85,105,490,66.1,1.1
+200,126,Kanto,Magmar,fire,,Flame Body,,Vital Spirit,65,95,57,100,85,93,495,98.1,1.2
+201,127,Kanto,Pinsir,bug,,Hyper Cutter,Mold Breaker,Moxie,65,125,100,55,70,85,500,121.3,1.5
+202,127,Kanto,Mega Pinsir,bug,flying,Aerialate,,,65,155,120,65,90,105,600,130.1,1.7
+203,128,Kanto,Tauros,normal,,Intimidate,Anger Point,Sheer Force,75,100,95,40,70,110,490,194.9,1.4
+204,128,Paldea,Paldean Tauros-Combat Breed,fighting,,Intimidate,Anger Point,Cud Chew,75,110,105,30,70,100,490,253.5,1.4
+205,128,Paldea,Paldean Tauros-Blaze Breed,fighting,fire,Intimidate,Anger Point,Cud Chew,75,110,105,30,70,100,490,187.4,1.4
+206,128,Paldea,Paldean Tauros-Aqua Breed,fighting,water,Intimidate,Anger Point,Cud Chew,75,110,105,30,70,100,490,242.5,1.4
+207,129,Kanto,Magikarp-M,water,,Swift Swim,,Rattled,20,10,55,15,20,80,200,22,0.9
+208,129,Kanto,Magikarp-F,water,,Swift Swim,,Rattled,20,10,55,15,20,80,200,22,0.9
+209,130,Kanto,Gyarados-M,water,flying,Intimidate,,Moxie,95,125,79,60,100,81,540,518.1,6.5
+210,130,Kanto,Gyarados-F,water,flying,Intimidate,,Moxie,95,125,79,60,100,81,540,518.1,6.5
+211,130,Kanto,Mega Gyarados,water,dark,Mold Breaker,,,95,155,109,70,130,81,640,672.4,6.5
+212,131,Kanto,Lapras,water,ice,Water Absorb,Shell Armor,Hydration,130,85,80,85,95,60,535,485,2.5
+213,132,Kanto,Ditto,normal,,Limber,,Imposter,48,48,48,48,48,48,288,8.8,0.3
+214,133,Kanto,Eevee-M,normal,,Run Away,Adaptability,Anticipation,55,55,50,45,65,55,325,14.3,0.3
+215,133,Kanto,Eevee-F,normal,,Run Away,Adaptability,Anticipation,55,55,50,45,65,55,325,14.3,0.3
+216,134,Kanto,Vaporeon,water,,Water Absorb,,Hydration,130,65,60,110,95,65,525,63.9,1
+217,135,Kanto,Jolteon,electric,,Volt Absorb,,Quick Feet,65,65,60,110,95,130,525,54,0.8
+218,136,Kanto,Flareon,fire,,Flash Fire,,Guts,65,130,60,95,110,65,525,55.1,0.9
+219,137,Kanto,Porygon,normal,,Trace,Download,Analytic,65,60,70,85,75,40,395,80.5,0.8
+220,138,Kanto,Omanyte,rock,water,Swift Swim,Shell Armor,Weak Armor,35,40,100,90,55,35,355,16.5,0.4
+221,139,Kanto,Omastar,rock,water,Swift Swim,Shell Armor,Weak Armor,70,60,125,115,70,55,495,77.2,1
+222,140,Kanto,Kabuto,rock,water,Swift Swim,Battle Armor,Weak Armor,30,80,90,55,45,55,355,25.4,0.5
+223,141,Kanto,Kabutops,rock,water,Swift Swim,Battle Armor,Weak Armor,60,115,105,65,70,80,495,89.3,1.3
+224,142,Kanto,Aerodactyl,rock,flying,Rock Head,Pressure,Unnerve,80,105,65,60,75,130,515,130.1,1.8
+225,142,Kanto,Mega Aerodactyl,rock,flying,Tough Claws,,,80,135,85,70,95,150,615,174.2,2.1
+226,143,Kanto,Snorlax,normal,,Immunity,Thick Fat,Gluttony,160,110,65,65,110,30,540,1014.1,2.1
+227,144,Kanto,Articuno,ice,flying,Pressure,,Snow Cloak,90,85,100,95,125,85,580,122.1,1.7
+228,144,Galar,Galarian Articuno,psychic,flying,Competetive,,,90,85,85,125,100,95,580,112.2,1.7
+229,145,Kanto,Zapdos,electric,flying,Pressure,,Static,90,90,85,125,90,100,580,116,1.6
+230,145,Galar,Galarian Zapdos,fighting,flying,Defiant,,,90,125,90,85,90,100,580,128.3,1.6
+231,146,Kanto,Moltres,fire,flying,Pressure,,Flame Body,90,100,90,125,85,90,580,132.3,2
+232,146,Galar,Galarian Moltres,dark,flying,Berserk,,,90,85,90,100,125,90,580,145.5,2
+233,147,Kanto,Dratini,dragon,,Shed Skin,,Marvel Scale,41,64,45,50,50,50,300,7.3,1.8
+234,148,Kanto,Dragonair,dragon,,Shed Skin,,Marvel Scale,61,84,65,70,70,70,420,36.4,4
+235,149,Kanto,Dragonite,dragon,flying,Inner Focus,,Marvel Scale,91,134,95,100,100,80,600,463,2.2
+236,150,Kanto,Mewtwo,psychic,,Pressure,,Unnerve,106,110,90,154,90,130,680,269,2
+237,150,Kanto,Mega Mewtwo X,psychic,fighting,Steadfast,,,106,190,100,154,100,130,780,280,2.3
+238,150,Kanto,Mega Mewtwo Y,psychic,,Insomnia,,,106,150,70,194,120,140,780,72.8,1.5
+239,151,Kanto,Mew,psychic,,Synchronize,,,100,100,100,100,100,100,600,8.8,0.4
+240,152,Johto,Chikorita,grass,,Overgrow,,Leaf Guard,45,49,65,49,65,45,318,14.1,0.9
+241,153,Johto,Bayleef,grass,,Overgrow,,Leaf Guard,60,62,80,63,80,60,405,34.8,1.2
+242,154,Johto,Meganium-M,grass,,Overgrow,,Leaf Guard,80,82,100,83,100,80,525,221.6,1.8
+243,154,Johto,Meganium-F,grass,,Overgrow,,Leaf Guard,80,82,100,83,100,80,525,221.6,1.8
+244,155,Johto,Cyndaquil,fire,,Blaze,,Flash Fire,39,52,43,60,50,65,309,17.4,0.5
+245,156,Johto,Quilava,fire,,Blaze,,Flash Fire,58,64,58,80,65,80,405,41.9,0.9
+246,157,Johto,Typhlosion,fire,,Blaze,,Flash Fire,78,84,78,109,85,100,534,175.3,1.7
+247,157,Hisui,Hisuian Typhlosion,fire,ghost,Blaze,,Frisk,73,84,78,119,85,95,534,153.9,1.6
+248,158,Johto,Totodile,water,,Torrent,,Sheer Force,50,65,64,44,48,43,314,20.9,0.6
+249,159,Johto,Croconaw,water,,Torrent,,Sheer Force,65,80,80,59,63,58,405,55.1,1.1
+250,160,Johto,Feraligatr,water,,Torrent,,Sheer Force,85,105,100,79,83,78,530,195.8,2.3
+251,161,Johto,Sentret,normal,,Run Away,Keen Eye,Frisk,35,46,34,35,45,20,215,13.2,0.8
+252,162,Johto,Furret,normal,,Run Away,Keen Eye,Frisk,85,76,64,45,55,90,415,71.7,1.8
+253,163,Johto,Hoothoot,normal,flying,Insomnia,Keen Eye,Tinted Lens,60,30,30,36,56,50,262,46.7,0.7
+254,164,Johto,Noctowl,normal,flying,Insomnia,Keen Eye,Tinted Lens,100,50,50,86,96,70,452,89.9,1.6
+255,165,Johto,Ledyba-M,bug,flying,Swarm,Early Bird,Rattled,40,20,30,40,80,55,265,23.8,1
+256,165,Johto,Ledyba-F,bug,flying,Swarm,Early Bird,Rattled,40,20,30,40,80,55,265,23.8,1
+257,166,Johto,Ledian-M,bug,flying,Swarm,Early Bird,Iron Fist,55,35,50,55,110,85,390,78.5,1.4
+258,166,Johto,Ledian-F,bug,flying,Swarm,Early Bird,Iron Fist,55,35,50,55,110,85,390,78.5,1.4
+259,167,Johto,Spinarak,bug,poison,Swarm,Insomnia,Sniper,40,60,40,40,40,30,250,18.7,0.5
+260,168,Johto,Ariados,bug,poison,Swarm,Insomnia,Sniper,70,90,70,60,70,40,400,73.9,1.1
+261,169,Johto,Crobat,poison,flying,Inner Focus,,Infiltrator,85,90,80,70,80,130,535,165.3,1.8
+262,170,Johto,Chinchou,water,electric,Volt Absorb,Illuminate,Water Absorb,75,38,38,56,56,67,330,26.5,0.5
+263,171,Johto,Lanturn,water,electric,Volt Absorb,Illuminate,Water Absorb,125,58,58,76,76,67,460,49.6,1.2
+264,172,Johto,Pichu,electric,,Static,,Lightning Rod,20,40,15,35,35,60,205,4.4,0.3
+265,172,Johto,Pichu-Spiky Ear,electric,,Static,,Lightning Rod,20,40,15,35,35,60,205,4.4,0.3
+266,173,Johto,Cleffa,fairy,,Cute Charm,Magic Guard,Friend Guard,50,25,28,45,55,15,218,6.6,0.3
+267,174,Johto,Igglybuff,normal,fairy,Cute Charm,Competetive,Friend Guard,90,30,15,40,20,15,210,2.2,0.3
+268,175,Johto,Togepi,fairy,,Hustle,Serene Grace,Super Luck,35,20,65,40,65,20,245,3.3,0.3
+269,176,Johto,Togetic,fairy,flying,Hustle,Serene Grace,Super Luck,55,40,85,80,105,40,405,7.1,0.6
+270,177,Johto,Natu,psychic,flying,Synchronize,Early Bird,Magic Bounce,40,50,45,70,45,70,320,4.4,0.2
+271,178,Johto,Xatu-M,psychic,flying,Synchronize,Early Bird,Magic Bounce,65,75,70,95,70,95,470,33.1,1.5
+272,178,Johto,Xatu-F,psychic,flying,Synchronize,Early Bird,Magic Bounce,65,75,70,95,70,95,470,33.1,1.5
+273,179,Johto,Mareep,electric,,Static,,Plus,55,40,40,65,45,35,280,17.2,0.6
+274,180,Johto,Flaaffy,electric,,Static,,Plus,70,55,55,80,60,45,365,29.3,0.8
+275,181,Johto,Ampharos,electric,,Static,,Plus,90,75,85,115,90,55,510,135.6,1.4
+276,181,Johto,Mega Ampharos,electric,dragon,Mold Breaker,,,90,95,105,165,110,45,610,135.6,1.4
+277,182,Johto,Bellossom,grass,,Chlorophyll,,Healer,75,80,95,90,100,50,490,12.8,0.4
+278,183,Johto,Marill,water,fairy,Thick Fat,Huge Power,Sap Sipper,70,20,50,20,50,40,250,18.7,0.4
+279,184,Johto,Azumarill,water,fairy,Thick Fat,Huge Power,Sap Sipper,100,50,80,60,80,50,420,62.8,0.8
+280,185,Johto,Sudowoodo-M,rock,,Sturdy,Rock Head,Rattled,70,100,115,30,65,30,410,83.8,1.2
+281,185,Johto,Sudowoodo-F,rock,,Sturdy,Rock Head,Rattled,70,100,115,30,65,30,410,83.8,1.2
+282,186,Johto,Politoed-M,water,,Water Absorb,Damp,Drizzle,90,75,75,90,100,70,500,74.7,1.1
+283,186,Johto,Politoed-F,water,,Water Absorb,Damp,Drizzle,90,75,75,90,100,70,500,74.7,1.1
+284,187,Johto,Hoppip,grass,flying,Chlorophyll,Leaf Guard,Infiltrator,35,35,40,35,55,50,250,1.1,0.4
+285,188,Johto,Skiploom,grass,flying,Chlorophyll,Leaf Guard,Infiltrator,55,45,50,45,65,80,340,2.2,0.6
+286,189,Johto,Jumpluff,grass,flying,Chlorophyll,Leaf Guard,Infiltrator,75,55,70,55,95,110,460,6.6,0.8
+287,190,Johto,Aipom-M,normal,,Run Away,Pickup,Skill Link,55,70,55,40,55,85,360,25.4,0.8
+288,190,Johto,Aipom-F,normal,,Run Away,Pickup,Skill Link,55,70,55,40,55,85,360,25.4,0.8
+289,191,Johto,Sunkern,grass,,Chlorophyll,Solar Power,Early Bird,30,30,30,30,30,30,180,4,0.3
+290,192,Johto,Sunflora,grass,,Chlorophyll,Solar Power,Early Bird,75,75,55,105,85,30,425,18.7,0.8
+291,193,Johto,Yanma,bug,flying,Speed Boost,Compound Eyes,Frisk,65,65,45,75,45,95,390,83.8,1.2
+292,194,Johto,Wooper-M,water,ground,Damp,Water Absorb,Unaware,55,45,45,25,25,15,210,18.7,0.4
+293,194,Johto,Wooper-F,water,ground,Damp,Water Absorb,Unaware,55,45,45,25,25,15,210,18.7,0.4
+294,194,Paldea,Paldean Wooper,poison,ground,Poison Point,Water Absorb,Unaware,55,45,45,25,25,15,210,24.3,0.4
+295,195,Johto,Quagsire-M,water,ground,Damp,Water Absorb,Unaware,95,85,85,65,65,35,430,165.3,1.4
+296,195,Johto,Quagsire-F,water,ground,Damp,Water Absorb,Unaware,95,85,85,65,65,35,430,165.3,1.4
+297,196,Johto,Espeon,psychic,,Synchronize,,Magic Bounce,65,65,60,130,95,110,525,58.4,0.9
+298,197,Johto,Umbreon,dark,,Synchronize,,Inner Focus,95,65,110,60,130,65,525,59.5,1
+299,198,Johto,Murkrow-M,dark,flying,Insomnia,Super Luck,Prankster,60,85,42,85,42,91,405,4.6,0.5
+300,198,Johto,Murkrow-F,dark,flying,Insomnia,Super Luck,Prankster,60,85,42,85,42,91,405,4.6,0.5
+301,199,Johto,Slowking,water,psychic,Oblivious,Own Tempo,Regenerator,95,75,80,100,110,30,490,175.3,2
+302,199,Galar,Galarian Slowking,poison,psychic,Curious Medicine,Own Tempo,Regenerator,95,65,80,110,110,30,490,175.3,1.8
+303,200,Johto,Misdreavus,ghost,,Levitate,,,60,60,60,85,85,85,435,2.2,0.7
+304,201,Johto,Unown-A,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+305,201,Johto,Unown-B,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+306,201,Johto,Unown-C,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+307,201,Johto,Unown-D,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+308,201,Johto,Unown-E,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+309,201,Johto,Unown-F,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+310,201,Johto,Unown-G,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+311,201,Johto,Unown-H,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+312,201,Johto,Unown-I,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+313,201,Johto,Unown-J,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+314,201,Johto,Unown-K,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+315,201,Johto,Unown-L,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+316,201,Johto,Unown-M,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+317,201,Johto,Unown-N,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+318,201,Johto,Unown-O,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+319,201,Johto,Unown-P,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+320,201,Johto,Unown-Q,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+321,201,Johto,Unown-R,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+322,201,Johto,Unown-S,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+323,201,Johto,Unown-T,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+324,201,Johto,Unown-U,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+325,201,Johto,Unown-V,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+326,201,Johto,Unown-W,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+327,201,Johto,Unown-X,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+328,201,Johto,Unown-Y,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+329,201,Johto,Unown-Z,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+330,201,Johto,Unown-!,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+331,201,Johto,Unown-?,psychic,,Levitate,,,48,72,48,72,48,48,336,11,0.5
+332,202,Johto,Wobbuffet-M,psychic,,Shadow Tag,,Telepathy,190,33,58,33,58,33,405,62.8,1.3
+333,202,Johto,Wobbuffet-F,psychic,,Shadow Tag,,Telepathy,190,33,58,33,58,33,405,62.8,1.3
+334,203,Johto,Girafarig-M,normal,psychic,Inner Focus,Early Bird,Sap Sipper,70,80,65,90,65,85,455,91.5,1.5
+335,203,Johto,Girafarig-F,normal,psychic,Inner Focus,Early Bird,Sap Sipper,70,80,65,90,65,85,455,91.5,1.5
+336,204,Johto,Pineco,bug,,Sturdy,,Overcoat,50,65,90,35,35,15,290,15.9,0.6
+337,205,Johto,Forretress,bug,steel,Sturdy,,Overcoat,75,90,140,60,60,40,465,277.3,1.2
+338,206,Johto,Dunsparce,normal,,Serene Grace,Run Away,Rattled,100,70,70,65,65,45,415,30.9,1.5
+339,207,Johto,Gligar-M,ground,flying,Hyper Cutter,Sand Veil,Immunity,65,75,105,35,65,85,430,142.9,1.1
+340,207,Johto,Gligar-F,ground,flying,Hyper Cutter,Sand Veil,Immunity,65,75,105,35,65,85,430,142.9,1.1
+341,208,Johto,Steelix-M,steel,ground,Rock Head,Sturdy,Sheer Force,75,85,200,55,65,30,510,881.8,9.2
+342,208,Johto,Steelix-F,steel,ground,Rock Head,Sturdy,Sheer Force,75,85,200,55,65,30,510,881.8,9.2
+343,208,Johto,Mega Steelix,steel,ground,Sand Force,,,75,125,230,55,95,30,610,1631.4,10.5
+344,209,Johto,Snubbull,fairy,,Intimidate,Run Away,Rattled,60,80,50,40,40,30,300,17.2,0.6
+345,210,Johto,Granbull,fairy,,Intimidate,Quick Feet,Rattled,90,120,75,60,60,45,450,107.4,1.4
+346,211,Johto,Qwilfish,water,poison,Poison Point,Swift Swim,Intimidate,65,95,85,55,55,85,440,8.6,0.5
+347,211,Hisui,Hisuian Qwilfish,dark,poison,Poison Point,Swift Swim,Intimidate,65,95,85,55,55,85,440,8.6,0.5
+348,212,Johto,Scizor-M,bug,steel,Swarm,Technician,Light Metal,70,130,100,55,80,65,500,260.1,1.8
+349,212,Johto,Scizor-F,bug,steel,Swarm,Technician,Light Metal,70,130,100,55,80,65,500,260.1,1.8
+350,212,Johto,Mega Scizor,bug,steel,Technician,,,70,150,140,65,100,75,600,275.6,2
+351,213,Johto,Shuckle,bug,rock,Sturdy,Gluttony,Contrary,20,10,230,10,230,5,505,45.2,0.6
+352,214,Johto,Heracross-M,bug,fighting,Swarm,Guts,Moxie,80,125,75,40,95,85,500,119,1.5
+353,214,Johto,Heracross-F,bug,fighting,Swarm,Guts,Moxie,80,125,75,40,95,85,500,119,1.5
+354,214,Johto,Mega Heracross,bug,fighting,Skill Link,,,80,185,115,40,105,75,600,137.8,1.7
+355,215,Johto,Sneasel-M,dark,ice,Inner Focus,Keen Eye,Pickpocket,55,95,55,35,75,115,430,61.7,0.9
+356,215,Johto,Sneasel-F,dark,ice,Inner Focus,Keen Eye,Pickpocket,55,95,55,35,75,115,430,61.7,0.9
+357,215,Hisui,Hisuian Sneasel-M,fighting,poison,,,,55,95,55,35,75,115,430,59.5,0.9
+358,215,Hisui,Hisuian Sneasel-F,fighting,poison,,,,55,95,55,35,75,115,430,59.5,0.9
+359,216,Johto,Teddiursa,normal,,Pickup,Quick Feet,Honey Gather,60,80,50,50,50,40,330,19.4,0.6
+360,217,Johto,Ursaring-M,normal,,Guts,Quick Feet,Unnerve,90,130,75,75,75,55,500,277.3,1.8
+361,217,Johto,Ursaring-F,normal,,Guts,Quick Feet,Unnerve,90,130,75,75,75,55,500,277.3,1.8
+362,218,Johto,Slugma,fire,,Magma Armor,Flame Body,Weak Armor,40,40,40,70,40,20,250,77.2,0.7
+363,219,Johto,Magcargo,fire,rock,Magma Armor,Flame Body,Weak Armor,60,50,120,90,80,30,430,121.3,0.8
+364,220,Johto,Swinub,ice,ground,Oblivious,Snow Cloak,Thick Fat,50,50,40,30,30,50,250,14.3,0.4
+365,221,Johto,Piloswine-M,ice,ground,Oblivious,Snow Cloak,Thick Fat,100,100,80,60,60,50,450,123,1.1
+366,221,Johto,Piloswine-F,ice,ground,Oblivious,Snow Cloak,Thick Fat,100,100,80,60,60,50,450,123,1.1
+367,222,Johto,Corsola,water,rock,Hustle,Natural Cure,Regenerator,65,55,95,65,95,35,410,11,0.6
+368,222,Galar,Galarian Corsola,ghost,,Weak Armor,,Cursed Body,60,55,100,65,100,30,410,1.1,0.6
+369,223,Johto,Remoraid,water,,Hustle,Sniper,Moody,35,65,35,65,35,65,300,26.5,0.6
+370,224,Johto,Octillery-M,water,,Suction Cups,Sniper,Moody,75,105,75,105,75,45,480,62.8,0.9
+371,224,Johto,Octillery-F,water,,Suction Cups,Sniper,Moody,75,105,75,105,75,45,480,62.8,0.9
+372,225,Johto,Delibird,ice,flying,Vital Spirit,Hustle,Insomnia,45,55,45,65,45,75,330,35.3,0.9
+373,226,Johto,Mantine,water,flying,Swift Swim,Water Absorb,Water Veil,85,40,70,80,140,70,485,485,2.1
+374,227,Johto,Skarmory,steel,flying,Keen Eye,Sturdy,Weak Armor,65,80,140,40,70,70,465,111.3,1.7
+375,228,Johto,Houndour,dark,fire,Early Bird,Flash Fire,Unnerve,45,60,30,80,50,65,330,23.8,0.6
+376,229,Johto,Houndoom-M,dark,fire,Early Bird,Flash Fire,Unnerve,75,90,50,110,80,95,500,77.2,1.4
+377,229,Johto,Houndoom-F,dark,fire,Early Bird,Flash Fire,Unnerve,75,90,50,110,80,95,500,77.2,1.4
+378,229,Johto,Mega Houndoom,dark,fire,Solar Power,,,75,90,90,140,90,115,600,109.1,1.9
+379,230,Johto,Kingdra,water,dragon,Swift Swim,Sniper,Damp,75,95,95,95,95,85,540,335.1,1.8
+380,231,Johto,Phanpy,ground,,Pickup,,Sand Veil,90,60,60,40,40,40,330,73.9,0.5
+381,232,Johto,Donphan-M,ground,,Sturdy,,Sand Veil,90,120,120,60,60,50,500,264.6,1.1
+382,232,Johto,Donphan-F,ground,,Sturdy,,Sand Veil,90,120,120,60,60,50,500,264.6,1.1
+383,233,Johto,Porygon2,normal,,Trace,Download,Analytic,85,80,90,105,95,60,515,71.7,0.6
+384,234,Johto,Stantler,normal,,Intimidate,Frisk,Sap Sipper,73,95,62,85,65,85,465,157,1.4
+385,235,Johto,Smeargle,normal,,Own Tempo,Technician,Moody,55,20,35,20,45,75,250,127.9,1.2
+386,236,Johto,Tyrogue,fighting,,Guts,Steadfast,Vital Spirit,35,35,35,35,35,35,210,46.3,0.7
+387,237,Johto,Hitmontop,fighting,,Intimidate,Technician,Steadfast,50,95,95,35,110,70,455,105.8,1.4
+388,238,Johto,Smoochum,ice,psychic,Oblivious,Forewarn,Hydration,45,30,15,85,65,65,305,13.2,0.4
+389,239,Johto,Elekid,electric,,Static,,Vital Spirit,45,63,37,65,55,95,360,51.8,0.6
+390,240,Johto,Magby,fire,,Flame Body,,Vital Spirit,45,75,37,70,55,83,365,47.2,0.7
+391,241,Johto,Miltank,normal,,Thick Fat,Scrappy,Sap Sipper,95,80,105,40,70,100,490,166.4,1.2
+392,242,Johto,Blissey,normal,,Natural Cure,Serene Grace,Healer,255,10,10,75,135,55,540,103.2,1.5
+393,243,Johto,Raikou,electric,,Pressure,,Inner Focus,90,85,75,115,100,115,580,392.4,1.8
+394,244,Johto,Entei,fire,,Pressure,,Inner Focus,115,115,85,90,75,100,580,436.5,2.1
+395,245,Johto,Suicune,water,,Pressure,,Inner Focus,100,75,115,90,115,85,580,412.3,2
+396,246,Johto,Larvitar,rock,ground,Guts,,Sand Veil,50,64,50,45,50,41,300,158.7,0.6
+397,247,Johto,Pupitar,rock,ground,Shed Skin,,,70,84,70,65,70,51,410,335.1,1.2
+398,248,Johto,Tyranitar,rock,dark,Sand Stream,,Unnerve,100,134,110,95,100,61,600,445.3,2
+399,248,Johto,Mega Tyranitar,rock,dark,Sand Strem,,,100,164,150,95,120,71,700,562.2,2.5
+400,249,Johto,Lugia,psychic,flying,Pressure,,Multiscale,106,90,130,90,154,110,680,476.2,5.2
+401,250,Johto,Ho-oh,fire,flying,Pressure,,Regenerator,106,130,90,110,154,90,680,438.7,3.8
+402,251,Johto,Celebi,psychic,grass,Natural Cure,,,100,100,100,100,100,100,600,11,0.6
+403,252,Hoenn,Treecko,grass,,Overgrow,,Unburden,40,45,35,65,55,70,310,11,0.5
+404,253,Hoenn,Grovyle,grass,,Overgrow,,Unburden,50,65,45,85,65,95,405,47.6,0.9
+405,254,Hoenn,Sceptile,grass,,Overgrow,,Unburden,70,85,65,105,85,120,530,115.1,1.7
+406,254,Hoenn,Mega Sceptile,grass,dragon,Lightning Rod,,,70,110,75,145,85,145,630,121.7,1.9
+407,255,Hoenn,Torchic-M,fire,,Blaze,,Speed Boost,45,60,40,70,50,45,310,5.5,0.4
+408,255,Hoenn,Torchic-F,fire,,Blaze,,Speed Boost,45,60,40,70,50,45,310,5.5,0.4
+409,256,Hoenn,Combusken-M,fire,fighting,Blaze,,Speed Boost,60,85,60,85,60,55,405,43,0.9
+410,256,Hoenn,Combusken-F,fire,fighting,Blaze,,Speed Boost,60,85,60,85,60,55,405,43,0.9
+411,257,Hoenn,Blaziken-M,fire,fighting,Blaze,,Speed Boost,80,120,70,110,70,80,530,114.6,1.9
+412,257,Hoenn,Blaziken-F,fire,fighting,Blaze,,Speed Boost,80,120,70,110,70,80,530,114.6,1.9
+413,257,Hoenn,Mega Blaziken,fire,fighting,Speed Boost,,,80,160,80,130,80,100,630,114.6,1.9
+414,258,Hoenn,Mudkip,water,,Torrent,,Damp,50,70,50,50,50,40,310,16.8,0.4
+415,259,Hoenn,Marshtomp,water,ground,Torrent,,Damp,70,85,70,60,70,50,405,61.7,0.7
+416,260,Hoenn,Swampert,water,ground,Torrent,,Damp,100,110,90,85,90,60,535,180.6,1.5
+417,260,Hoenn,Mega Swampert,water,ground,Swift Swim,,,100,150,110,95,110,70,635,224.9,1.9
+418,261,Hoenn,Poochyena,dark,,Run Away,Quick Feet,Rattled,35,55,35,30,30,35,220,30,0.5
+419,262,Hoenn,Mightyena,dark,,Intimidate,Quick Feet,Moxie,70,90,70,60,60,70,420,81.6,1
+420,263,Hoenn,Zigzagoon,normal,,Pickup,Gluttony,Quick Feet,38,30,41,30,41,60,240,38.6,0.4
+421,263,Galar,Galarian Zigzagoon,normal,dark,Pickup,Gluttony,Quick Feet,38,30,41,30,41,60,240,38.6,0.4
+422,264,Hoenn,Linoone,normal,,Pickup,Gluttony,Quick Feet,78,70,61,50,61,100,420,71.7,0.5
+423,264,Galar,Galarian Linoone,normal,dark,Pickup,Gluttony,Quick Feet,78,70,61,50,61,100,420,71.7,0.5
+424,265,Hoenn,Wurmple,bug,,Shield Dust,,Run Away,45,45,35,20,30,20,195,7.9,0.3
+425,266,Hoenn,Silcoon,bug,,Shed Skin,,,50,35,55,25,25,15,205,22,0.6
+426,267,Hoenn,Beautifly-M,bug,flying,Swarm,,Rivalry,60,70,50,100,50,65,395,62.6,1
+427,267,Hoenn,Beautifly-F,bug,flying,Swarm,,Rivalry,60,70,50,100,50,65,395,62.6,1
+428,268,Hoenn,Cascoon,bug,,Shed Skin,,,50,35,55,25,25,15,205,25.4,0.7
+429,269,Hoenn,Dustox-M,bug,poison,Shield Dust,,Compound Eyes,60,50,70,50,90,65,385,69.7,1.2
+430,269,Hoenn,Dustox-F,bug,poison,Shield Dust,,Compound Eyes,60,50,70,50,90,65,385,69.7,1.2
+431,270,Hoenn,Lotad,water,grass,Swift Swim,Rain Dish,Own Tempo,40,30,30,40,50,30,220,5.7,0.5
+432,271,Hoenn,Lombre,water,grass,Swift Swim,Rain Dish,Own Tempo,60,50,50,60,70,50,340,71.7,1.2
+433,272,Hoenn,Ludicolo-M,water,grass,Swift Swim,Rain Dish,Own Tempo,80,70,70,90,100,70,480,121.3,1.5
+434,272,Hoenn,Ludicolo-F,water,grass,Swift Swim,Rain Dish,Own Tempo,80,70,70,90,100,70,480,121.3,1.5
+435,273,Hoenn,Seedot,grass,,Chlorophyll,Early Bird,Pickpocket,40,40,50,30,30,30,220,8.8,0.5
+436,274,Hoenn,Nuzleaf-M,grass,dark,Chlorophyll,Early Bird,Pickpocket,70,70,40,60,40,60,340,61.7,1
+437,274,Hoenn,Nuzleaf-F,grass,dark,Chlorophyll,Early Bird,Pickpocket,70,70,40,60,40,60,340,61.7,1
+438,275,Hoenn,Shiftry-M,grass,dark,Chlorophyll,Early Bird,Pickpocket,90,100,60,90,60,80,480,131.4,1.3
+439,275,Hoenn,Shiftry-F,grass,dark,Chlorophyll,Early Bird,Pickpocket,90,100,60,90,60,80,480,131.4,1.3
+440,276,Hoenn,Taillow,normal,flying,Guts,,Scrappy,40,55,30,30,30,85,270,5.1,0.3
+441,277,Hoenn,Swellow,normal,flying,Guts,,Scrappy,60,85,60,75,50,125,455,43.7,0.7
+442,278,Hoenn,Wingull,water,flying,Keen Eye,Hydration,Rain Dish,40,30,30,55,30,85,270,20.9,0.6
+443,279,Hoenn,Pelipper,water,flying,Keen Eye,Drizzle,Rain Dish,60,50,100,95,70,65,440,61.7,1.2
+444,280,Hoenn,Ralts,psychic,fairy,Synchronize,Trace,Telepathy,28,25,25,45,35,40,198,14.6,0.4
+445,281,Hoenn,Kirlia,psychic,fairy,Synchronize,Trace,Telepathy,38,35,35,65,55,50,278,44.5,0.8
+446,282,Hoenn,Gardevoir,psychic,fairy,Synchronize,Trace,Telepathy,68,65,65,125,115,80,518,106.7,1.6
+447,282,Hoenn,Mega Gardevoir,psychic,fairy,Pixilate,,,68,85,65,165,135,100,618,106.7,1.6
+448,283,Hoenn,Surskit,bug,water,Swift Swim,,Rain Dish,40,30,32,50,52,65,269,3.7,0.5
+449,284,Hoenn,Masquerain,bug,flying,Intimidate,,Unnerve,70,60,62,100,82,80,454,7.9,0.8
+450,285,Hoenn,Shroomish,grass,,Effect Spore,Poison Heal,Quick Feet,60,40,60,40,60,35,295,9.9,0.4
+451,286,Hoenn,Breloom,grass,fighting,Effect Spore,Poison Heal,Technician,60,130,80,60,60,70,460,86.4,1.2
+452,287,Hoenn,Slakoth,normal,,Truant,,,60,60,60,35,35,30,280,52.9,0.8
+453,288,Hoenn,Vigoroth,normal,,Vital Spirit,,,80,80,80,55,55,90,440,102.5,1.4
+454,289,Hoenn,Slaking,normal,,Truant,,,150,160,100,95,65,100,670,287.7,2
+455,290,Hoenn,Nincada,bug,ground,Compound Eyes,,Run Away,31,45,90,30,30,40,266,12.1,0.5
+456,291,Hoenn,Ninjask,bug,flying,Speed Boost,,Infiltrator,61,90,45,50,50,160,456,26.5,0.8
+457,292,Hoenn,Shedinja,bug,ghost,Wonder Guard,,Wonder Guard,1,90,45,30,30,40,236,2.6,0.8
+458,293,Hoenn,Whismur,normal,,Soundproof,,Rattled,64,51,23,51,23,28,240,35.9,0.6
+459,294,Hoenn,Loudred,normal,,Soundproof,,Scrappy,84,71,43,71,43,48,360,89.3,1
+460,295,Hoenn,Exploud,normal,,Soundproof,,Scrappy,104,91,63,91,73,68,490,185.2,1.5
+461,296,Hoenn,Makuhita,fighting,,Thick Fat,Guts,Sheer Force,72,60,30,20,30,25,237,190.5,1
+462,297,Hoenn,Hariyama,fighting,,Thick Fat,Guts,Sheer Force,144,120,60,40,60,50,474,559.5,2.3
+463,298,Hoenn,Azurill,normal,fairy,Thick Fat,Huge Power,Sap Sipper,50,20,40,20,40,20,190,4.4,0.2
+464,299,Hoenn,Nosepass,rock,,Sturdy,Magnet Pull,Sand Force,30,45,135,45,90,30,375,213.8,1
+465,300,Hoenn,Skitty,normal,,Cute Charm,Normalize,Wonder Skin,50,45,45,35,35,50,260,24.3,0.6
+466,301,Hoenn,Delcatty,normal,,Cute Charm,Normalize,Wonder Skin,70,65,65,55,55,90,400,71.9,1.1
+467,302,Hoenn,Sableye,dark,ghost,Keen Eye,Stall,Prankster,50,75,75,65,65,50,380,24.3,0.5
+468,302,Hoenn,Mega Sableye,dark,ghost,Magic Bounce,,,50,85,125,85,115,20,480,354.9,0.5
+469,303,Hoenn,Mawile,steel,fairy,Hyper Cutter,Intimidate,Sheer Force,50,85,85,55,55,50,380,25.4,0.6
+470,303,Hoenn,Mega Mawile,steel,fairy,Huge Power,,,50,105,125,55,95,50,480,51.8,1
+471,304,Hoenn,Aron,steel,rock,Sturdy,Rock Head,Heavy Metal,50,70,100,40,40,30,330,132.3,0.4
+472,305,Hoenn,Lairon,steel,rock,Sturdy,Rock Head,Heavy Metal,60,90,140,50,50,40,430,264.6,0.9
+473,306,Hoenn,Aggron,steel,rock,Sturdy,Rock Head,Heavy Metal,70,110,180,60,60,50,530,793.7,2.1
+474,306,Hoenn,Mega Aggron,steel,,Filter,,,70,140,230,60,80,50,630,870.8,2.2
+475,307,Hoenn,Meditite-M,fighting,psychic,Pure Power,,Telepathy,30,40,55,40,55,60,280,24.7,0.6
+476,307,Hoenn,Meditite-F,fighting,psychic,Pure Power,,Telepathy,30,40,55,40,55,60,280,24.7,0.6
+477,308,Hoenn,Medicham-M,fighting,psychic,Pure Power,,Telepathy,60,60,75,60,75,80,410,69.4,1.3
+478,308,Hoenn,Medicham-F,fighting,psychic,Pure Power,,Telepathy,60,60,75,60,75,80,410,69.4,1.3
+479,308,Hoenn,Mega Medicham,fighting,psychic,Pure Power,,,60,100,85,80,85,100,510,69.4,1.3
+480,309,Hoenn,Electrike,electric,,Static,Lightning Rod,Minus,40,45,40,65,40,65,295,33.5,0.6
+481,310,Hoenn,Manectric,electric,,Static,Lightning Rod,Minus,70,75,60,105,60,105,475,88.6,1.5
+482,310,Hoenn,Mega Manectric,electric,,Intimidate,,,70,75,80,135,80,135,575,97,1.8
+483,311,Hoenn,Plusle,electric,,Plus,,Lightning Rod,60,50,40,85,75,95,405,9.3,0.4
+484,312,Hoenn,Minun,electric,,Minus,,Volt Absorb,60,40,50,75,85,95,405,9.3,0.4
+485,313,Hoenn,Volbeat,bug,,Illuminate,Swarm,Prankster,65,73,75,47,85,85,430,39,0.7
+486,314,Hoenn,Illumise,bug,,Oblivious,Tinted Lens,Prankster,65,47,75,73,85,85,430,39,0.6
+487,315,Hoenn,Roselia-M,grass,poison,Natural Cure,Poison Point,Leaf Guard,50,60,45,100,80,65,400,4.4,0.3
+488,315,Hoenn,Roselia-F,grass,poison,Natural Cure,Poison Point,Leaf Guard,50,60,45,100,80,65,400,4.4,0.3
+489,316,Hoenn,Gulpin-M,poison,,Liquid Ooze,Sticky Hold,Gluttony,70,43,53,43,53,40,302,22.7,0.4
+490,316,Hoenn,Gulpin-F,poison,,Liquid Ooze,Sticky Hold,Gluttony,70,43,53,43,53,40,302,22.7,0.4
+491,317,Hoenn,Swalot-M,poison,,Liquid Ooze,Sticky Hold,Gluttony,100,73,83,73,83,55,467,176.4,1.7
+492,317,Hoenn,Swalot-F,poison,,Liquid Ooze,Sticky Hold,Gluttony,100,73,83,73,83,55,467,176.4,1.7
+493,318,Hoenn,Carvanha,water,dark,Rough Skin,,Speed Boost,45,90,20,65,20,65,305,45.9,0.8
+494,319,Hoenn,Sharpedo,water,dark,Rough Skin,,Speed Boost,70,120,40,95,40,95,460,195.8,1.8
+495,319,Hoenn,Mega Sharpedo,water,dark,Strong Jaw,,,70,140,70,110,65,105,560,287.3,2.5
+496,320,Hoenn,Wailmer,water,,Water Veil,Oblivious,Pressure,130,70,35,70,35,60,400,286.6,2
+497,321,Hoenn,Wailord,water,,Water Veil,Oblivious,Pressure,170,90,45,90,45,60,500,877.4,14.5
+498,322,Hoenn,Numel-M,fire,ground,Oblivious,Simple,Own Tempo,60,60,40,65,45,35,305,52.9,0.7
+499,322,Hoenn,Numel-F,fire,ground,Oblivious,Simple,Own Tempo,60,60,40,65,45,35,305,52.9,0.7
+500,323,Hoenn,Camerupt-M,fire,ground,Magma Armor,Solid Rock,Anger Point,70,100,70,105,75,40,460,485,1.9
+501,323,Hoenn,Camerupt-F,fire,ground,Magma Armor,Solid Rock,Anger Point,70,100,70,105,75,40,460,485,1.9
+502,323,Hoenn,Mega Camerupt,fire,ground,Sheer Force,,,70,120,100,145,105,20,560,706.6,2.5
+503,324,Hoenn,Torkoal,fire,,White Smoke,Drought,Shell Armor,70,85,140,85,70,20,470,177.3,0.5
+504,325,Hoenn,Spoink,psychic,,Thick Fat,Own Tempo,Gluttony,60,25,35,70,80,60,330,67.5,0.7
+505,326,Hoenn,Grumpig,psychic,,Thick Fat,Own Tempo,Gluttony,80,45,65,90,110,80,470,157.6,0.9
+506,327,Hoenn,Spinda,normal,,Own Tempo,Tangled Feet,Contrary,60,60,60,60,60,60,360,11,1.1
+507,328,Hoenn,Trapinch,ground,,Hyper Cutter,Arena Trap,Sheer Force,45,100,45,45,45,10,290,33.1,0.7
+508,329,Hoenn,Vibrava,ground,dragon,Levitate,,,50,70,50,50,50,70,340,33.7,1.1
+509,330,Hoenn,Flygon,ground,dragon,Levitate,,,80,100,80,80,80,100,520,180.8,2
+510,331,Hoenn,Cacnea,grass,,Sand Veil,,Water Absorb,50,85,40,85,40,35,335,113.1,0.4
+511,332,Hoenn,Cacturne-M,grass,dark,Sand Veil,,Water Absorb,70,115,60,115,60,55,475,170.6,1.3
+512,332,Hoenn,Cacturne-F,grass,dark,Sand Veil,,Water Absorb,70,115,60,115,60,55,475,170.6,1.3
+513,333,Hoenn,Swablu,normal,flying,Natural Cure,,Cloud Nine,45,40,60,40,75,50,310,2.6,0.4
+514,334,Hoenn,Altaria,dragon,flying,Natural Cure,,Cloud Nine,75,70,90,70,105,80,490,45.4,1.1
+515,334,Hoenn,Mega Altaria,dragon,fairy,Pixilate,,,75,110,110,110,105,80,590,45.4,1.5
+516,335,Hoenn,Zangoose,normal,,Immunity,,Toxic Boost,73,115,60,60,60,90,458,88.8,1.3
+517,336,Hoenn,Seviper,poison,,Shed Skin,,Infiltrator,73,100,60,100,60,65,458,115.7,2.7
+518,337,Hoenn,Lunatone,rock,psychic,Levitate,,,90,55,65,95,85,70,460,370.4,1
+519,338,Hoenn,Solrock,rock,psychic,Levitate,,,90,95,85,55,65,70,460,339.5,1.2
+520,339,Hoenn,Barboach,water,ground,Oblivious,Anticipation,Hydration,50,48,43,46,41,60,288,4.2,0.4
+521,340,Hoenn,Whiscash,water,ground,Oblivious,Anticipation,Hydration,110,78,73,76,71,60,468,52,0.9
+522,341,Hoenn,Corphish,water,,Hyper Cutter,Shell Armor,Adaptability,43,80,65,50,35,35,308,25.4,0.6
+523,342,Hoenn,Crawdaunt,water,dark,Hyper Cutter,Shell Armor,Adaptability,63,120,85,90,55,55,468,72.3,1.1
+524,343,Hoenn,Baltoy,ground,psychic,Levitate,,,40,40,55,40,70,55,300,47.4,0.5
+525,344,Hoenn,Claydol,ground,psychic,Levitate,,,60,70,105,70,120,75,500,238.1,1.5
+526,345,Hoenn,Lileep,rock,grass,Suction Cups,,Storm Drain,66,41,77,61,87,23,355,52.5,1
+527,346,Hoenn,Cradily,rock,grass,Suction Cups,,Storm Drain,86,81,97,81,107,43,495,133.2,1.5
+528,347,Hoenn,Anorith,rock,bug,Battle Armor,,Swift Swim,45,95,50,40,50,75,355,27.6,0.7
+529,348,Hoenn,Armaldo,rock,bug,Battle Armor,,Swift Swim,75,125,100,70,80,45,495,150.4,1.5
+530,349,Hoenn,Feebas,water,,Swift Swim,Oblivious,Adaptability,20,15,20,10,55,80,200,16.3,0.6
+531,350,Hoenn,Milotic-M,water,,Marvel Scale,Competitive,Cute Charm,95,60,79,100,125,81,540,357.1,6.2
+532,350,Hoenn,Milotic-F,water,,Marvel Scale,Competitive,Cute Charm,95,60,79,100,125,81,540,357.1,6.2
+533,351,Hoenn,Castform,normal,,Forecast,,,70,70,70,70,70,70,420,1.8,0.3
+534,351,Hoenn,Sunny Castform,fire,,Forecast,,,70,70,70,70,70,70,420,1.8,0.3
+535,351,Hoenn,Rainy Castform,water,,Forecast,,,70,70,70,70,70,70,420,1.8,0.3
+536,351,Hoenn,Snowy Castform,ice,,Forecast,,,70,70,70,70,70,70,420,1.8,0.3
+537,352,Hoenn,Kecleon,normal,,Color Change,,Protean,60,90,70,60,120,40,440,48.5,1
+538,353,Hoenn,Shuppet,ghost,,Insomnia,Frisk,Cursed Body,44,75,35,63,33,45,295,5.1,0.6
+539,354,Hoenn,Banette,ghost,,Insomnia,Frisk,Cursed Body,64,115,65,83,63,65,455,27.6,1.1
+540,354,Hoenn,Mega Banette,ghost,,Prankster,,,64,165,75,93,83,75,555,28.7,1.2
+541,355,Hoenn,Duskull,ghost,,Levitate,,Frisk,20,40,90,30,90,25,295,33.1,0.8
+542,356,Hoenn,Dusclops,ghost,,Pressure,,Frisk,40,70,130,60,130,25,455,67.5,1.6
+543,357,Hoenn,Tropius,grass,flying,Chlorophyll,Solar Power,Harvest,99,68,83,72,87,51,460,220.5,2
+544,358,Hoenn,Chimecho,psychic,,Levitate,,,75,50,80,95,90,65,455,2.2,0.6
+545,359,Hoenn,Absol,dark,,Pressure,Super Luck,Justified,65,130,60,75,60,75,465,103.6,1.2
+546,359,Hoenn,Mega Absol,dark,,Magic Bounce,,,65,150,60,115,60,115,565,108,1.2
+547,360,Hoenn,Wynaut,psychic,,Shadow Tag,,Telepathy,95,23,48,23,48,23,260,30.9,0.6
+548,361,Hoenn,Snorunt,ice,,Inner Focus,Ice Body,Moody,50,50,50,50,50,50,300,37,0.7
+549,362,Hoenn,Glalie,ice,,Inner Focus,Ice Body,Moody,80,80,80,80,80,80,480,565.5,1.5
+550,362,Hoenn,Mega Glalie,ice,,Refrigerate,,,80,120,80,120,80,100,580,772.1,2.1
+551,363,Hoenn,Spheal,ice,water,Thick Fat,Ice Body,Oblivious,70,40,50,55,50,25,290,87.1,0.8
+552,364,Hoenn,Sealeo,ice,water,Thick Fat,Ice Body,Oblivious,90,60,70,75,70,45,410,193.1,1.1
+553,365,Hoenn,Walrein,ice,water,Thick Fat,Ice Body,Oblivious,110,80,90,95,90,65,530,332,1.4
+554,366,Hoenn,Clamperl,water,,Shell Armor,,Rattled,35,64,85,74,55,32,345,115.7,0.4
+555,367,Hoenn,Huntail,water,,Swift Swim,,Water Veil,55,104,105,94,75,52,485,59.5,1.7
+556,368,Hoenn,Gorebyss,water,,Swift Swim,,Hydration,55,84,105,114,75,52,485,49.8,1.8
+557,369,Hoenn,Relicanth-M,water,rock,Swift Swim,Rock Head,Sturdy,100,90,130,45,65,55,485,51.6,1
+558,369,Hoenn,Relicanth-F,water,rock,Swift Swim,Rock Head,Sturdy,100,90,130,45,65,55,485,51.6,1
+559,370,Hoenn,Luvdisc,water,,Swift Swim,,Hydration,43,30,55,40,65,97,330,19.2,0.6
+560,371,Hoenn,Bagon,dragon,,Rock Head,,Sheer Force,45,75,60,40,30,50,300,92.8,0.6
+561,372,Hoenn,Shelgon,dragon,,Rock Head,,Overcoat,65,95,100,60,50,50,420,243.6,1.1
+562,373,Hoenn,Salamence,dragon,flying,Intimidate,,Moxie,95,135,80,110,80,100,600,226.2,1.5
+563,373,Hoenn,Mega Salamence,dragon,flying,Aerialate,,,95,145,130,120,90,120,700,248.2,1.8
+564,374,Hoenn,Beldum,steel,psychic,Clear Body,,Light Metal,40,55,80,35,60,30,300,209.9,0.6
+565,375,Hoenn,Metang,steel,psychic,Clear Body,,Light Metal,60,75,100,55,80,50,420,446.5,1.2
+566,376,Hoenn,Metagross,steel,psychic,Clear Body,,Light Metal,80,135,130,95,90,70,600,1212.5,1.6
+567,376,Hoenn,Mega Metagross,steel,psychic,Tough Claws,,,80,145,150,105,110,110,700,2078.7,2.5
+568,377,Hoenn,Regirock,rock,,Clear Body,,Sturdy,80,100,200,50,100,50,580,507.1,1.7
+569,378,Hoenn,Regice,ice,,Clear Body,,Ice Body,80,50,100,100,200,50,580,385.8,1.8
+570,379,Hoenn,Registeel,steel,,Clear Body,,Light Metal,80,75,150,75,150,50,580,451.9,1.9
+571,380,Hoenn,Latias,dragon,psychic,Levitate,,,80,80,90,110,130,110,600,88.2,1.4
+572,380,Hoenn,Mega Latias,dragon,psychic,Levitate,,,80,100,120,140,150,110,700,114.6,1.8
+573,381,Hoenn,Latios,dragon,psychic,Levitate,,,80,90,80,130,110,110,600,132.3,2
+574,381,Hoenn,Mega Latios,dragon,psychic,Levitate,,,80,130,100,160,120,110,700,154.3,2.3
+575,382,Hoenn,Kyogre,water,,Drizzle,,,100,100,90,150,140,90,670,776,4.5
+576,382,Hoenn,Primal Kyogre,water,,Primordial Sea,,,100,150,90,180,160,90,770,948,9.8
+577,383,Hoenn,Groudon,ground,,Drought,,,100,150,140,100,90,90,670,2094.4,3.5
+578,383,Hoenn,Primal Groudon,ground,fire,Desolate Land,,,100,180,160,150,90,90,770,2204,5
+579,384,Hoenn,Rayquaza,dragon,flying,Air Lock,,,105,150,90,150,90,95,680,455.3,7
+580,384,Hoenn,Mega Rayquaza,dragon,flying,Delta Stream,,,105,180,100,180,100,115,780,864.2,10.8
+581,385,Hoenn,Jirachi,steel,psychic,Serene Grace,,,100,100,100,100,100,100,600,2.4,0.3
+582,386,Hoenn,Deoxys,psychic,,Pressure,,,50,150,50,150,50,150,600,134,1.7
+583,386,Hoenn,Attack Form Deoxys,psychic,,Pressure,,,50,180,20,180,20,150,600,134,1.7
+584,386,Hoenn,Defense Form Deoxys,psychic,,Pressure,,,50,70,160,70,160,90,600,134,1.7
+585,386,Hoenn,Speed Form Deoxys,psychic,,Pressure,,,50,95,90,95,90,180,600,134,1.7
+586,387,Sinnoh,Turtwig,grass,,Overgrow,,Shell Armor,55,68,64,45,55,31,318,22.5,0.4
+587,388,Sinnoh,Grotle,grass,,Overgrow,,Shell Armor,75,89,85,55,65,36,405,213.8,1.1
+588,389,Sinnoh,Torterra,grass,ground,Overgrow,,Shell Armor,95,109,105,75,85,56,525,683.4,2.2
+589,390,Sinnoh,Chimchar,fire,,Blaze,,Iron Fist,44,58,44,58,44,61,309,13.7,0.5
+590,391,Sinnoh,Monferno,fire,fighting,Blaze,,Iron Fist,64,78,52,78,52,81,405,48.5,0.9
+591,392,Sinnoh,Infernape,fire,fighting,Blaze,,Iron Fist,76,104,71,104,71,108,534,121.3,1.2
+592,393,Sinnoh,Piplup,water,,Torrent,,Defiant,53,51,53,61,56,40,314,11.5,0.4
+593,394,Sinnoh,Prinplup,water,,Torrent,,Defiant,64,66,68,81,76,50,405,50.7,0.8
+594,395,Sinnoh,Empoleon,water,steel,Torrent,,Defiant,84,86,88,111,101,60,530,186.3,1.7
+595,396,Sinnoh,Starly-M,normal,flying,Keen Eye,,Reckless,40,55,30,30,30,60,245,4.4,0.3
+596,396,Sinnoh,Starly-F,normal,flying,Keen Eye,,Reckless,40,55,30,30,30,60,245,4.4,0.3
+597,397,Sinnoh,Staravia-M,normal,flying,Intimidate,,Reckless,55,75,50,40,40,80,340,34.2,0.6
+598,397,Sinnoh,Staravia-F,normal,flying,Intimidate,,Reckless,55,75,50,40,40,80,340,34.2,0.6
+599,398,Sinnoh,Staraptor-M,normal,flying,Intimidate,,Reckless,85,120,70,50,60,100,485,54.9,1.2
+600,398,Sinnoh,Staraptor-F,normal,flying,Intimidate,,Reckless,85,120,70,50,60,100,485,54.9,1.2
+601,399,Sinnoh,Bidoof-M,normal,,Simple,Unaware,Moody,59,45,40,35,40,31,250,44.1,0.5
+602,399,Sinnoh,Bidoof-F,normal,,Simple,Unaware,Moody,59,45,40,35,40,31,250,44.1,0.5
+603,400,Sinnoh,Bibarel-M,normal,water,Simple,Unaware,Moody,79,85,60,55,60,71,410,69.4,1
+604,400,Sinnoh,Bibarel-F,normal,water,Simple,Unaware,Moody,79,85,60,55,60,71,410,69.4,1
+605,401,Sinnoh,Kricketot-M,bug,,Shed Skin,,Run Away,37,25,41,25,41,25,194,4.9,0.3
+606,401,Sinnoh,Kricketot-F,bug,,Shed Skin,,Run Away,37,25,41,25,41,25,194,4.9,0.3
+607,402,Sinnoh,Kricketune-M,bug,,Swarm,,Technician,77,85,51,55,51,65,384,56.2,1
+608,402,Sinnoh,Kricketune-F,bug,,Swarm,,Technician,77,85,51,55,51,65,384,56.2,1
+609,403,Sinnoh,Shinx-M,electric,,Rivalry,Intimidate,Guts,45,65,34,40,34,45,263,20.9,0.5
+610,403,Sinnoh,Shinx-F,electric,,Rivalry,Intimidate,Guts,45,65,34,40,34,45,263,20.9,0.5
+611,404,Sinnoh,Luxio-M,electric,,Rivalry,Intimidate,Guts,60,85,49,60,49,60,363,67.2,0.9
+612,404,Sinnoh,Luxio-F,electric,,Rivalry,Intimidate,Guts,60,85,49,60,49,60,363,67.2,0.9
+613,405,Sinnoh,Luxray-M,electric,,Rivalry,Intimidate,Guts,80,120,79,95,79,70,523,92.6,1.4
+614,405,Sinnoh,Luxray-F,electric,,Rivalry,Intimidate,Guts,80,120,79,95,79,70,523,92.6,1.4
+615,406,Sinnoh,Budew,grass,poison,Mold Breaker,,Sheer Force,40,30,35,50,70,55,280,2.6,0.2
+616,407,Sinnoh,Roserade-M,grass,poison,Mold Breaker,,Sheer Force,60,70,65,125,105,90,515,32,0.9
+617,407,Sinnoh,Roserade-F,grass,poison,Mold Breaker,,Sheer Force,60,70,65,125,105,90,515,32,0.9
+618,408,Sinnoh,Cranidos,rock,,Sturdy,,Soundproof,67,125,40,30,30,58,350,69.4,0.9
+619,409,Sinnoh,Rampardos,rock,,Sturdy,,Soundproof,97,165,60,65,50,58,495,220.6,1.6
+620,410,Sinnoh,Shieldon,rock,steel,Shed Skin,,Overcoat,30,42,118,42,88,30,350,125.7,0.5
+621,411,Sinnoh,Bastiodon,rock,steel,Shed Skin,,Overcoat,60,52,168,47,138,30,495,329.6,1.3
+622,412,Sinnoh,Plant Cloak Burmy,bug,,Shed Skin,,Overcoat,40,29,45,29,45,36,224,7.5,0.2
+623,412,Sinnoh,Sandy Cloak Burmy,bug,,Shed Skin,,Overcoat,40,29,45,29,45,36,224,7.5,0.2
+624,412,Sinnoh,Trash Cloak Burmy,bug,,Shed Skin,,Overcoat,40,29,45,29,45,36,224,7.5,0.2
+625,413,Sinnoh,Plant Cloak Wormadam,bug,grass,Anticipation,,Overcoat,60,59,85,79,105,36,424,14.3,0.5
+626,413,Sinnoh,Sandy Cloak Wormadam,bug,ground,Anticipation,,Overcoat,60,79,105,59,85,36,424,14.3,0.5
+627,413,Sinnoh,Trash Cloak Wormadam,bug,steel,Anticipation,,Overcoat,60,69,95,69,95,36,424,14.3,0.5
+628,414,Sinnoh,Mothim,bug,flying,Swarm,,Tinted Lens,70,94,50,94,50,66,424,51.4,0.9
+629,415,Sinnoh,Combee-M,bug,flying,Honey Gather,,Hustle,30,30,42,30,42,70,244,12.1,0.3
+630,415,Sinnoh,Combee-F,bug,flying,Honey Gather,,Hustle,30,30,42,30,42,70,244,12.1,0.3
+631,416,Sinnoh,Vespiquen,bug,flying,Pressure,,Unnerve,70,80,102,80,102,40,474,84.9,1.2
+632,417,Sinnoh,Pachirisu-M,electric,,Run Away,Pickup,Volt Absorb,60,45,70,45,90,95,405,8.6,0.4
+633,417,Sinnoh,Pachirisu-F,electric,,Run Away,Pickup,Volt Absorb,60,45,70,45,90,95,405,8.6,0.4
+634,418,Sinnoh,Buizel-M,water,,Swift Swim,,Water Veil,55,65,35,60,30,85,330,65,0.7
+635,418,Sinnoh,Buizel-F,water,,Swift Swim,,Water Veil,55,65,35,60,30,85,330,65,0.7
+636,419,Sinnoh,Floatzel-M,water,,Swift Swim,,Water Veil,85,105,55,85,50,115,495,73.9,1.1
+637,419,Sinnoh,Floatzel-F,water,,Swift Swim,,Water Veil,85,105,55,85,50,115,495,73.9,1.1
+638,420,Sinnoh,Cherubi,grass,,Chlorophyll,,,45,35,45,62,53,35,275,7.3,0.4
+639,421,Sinnoh,Overcast Cherrim,grass,,Flower Gift,,,70,60,70,87,78,85,450,20.5,0.5
+640,421,Sinnoh,Sunshine Cherrim,grass,,Flower Gift,,,70,60,70,87,78,85,450,20.5,0.5
+641,422,Sinnoh,Shellos-East,water,,Sticky Hold,Storm Drain,Sand Force,76,48,48,57,62,34,325,13.9,0.3
+642,422,Sinnoh,Shellos-West,water,,Sticky Hold,Storm Drain,Sand Force,76,48,48,57,62,34,325,13.9,0.3
+643,423,Sinnoh,Gastrodon-East,water,ground,Sticky Hold,Storm Drain,Sand Force,111,83,68,92,82,39,475,65.9,0.9
+644,423,Sinnoh,Gastrodon-West,water,ground,Sticky Hold,Storm Drain,Sand Force,111,83,68,92,82,39,475,65.9,0.9
+645,424,Sinnoh,Ambipom-M,normal,,Technician,Pickup,Skill Link,75,100,66,60,66,115,482,44.8,1.2
+646,424,Sinnoh,Ambipom-F,normal,,Technician,Pickup,Skill Link,75,100,66,60,66,115,482,44.8,1.2
+647,425,Sinnoh,Drifloon,ghost,flying,Aftermath,Unburden,Flare Boost,90,50,34,60,44,70,348,2.6,0.4
+648,426,Sinnoh,Drifblim,ghost,flying,Aftermath,Unburden,Flare Boost,150,80,44,90,54,80,498,33.1,1.2
+649,427,Sinnoh,Buneary,normal,,Run Away,Klutz,Limber,55,66,44,44,56,85,350,12.1,0.4
+650,428,Sinnoh,Lopunny,normal,,Cute Charm,Klutz,Limber,65,76,84,54,96,105,480,73.4,1.2
+651,428,Sinnoh,Mega Lopunny,normal,fighting,Scrappy,,,65,136,94,54,96,135,580,62.4,1.3
+652,429,Sinnoh,Mismagius,ghost,,Levitate,,,60,60,60,105,105,105,495,9.7,0.9
+653,430,Sinnoh,Honchkrow,dark,flying,Insomnia,Super Luck,Moxie,100,125,52,105,52,71,505,60.2,0.9
+654,431,Sinnoh,Glameow,normal,,Limber,Own Tempo,Keen Eye,49,55,42,42,37,85,310,8.6,0.5
+655,432,Sinnoh,Purugly,normal,,Thick Fat,Own Tempo,Defiant,71,82,64,64,59,112,452,96.6,1
+656,433,Sinnoh,Chingling,psychic,,Levitate,,,45,30,50,65,50,45,285,1.3,0.2
+657,434,Sinnoh,Stunky,poison,dark,Stench,Aftermath,Keen Eye,63,63,47,41,41,74,329,42.3,0.4
+658,435,Sinnoh,Skuntank,poison,dark,Stench,Aftermath,Keen Eye,103,93,67,71,61,84,479,83.8,1
+659,436,Sinnoh,Bronzor,steel,psychic,Levitate,Heatproof,Heavy Metal,57,24,86,24,86,23,300,133.4,0.5
+660,437,Sinnoh,Bronzong,steel,psychic,Levitate,Heatproof,Heavy Metal,67,89,116,79,116,33,500,412.3,1.3
+661,438,Sinnoh,Bonsly,rock,,Sturdy,Rock Head,Rattled,50,80,95,10,45,10,290,33.1,0.5
+662,439,Sinnoh,Mime Jr.,psychic,fairy,Soundproof,Filter,Technician,20,25,45,70,90,60,310,28.7,0.6
+663,440,Sinnoh,Happiny,normal,,Natural Cure,Serene Grace,Friend Guard,100,5,5,15,65,30,220,53.8,0.6
+664,441,Sinnoh,Chatot,normal,flying,Keen Eye,Tangled Feet,Big Pecks,76,65,45,92,42,91,411,4.2,0.5
+665,442,Sinnoh,Spiritomb,ghost,dark,Pressure,,Infiltrator,50,92,108,92,108,35,485,238.1,1
+666,443,Sinnoh,Gible-M,dragon,ground,Sand Veil,,Rough Skin,58,70,45,40,45,42,300,45.2,0.7
+667,443,Sinnoh,Gible-F,dragon,ground,Sand Veil,,Rough Skin,58,70,45,40,45,42,300,45.2,0.7
+668,444,Sinnoh,Gabite-M,dragon,ground,Sand Veil,,Rough Skin,68,90,65,50,55,82,410,123.5,1.4
+669,444,Sinnoh,Gabite-F,dragon,ground,Sand Veil,,Rough Skin,68,90,65,50,55,82,410,123.5,1.4
+670,445,Sinnoh,Garchomp-M,dragon,ground,Sand Veil,,Rough Skin,108,130,95,80,85,102,600,209.4,1.9
+671,445,Sinnoh,Garchomp-F,dragon,ground,Sand Veil,,Rough Skin,108,130,95,80,85,102,600,209.4,1.9
+672,445,Sinnoh,Mega Garchomp,dragon,ground,Sand Force,,,108,170,115,120,95,92,700,209.4,1.9
+673,446,Sinnoh,Munchlax,normal,,Pickup,Thick Fat,Gluttony,135,85,40,40,85,5,390,231.5,0.6
+674,447,Sinnoh,Riolu,fighting,,Steadfast,Inner Focus,Prankster,40,70,40,35,40,60,285,44.5,0.7
+675,448,Sinnoh,Lucario,fighting,steel,Steadfast,Inner Focus,Justified,70,110,70,115,70,90,525,119,1.2
+676,448,Sinnoh,Mega Lucario,fighting,steel,Adaptability,,,70,145,88,140,70,112,625,126.8,1.3
+677,449,Sinnoh,Hippopotas-M,ground,,Sand Stream,,Sand Force,68,72,78,38,42,32,330,109.1,0.8
+678,449,Sinnoh,Hippopotas-F,ground,,Sand Stream,,Sand Force,68,72,78,38,42,32,330,109.1,0.8
+679,450,Sinnoh,Hippowdon-M,ground,,Sand Stream,,Sand Force,108,112,118,68,72,47,525,661.4,2
+680,450,Sinnoh,Hippowdon-F,ground,,Sand Stream,,Sand Force,108,112,118,68,72,47,525,661.4,2
+681,451,Sinnoh,Skorupi,poison,bug,Battle Armor,Sniper,Keen Eye,40,50,90,30,55,65,330,26.5,0.8
+682,452,Sinnoh,Drapion,poison,dark,Battle Armor,Sniper,Keen Eye,70,90,110,60,75,95,500,135.6,1.3
+683,453,Sinnoh,Croagunk-M,poison,fighting,Anticipation,Dry Skin,Poison Touch,48,61,40,61,40,50,300,50.7,0.7
+684,453,Sinnoh,Croagunk-F,poison,fighting,Anticipation,Dry Skin,Poison Touch,48,61,40,61,40,50,300,50.7,0.7
+685,454,Sinnoh,Toxicroak-M,poison,fighting,Anticipation,Dry Skin,Poison Touch,83,106,65,86,65,85,490,97.9,1.3
+686,454,Sinnoh,Toxicroak-F,poison,fighting,Anticipation,Dry Skin,Poison Touch,83,106,65,86,65,85,490,97.9,1.3
+687,455,Sinnoh,Carnivine,grass,,Levitate,,,74,100,72,90,72,46,454,59.5,1.4
+688,456,Sinnoh,Finneon-M,water,,Swift Swim,Storm Drain,Water Veil,49,49,56,49,61,66,330,15.4,0.4
+689,456,Sinnoh,Finneon-F,water,,Swift Swim,Storm Drain,Water Veil,49,49,56,49,61,66,330,15.4,0.4
+690,457,Sinnoh,Lumineon-M,water,,Swift Swim,Storm Drain,Water Veil,69,69,76,69,86,91,460,52.9,1.2
+691,457,Sinnoh,Lumineon-F,water,,Swift Swim,Storm Drain,Water Veil,69,69,76,69,86,91,460,52.9,1.2
+692,458,Sinnoh,Mantyke,water,flying,Swift Swim,Water Absorb,Water Veil,45,20,50,60,120,50,345,143.3,1
+693,459,Sinnoh,Snover-M,grass,ice,Snow Warning,,Soundproof,60,62,50,62,60,40,334,111.3,1
+694,459,Sinnoh,Snover-F,grass,ice,Snow Warning,,Soundproof,60,62,50,62,60,40,334,111.3,1
+695,460,Sinnoh,Abomasnow-M,grass,ice,Snow Warning,,Soundproof,90,92,75,92,85,60,494,298.7,2.2
+696,460,Sinnoh,Abomasnow-F,grass,ice,Snow Warning,,Soundproof,90,92,75,92,85,60,494,298.7,2.2
+697,460,Sinnoh,Mega Abomasnow,grass,ice,Snow Warning,,,90,132,105,132,105,30,594,407.9,2.7
+698,461,Sinnoh,Weavile-M,dark,ice,Pressure,,Pickpocket,70,120,65,45,85,125,510,75,1.1
+699,461,Sinnoh,Weavile-F,dark,ice,Pressure,,Pickpocket,70,120,65,45,85,125,510,75,1.1
+700,462,Sinnoh,Magnezone,electric,steel,Magnet Pull,Sturdy,Analytic,70,70,115,130,90,60,535,396.8,1.2
+701,463,Sinnoh,Lickilicky,normal,,Own Tempo,Oblivious,Cloud Nine,110,85,95,80,95,50,515,308.6,1.7
+702,464,Sinnoh,Rhyperior-M,ground,rock,Lightning Rod,Solid Rock,Reckless,115,140,130,55,55,40,535,623.5,2.4
+703,464,Sinnoh,Rhyperior-F,ground,rock,Lightning Rod,Solid Rock,Reckless,115,140,130,55,55,40,535,623.5,2.4
+704,465,Sinnoh,Tangrowth-M,grass,,Chlorophyll,Leaf Guard,Regenerator,100,100,125,110,50,50,535,283.5,2
+705,465,Sinnoh,Tangrowth-F,grass,,Chlorophyll,Leaf Guard,Regenerator,100,100,125,110,50,50,535,283.5,2
+706,466,Sinnoh,Electivire,electric,,Motor Drive,,Vital Spirit,75,123,67,95,85,95,540,305.6,1.8
+707,467,Sinnoh,Magmortar,fire,,Flame Body,,Vital Spirit,75,95,67,125,95,83,540,149.9,1.6
+708,468,Sinnoh,Togekiss,fairy,flying,Hustle,Serene Grace,Super Luck,85,50,95,120,115,80,545,83.8,1.5
+709,469,Sinnoh,Yanmega,bug,flying,Speed Boost,Tinted Lens,Frisk,86,76,86,116,56,95,515,113.5,1.9
+710,470,Sinnoh,Leafeon,grass,,Leaf Guard,,Chlorophyll,65,110,130,60,65,95,525,56.2,1
+711,471,Sinnoh,Glaceon,ice,,Snow Cloak,,Ice Body,65,60,110,130,95,65,525,57.1,0.8
+712,472,Sinnoh,Gliscor,ground,flying,Hyper Cutter,Sand Veil,Poison Heal,75,95,125,45,75,95,510,93.7,2
+713,473,Sinnoh,Mamoswine-M,ice,ground,Oblivious,Snow Cloak,Thick Fat,110,130,80,70,60,80,530,641.5,2.5
+714,473,Sinnoh,Mamoswine-F,ice,ground,Oblivious,Snow Cloak,Thick Fat,110,130,80,70,60,80,530,641.5,2.5
+715,474,Sinnoh,Porygon-Z,normal,,Adaptability,Download,Analytic,85,80,70,135,75,90,535,75,0.9
+716,475,Sinnoh,Gallade,psychic,fighting,Steadfast,,Justified,68,125,65,65,115,80,518,114.6,1.6
+717,475,Sinnoh,Mega Gallade,psychic,fighting,Inner Focus,,,68,165,95,65,115,110,618,124.3,1.6
+718,476,Sinnoh,Probopass,rock,steel,Sturdy,Magnet Pull,Sand Force,60,55,145,75,150,40,525,749.6,1.4
+719,477,Sinnoh,Dusknoir,ghost,,Pressure,,Frisk,45,100,135,65,135,45,525,235,2.2
+720,478,Sinnoh,Froslass,ice,ghost,Snow Cloak,,Cursed Body,70,80,70,80,70,110,480,58.6,1.3
+721,479,Sinnoh,Rotom,electric,ghost,Levitate,,,50,50,77,95,77,91,440,0.7,0.3
+722,479,Sinnoh,Rotom-Heat,electric,fire,Levitate,,,50,65,107,105,107,86,520,0.7,0.3
+723,479,Sinnoh,Rotom-Wash,electric,water,Levitate,,,50,65,107,105,107,86,520,0.7,0.3
+724,479,Sinnoh,Rotom-Frost,electric,ice,Levitate,,,50,65,107,105,107,86,520,0.7,0.3
+725,479,Sinnoh,Rotom-Fan,electric,flying,Levitate,,,50,65,107,105,107,86,520,0.7,0.3
+726,479,Sinnoh,Rotom-Mow,electric,grass,Levitate,,,50,65,107,105,107,86,520,0.7,0.3
+727,480,Sinnoh,Uxie,psychic,,Levitate,,,75,75,130,75,130,95,580,0.7,0.3
+728,481,Sinnoh,Mesprit,psychic,,Levitate,,,80,105,105,105,105,80,580,0.7,0.3
+729,482,Sinnoh,Azelf,psychic,,Levitate,,,75,125,70,125,70,115,580,0.7,0.3
+730,483,Sinnoh,Dialga,steel,dragon,Pressure,,Telepathy,100,120,120,150,100,90,680,1505.8,5.4
+731,484,Sinnoh,Palkia,water,dragon,Pressure,,Telepathy,90,120,100,150,120,100,680,740.8,4.2
+732,485,Sinnoh,Heatran,fire,steel,Flash Fire,,Flame Body,91,90,106,130,106,77,600,948,1.7
+733,486,Sinnoh,Regigigas,normal,,Slow Start,,,110,160,110,80,110,100,670,925.9,3.7
+734,487,Sinnoh,Giratina-Altered,ghost,dragon,Pressure,,Telepathy,150,100,120,100,120,90,680,1653.5,4.5
+735,487,Sinnoh,Giratina-Origin,ghost,dragon,Levitate,,,150,120,100,120,100,90,680,1433,6.9
+736,488,Sinnoh,Cresselia,psychic,,Levitate,,,120,70,120,75,130,85,600,188.7,1.5
+737,489,Sinnoh,Phione,water,,Hydration,,,80,80,80,80,80,80,480,6.8,0.4
+738,490,Sinnoh,Manaphy,water,,Hydration,,,100,100,100,100,100,100,600,3.1,0.3
+739,491,Sinnoh,Darkrai,dark,,Bad Dreams,,,70,90,90,135,90,125,600,111.3,1.5
+740,492,Sinnoh,Shaymin,grass,,Natural Cure,,,100,100,100,100,100,100,600,4.6,0.2
+741,492,Sinnoh,Shaymin-Sky,grass,flying,Serene Grace,,,100,103,75,120,75,127,600,11.5,0.4
+742,493,Sinnoh,Arceus,normal,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+743,493,Sinnoh,Arceus-Fire,fire,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+744,493,Sinnoh,Arceus-Water,water,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+745,493,Sinnoh,Arceus-Grass,grass,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+746,493,Sinnoh,Arceus-Electric,electric,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+747,493,Sinnoh,Arceus-Ice,ice,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+748,493,Sinnoh,Arceus-Fighting,fighting,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+749,493,Sinnoh,Arceus-Poison,poison,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+750,493,Sinnoh,Arceus-Ground,ground,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+751,493,Sinnoh,Arceus-Flying,flying,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+752,493,Sinnoh,Arceus-Psychic,psychic,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+753,493,Sinnoh,Arceus-Bug,bug,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+754,493,Sinnoh,Arceus-Rock,rock,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+755,493,Sinnoh,Arceus-Ghost,ghost,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+756,493,Sinnoh,Arceus-Dragon,dragon,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+757,493,Sinnoh,Arceus-Dark,dark,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+758,493,Sinnoh,Arceus-Steel,steel,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+759,493,Sinnoh,Arceus-Fairy,fairy,,Multitype,,,120,120,120,120,120,120,720,705.5,3.2
+760,494,Unova,Victini,psychic,fire,Victory Star,,,100,100,100,100,100,100,600,8.8,0.4
+761,495,Unova,Snivy,grass,,Overgrow,,Contrary,45,45,55,45,55,63,308,17.9,0.6
+762,496,Unova,Servine,grass,,Overgrow,,Contrary,60,60,75,60,75,83,413,35.3,0.8
+763,497,Unova,Serperior,grass,,Overgrow,,Contrary,75,75,95,75,95,113,528,138.9,3.3
+764,498,Unova,Tepig,fire,,Blaze,,Thick Fat,65,63,45,45,45,45,308,21.8,0.5
+765,499,Unova,Pignite,fire,fighting,Blaze,,Thick Fat,90,93,55,70,55,55,418,122.4,1
+766,500,Unova,Emboar,fire,fighting,Blaze,,Reckless,110,123,65,100,65,65,528,330.7,1.6
+767,501,Unova,Oshawott,water,,Torrent,,Shell Armor,55,55,45,63,45,45,308,13,0.5
+768,502,Unova,Dewott,water,,Torrent,,Shell Armor,75,75,60,83,60,60,413,54,0.8
+769,503,Unova,Samurott,water,,Torrent,,Shell Armor,95,100,85,108,70,70,528,208.6,1.5
+770,503,Hisui,Hisuian Samurott,water,dark,Torrent,,Sharpness,90,108,80,100,65,85,528,128.3,1.5
+771,504,Unova,Patrat,normal,,Run Away,Keen Eye,Analytic,45,55,39,35,39,42,255,25.6,0.5
+772,505,Unova,Watchog,normal,,Illuminate,Keen Eye,Analytic,60,85,69,60,69,77,420,59.5,1.1
+773,506,Unova,Lillipup,normal,,Vital Spirit,Pickup,Run Away,45,60,45,25,45,55,275,9,0.4
+774,507,Unova,Herdier,normal,,Intimidate,Sand Rush,Scrappy,65,80,65,35,65,60,370,32.4,0.9
+775,508,Unova,Stoutland,normal,,Intimidate,Sand Rush,Scrappy,85,110,90,45,90,80,500,134.5,1.2
+776,509,Unova,Purrloin,dark,,Limber,Unburden,Prankster,41,50,37,50,37,66,281,22.3,0.4
+777,510,Unova,Liepard,dark,,Limber,Unburden,Prankster,64,88,50,88,50,106,446,82.7,1.1
+778,511,Unova,Pansage,grass,,Gluttony,,Overgrow,50,53,48,53,48,64,316,23.1,0.6
+779,512,Unova,Simisage,grass,,Gluttony,,Overgrow,75,98,63,98,63,101,498,67.2,1.1
+780,513,Unova,Pansear,fire,,Gluttony,,Blaze,50,53,48,53,48,64,316,24.3,0.6
+781,514,Unova,Simisear,fire,,Gluttony,,Blaze,75,98,63,98,63,101,498,61.7,1
+782,515,Unova,Panpour,water,,Gluttony,,Torrent,50,53,48,53,48,64,316,30.9,0.6
+783,516,Unova,Simipour,water,,Gluttony,,Torrent,75,98,63,98,63,101,498,63.9,1
+784,517,Unova,Munna,psychic,,Forewarn,Synchronize,Telepathy,76,25,45,67,55,24,292,51.4,0.6
+785,518,Unova,Musharna,psychic,,Forewarn,Synchronize,Telepathy,116,55,85,107,95,29,487,133.4,1.1
+786,519,Unova,Pidove,normal,flying,Big Pecks,Super Luck,Rivalry,50,55,50,36,30,43,264,4.6,0.3
+787,520,Unova,Tranquill,normal,flying,Big Pecks,Super Luck,Rivalry,62,77,62,50,42,65,358,33.1,0.6
+788,521,Unova,Unfezant-M,normal,flying,Big Pecks,Super Luck,Rivalry,80,115,80,65,55,93,488,63.9,1.2
+789,521,Unova,Unfezant-F,normal,flying,Big Pecks,Super Luck,Rivalry,80,115,80,65,55,93,488,63.9,1.2
+790,522,Unova,Blitzle,electric,,Lightning Rod,Motor Drive,Sap Sipper,45,60,32,50,32,76,295,65.7,0.8
+791,523,Unova,Zebstrika,electric,,Lightning Rod,Motor Drive,Sap Sipper,75,100,63,80,63,116,497,175.3,1.6
+792,524,Unova,Roggenrola,rock,,Sturdy,Weak Armor,Sand Force,55,75,85,25,25,15,280,39.7,0.4
+793,525,Unova,Boldore,rock,,Sturdy,Weak Armor,Sand Force,70,105,105,50,40,20,390,224.9,0.9
+794,526,Unova,Gigalith,rock,,Sturdy,Sand Stream,Sand Force,85,135,130,60,80,25,515,573.2,1.7
+795,527,Unova,Woobat,psychic,flying,Unaware,Klutz,Simple,65,45,43,55,43,72,323,4.6,0.4
+796,528,Unova,Swoobat,psychic,flying,Unaware,Klutz,Simple,67,57,55,77,55,114,425,23.1,0.9
+797,529,Unova,Drilbur,ground,,Sand Rush,Sand Force,Mold Breaker,60,85,40,30,45,68,328,18.7,0.3
+798,530,Unova,Excadrill,ground,steel,Sand Rush,Sand Force,Mold Breaker,110,135,60,50,65,88,508,89.1,0.7
+799,531,Unova,Audino,normal,,Healer,Regenerator,Klutz,103,60,86,60,86,50,445,68.3,1.1
+800,531,Unova,Mega Audino,normal,fairy,Healer,,,103,60,126,80,126,50,545,70.5,1.5
+801,532,Unova,Timburr,fighting,,Guts,Sheer Force,Iron Fist,75,80,55,25,35,35,305,27.6,0.6
+802,533,Unova,Gurdurr,fighting,,Guts,Sheer Force,Iron Fist,85,105,85,40,50,40,405,88.2,1.2
+803,534,Unova,Conkeldurr,fighting,,Guts,Sheer Force,Iron Fist,105,140,95,55,65,45,505,191.8,1.3
+804,535,Unova,Tympole,water,,Swift Swim,Hydration,Water Absorb,50,50,40,50,40,64,294,9.9,0.5
+805,536,Unova,Palpitoad,water,ground,Swift Swim,Hydration,Water Absorb,75,65,55,65,55,69,384,37.5,0.8
+806,537,Unova,Seismitoad,water,ground,Swift Swim,Poison Touch,Water Absorb,105,95,75,85,75,74,509,136.7,1.5
+807,538,Unova,Throh,fighting,,Guts,Inner Focus,Mold Breaker,120,100,85,30,85,45,465,122.4,1.3
+808,539,Unova,Sawk,fighting,,Sturdy,Inner Focus,Mold Breaker,75,125,75,30,75,85,465,112.4,1.3
+809,540,Unova,Sewaddle,bug,grass,Swarm,Chlorophyll,Overcoat,45,53,70,40,60,42,310,5.5,0.3
+810,541,Unova,Swadloon,bug,grass,Leaf Guard,Chlorophyll,Overcoat,55,63,90,50,80,42,380,16.1,0.5
+811,542,Unova,Leavanny,bug,grass,Swarm,Chlorophyll,Overcoat,75,103,80,70,80,92,500,45.2,1.2
+812,543,Unova,Venipede,bug,poison,Poison Point,Swarm,Speed Boost,30,45,59,30,39,57,260,11.7,0.4
+813,544,Unova,Whirlipede,bug,poison,Poison Point,Swarm,Speed Boost,40,55,99,40,79,47,360,129,1.2
+814,545,Unova,Scolipede,bug,poison,Poison Point,Swarm,Speed Boost,60,100,89,55,69,112,485,442,2.5
+815,546,Unova,Cottonee,grass,fairy,Prankster,Infiltrator,Chlorophyll,40,27,60,37,50,66,280,1.3,0.3
+816,547,Unova,Whimsicott,grass,fairy,Prankster,Infiltrator,Chlorophyll,60,67,85,77,75,116,480,14.6,0.7
+817,548,Unova,Petilil,grass,,Chlorophyll,Own Tempo,Leaf Guard,45,35,50,70,50,30,280,14.6,0.5
+818,549,Unova,Lilligant,grass,,Chlorophyll,Own Tempo,Leaf Guard,70,60,75,110,75,90,480,35.9,1.1
+819,549,Hisui,Hisuian Lilligant,grass,fighting,Chlorophyll,Hustle,Leaf Guard,70,105,85,50,75,105,480,42.3,1.2
+820,550,Unova,Basculin-Red Stripe,water,,Reckless,Adaptability,Mold Breaker,70,92,65,80,55,98,460,39.7,1
+821,550,Unova,Basculin-Blue Stripe,water,,Rock Head,Adaptability,Mold Breaker,70,92,65,80,55,98,460,39.7,1
+822,550,Hisui,Basculin-White Stripe,water,,Rattled,Adaptability,Mold Breaker,70,92,65,80,55,98,460,39.7,1
+823,551,Unova,Sandile,ground,dark,Intimidate,Moxie,Anger Point,50,72,35,35,35,65,292,33.5,0.7
+824,552,Unova,Krokorok,ground,dark,Intimidate,Moxie,Anger Point,60,82,45,45,45,74,351,73.6,1
+825,553,Unova,Krookodile,ground,dark,Intimidate,Moxie,Anger Point,95,117,80,65,70,92,519,212.3,1.5
+826,554,Unova,Darumaka,fire,,Hustle,,Inner Focus,70,90,45,15,45,50,315,82.7,0.6
+827,554,Galar,Galarian Darumaka,ice,,Hustle,,Inner Focus,70,90,45,15,45,50,315,88.2,0.7
+828,555,Unova,Darmanitan,fire,,Sheer Force,,Zen Mode,105,140,55,30,55,95,480,204.8,1.3
+829,555,Galar,Galarian Darmanitan,ice,,Gorrilla Tactics,,Zen Mode,105,140,55,30,55,95,480,264.6,1.7
+830,555,Unova,Zen Mode Darmanitan,fire,psychic,Zen Mode,,,105,30,105,140,105,55,540,204.8,1.3
+831,555,Galar,Zen Mode Galarian Darmanitan,ice,fire,Zen Mode,,,105,160,55,30,55,135,540,264.6,1.7
+832,556,Unova,Maractus,grass,,Water Absorb,Chlorophyll,Storm Drain,75,86,67,106,67,60,461,61.7,1
+833,557,Unova,Dwebble,bug,rock,Sturdy,Shell Armor,Weak Armor,50,65,85,35,35,55,325,32,0.3
+834,558,Unova,Crustle,bug,rock,Sturdy,Shell Armor,Weak Armor,70,105,125,65,75,45,485,440.9,1.4
+835,559,Unova,Scraggy,dark,fighting,Shed Skin,Moxie,Intimidate,50,75,70,35,70,48,348,26,0.6
+836,560,Unova,Scrafty,dark,fighting,Shed Skin,Moxie,Intimidate,65,90,115,45,115,58,488,66.1,1.1
+837,561,Unova,Sigilyph,psychic,flying,Wonder Skin,Magic Guard,Tinted Lens,72,58,80,103,80,97,490,30.9,1.4
+838,562,Unova,Yamask,ghost,,Mummy,,,38,30,85,55,65,30,303,3.3,0.5
+839,562,Galar,Galarian Yamask,ghost,,Wandering Spirit,,,38,55,85,30,65,30,303,3.3,0.5
+840,563,Unova,Cofagrigus,ghost,,Mummy,,,58,50,145,95,105,30,483,168.7,0.5
+841,564,Unova,Tirtouga,water,rock,Solid Rock,Sturdy,Swift Swim,54,78,103,53,45,22,355,36.4,0.7
+842,565,Unova,Carracosta,water,rock,Solid Rock,Sturdy,Swift Swim,74,108,133,83,65,32,495,178.6,1.2
+843,566,Unova,Archen,rock,flying,Defeatist,,,55,112,45,74,45,70,401,20.9,0.5
+844,567,Unova,Archeops,rock,flying,Defeatist,,,75,140,65,112,65,110,567,70.5,1.4
+845,568,Unova,Trubbish,poison,,Stench,Sticky Hold,Aftermath,50,50,62,40,62,65,329,68.3,0.6
+846,569,Unova,Garbodor,poison,,Stench,Weak Armor,Aftermath,80,95,82,60,82,75,474,236.6,1.9
+847,570,Unova,Zorua,dark,,Illusion,,,40,65,40,80,40,65,330,27.6,0.7
+848,570,Hisui,Hisuian Zorua,normal,ghost,Illusion,,,35,60,40,85,40,70,330,27.6,0.7
+849,571,Unova,Zoroark,dark,,Illusion,,,60,105,60,120,60,105,510,178.8,1.6
+850,571,Hisui,Hisuian Zoroark,normal,ghost,Illusion,,,55,100,60,125,60,110,510,160.9,1.6
+851,572,Unova,Minccino,normal,,Cute Charm,Technician,Skill Link,55,50,40,40,40,75,300,12.8,0.4
+852,573,Unova,Cinccino,normal,,Cute Charm,Technician,Skill Link,75,95,60,65,60,115,470,16.5,0.5
+853,574,Unova,Gothita,psychic,,Frisk,Competitive,Shadow Tag,45,30,50,55,65,45,290,12.8,0.4
+854,575,Unova,Gothorita,psychic,,Frisk,Competitive,Shadow Tag,60,45,70,75,85,55,390,39.7,0.7
+855,576,Unova,Gothitelle,psychic,,Frisk,Competitive,Shadow Tag,70,55,95,95,110,65,490,97,1.5
+856,577,Unova,Solosis,psychic,,Overcoat,Magic Guard,Regenerator,45,30,40,105,50,20,290,2.2,0.3
+857,578,Unova,Duosion,psychic,,Overcoat,Magic Guard,Regenerator,65,40,50,125,60,30,370,17.6,0.6
+858,579,Unova,Reuniclus,psychic,,Overcoat,Magic Guard,Regenerator,110,65,75,125,85,30,490,44.3,1
+859,580,Unova,Ducklett,water,flying,Keen Eye,Big Pecks,Hydration,62,44,50,44,50,55,305,12.1,0.5
+860,581,Unova,Swanna,water,flying,Keen Eye,Big Pecks,Hydration,75,87,63,87,63,98,473,53.4,1.3
+861,582,Unova,Vanillite,ice,,Ice Body,Snow Cloak,Weak Armor,36,50,50,65,60,44,305,12.6,0.4
+862,583,Unova,Vanillish,ice,,Ice Body,Snow Cloak,Weak Armor,51,65,65,80,75,59,395,90.4,1.1
+863,584,Unova,Vanilluxe,ice,,Ice Body,Snow Warning,Weak Armor,71,95,85,110,95,79,535,126.8,1.3
+864,585,Unova,Deerling-Spring,normal,grass,Chlorophyll,Sap Sipper,Serene Grace,60,60,50,40,50,75,335,43,0.6
+865,585,Unova,Deerling-Summer,normal,grass,Chlorophyll,Sap Sipper,Serene Grace,60,60,50,40,50,75,335,43,0.6
+866,585,Unova,Deerling-Autumn,normal,grass,Chlorophyll,Sap Sipper,Serene Grace,60,60,50,40,50,75,335,43,0.6
+867,585,Unova,Deerling-Winter,normal,grass,Chlorophyll,Sap Sipper,Serene Grace,60,60,50,40,50,75,335,43,0.6
+868,586,Unova,Sawsbuck-Spring,normal,grass,Chlorophyll,Sap Sipper,Serene Grace,80,100,70,60,70,95,475,203.9,1.9
+869,586,Unova,Sawsbuck-Summer,normal,grass,Chlorophyll,Sap Sipper,Serene Grace,80,100,70,60,70,95,475,203.9,1.9
+870,586,Unova,Sawsbuck-Autumn,normal,grass,Chlorophyll,Sap Sipper,Serene Grace,80,100,70,60,70,95,475,203.9,1.9
+871,586,Unova,Sawsbuck-Winter,normal,grass,Chlorophyll,Sap Sipper,Serene Grace,80,100,70,60,70,95,475,203.9,1.9
+872,587,Unova,Emolga,electric,flying,Static,,Motor Drive,55,75,60,75,60,103,428,11,0.4
+873,588,Unova,Karrablast,bug,,Swarm,Shed Skin,No Guard,50,75,45,40,45,60,315,13,0.5
+874,589,Unova,Escavalier,bug,steel,Swarm,Shell Armor,Overcoat,70,135,105,60,105,20,495,72.8,1
+875,590,Unova,Foongus,grass,poison,Effect Spore,,Regenerator,69,55,45,55,55,15,294,2.2,0.2
+876,591,Unova,Amoonguss,grass,poison,Effect Spore,,Regenerator,114,85,70,85,80,30,464,23.1,0.6
+877,592,Unova,Frillish-M,water,ghost,Water Absorb,Cursed Body,Damp,55,40,50,65,85,40,335,72.8,1.2
+878,592,Unova,Frillish-F,water,ghost,Water Absorb,Cursed Body,Damp,55,40,50,65,85,40,335,72.8,1.2
+879,593,Unova,Jellicent-M,water,ghost,Water Absorb,Cursed Body,Damp,100,60,70,85,105,60,480,297.6,2.2
+880,593,Unova,Jellicent-F,water,ghost,Water Absorb,Cursed Body,Damp,100,60,70,85,105,60,480,297.6,2.2
+881,594,Unova,Alomomola,water,,Healer,Hydration,Regenerator,165,75,80,40,45,65,470,69.7,1.2
+882,595,Unova,Joltik,bug,electric,Compound Eyes,Unnerve,Swarm,50,47,50,57,50,65,319,1.3,0.1
+883,596,Unova,Galvantula,bug,electric,Compound Eyes,Unnerve,Swarm,70,77,60,97,60,108,472,31.5,0.8
+884,597,Unova,Ferroseed,grass,steel,Iron Barbs,,,44,50,91,24,86,10,305,41.4,0.6
+885,598,Unova,Ferrothorn,grass,steel,Iron Barbs,,Anticipation,74,94,131,54,116,20,489,242.5,1
+886,599,Unova,Klink,steel,,Plus,Minus,Clear Body,40,55,70,45,60,30,300,46.3,0.3
+887,600,Unova,Klang,steel,,Plus,Minus,Clear Body,60,80,95,70,85,50,440,112.4,0.6
+888,601,Unova,Klinklang,steel,,Plus,Minus,Clear Body,60,100,115,70,85,90,520,178.6,0.6
+889,602,Unova,Tynamo,electric,,Levitate,,,35,55,40,45,40,60,275,0.7,0.2
+890,603,Unova,Eelektrik,electric,,Levitate,,,65,85,70,75,70,40,405,48.5,1.2
+891,604,Unova,Eelektross,electric,,Levitate,,,85,115,80,105,80,50,515,177.5,2.1
+892,605,Unova,Elgyem,psychic,,Telepathy,Synchronize,Analytic,55,55,55,85,55,30,335,19.8,0.5
+893,606,Unova,Beheeyem,psychic,,Telepathy,Synchronize,Analytic,75,75,75,125,95,40,485,76.1,1
+894,607,Unova,Litwick,ghost,fire,Flash Fire,Flame Body,Infiltrator,50,30,55,65,55,20,275,6.8,0.3
+895,608,Unova,Lampent,ghost,fire,Flash Fire,Flame Body,Infiltrator,60,40,60,95,60,55,370,28.7,0.6
+896,609,Unova,Chandelure,ghost,fire,Flash Fire,Flame Body,Infiltrator,60,55,90,145,90,80,520,75.6,1
+897,610,Unova,Axew,dragon,,Rivalry,Mold Breaker,Unnerve,46,87,60,30,40,57,320,39.7,0.6
+898,611,Unova,Fraxure,dragon,,Rivalry,Mold Breaker,Unnerve,66,117,70,40,50,67,410,79.4,1
+899,612,Unova,Haxorus,dragon,,Rivalry,Mold Breaker,Unnerve,76,147,90,60,70,97,540,232.6,1.8
+900,613,Unova,Cubchoo,ice,,Snow Cloak,Slush Rush,Rattled,55,70,40,60,40,40,305,18.7,0.5
+901,614,Unova,Beartic,ice,,Snow Cloak,Slush Rush,Swift Swim,95,130,80,70,80,50,505,573.2,2.6
+902,615,Unova,Cryogonal,ice,,Levitate,,,80,50,50,95,135,105,515,326.3,1.1
+903,616,Unova,Shelmet,bug,,Hydration,Shell Armor,Overcoat,50,40,85,40,65,25,305,17,0.4
+904,617,Unova,Accelgor,bug,,Hydration,Sticky Hold,Unburden,80,70,40,100,60,145,495,55.8,0.8
+905,618,Unova,Stunfisk,ground,electric,Static,Limber,Sand Veil,109,66,84,81,99,32,471,24.3,0.7
+906,618,Galar,Galarian Stunfisk,ground,steel,Minicry,,,109,81,99,66,84,32,471,45.2,0.7
+907,619,Unova,Mienfoo,fighting,,Inner Focus,Regenerator,Reckless,45,85,50,55,50,65,350,44.1,0.9
+908,620,Unova,Mienshao,fighting,,Inner Focus,Regenerator,Reckless,65,125,60,95,60,105,510,78.3,1.4
+909,621,Unova,Druddigon,dragon,,Rough Skin,Sheer Force,Mold Breaker,77,120,90,60,90,48,485,306.4,1.6
+910,622,Unova,Golett,ground,ghost,Iron Fist,Klutz,No Guard,59,74,50,35,50,35,303,202.8,1
+911,623,Unova,Golurk,ground,ghost,Iron Fist,Klutz,No Guard,89,124,80,55,80,55,483,727.5,2.8
+912,624,Unova,Pawniard,dark,steel,Defiant,Inner Focus,Pressure,45,85,70,40,40,60,340,22.5,0.5
+913,625,Unova,Bisharp,dark,steel,Defiant,Inner Focus,Pressure,65,125,100,60,70,70,490,154.3,1.6
+914,626,Unova,Bouffalant,normal,,Reckless,Sap Sipper,Soundproof,95,110,95,40,95,55,490,208.6,1.6
+915,627,Unova,Rufflet,normal,flying,Keen Eye,Sheer Force,Hustle,70,83,50,37,50,60,350,23.1,0.5
+916,628,Unova,Braviary,normal,flying,Keen Eye,Sheer Force,Defiant,100,123,75,57,75,80,510,90.4,1.5
+917,628,Hisui,Hisuian Braviary,psychic,flying,Keen Eye,Sheer Force,Tinted Lens,110,83,70,112,70,65,510,95.7,1.7
+918,629,Unova,Vullaby,dark,flying,Big Pecks,Overcoat,Weak Armor,70,55,75,45,65,60,370,19.8,0.5
+919,630,Unova,Mandibuzz,dark,flying,Big Pecks,Overcoat,Weak Armor,110,65,105,55,95,80,510,87.1,1.2
+920,631,Unova,Heatmor,fire,,Gluttony,Flash Fire,White Smoke,85,97,66,105,66,65,484,127.9,1.4
+921,632,Unova,Durant,bug,steel,Swarm,Hustle,Truant,58,109,112,48,48,109,484,72.8,0.3
+922,633,Unova,Deino,dark,dragon,Hustle,,,52,65,50,45,50,38,300,38.1,0.8
+923,634,Unova,Zweilous,dark,dragon,Hustle,,,72,85,70,65,70,58,420,110.2,1.4
+924,635,Unova,Hydreigon,dark,dragon,Levitate,,,92,105,90,125,90,98,600,352.7,1.8
+925,636,Unova,Larvesta,bug,fire,Flame Body,,Swarm,55,85,55,50,55,60,360,63.5,1.1
+926,637,Unova,Volcarona,bug,fire,Flame Body,,Swarm,85,60,65,135,105,100,550,101.4,1.6
+927,638,Unova,Cobalion,steel,fighting,Justified,,,91,90,129,90,72,108,580,551.2,2.1
+928,639,Unova,Terrakion,rock,fighting,Justified,,,91,129,90,72,90,108,580,573.2,1.9
+929,640,Unova,Virizion,grass,fighting,Justified,,,91,90,72,90,129,108,580,440.9,2
+930,641,Unova,Tornadus-Incarnate,flying,,Prankster,,Defiant,79,115,70,125,80,111,580,138.9,1.5
+931,641,Unova,Tornadus-Therian,flying,,Regenerator,,Defiant,79,100,80,110,90,121,580,138.9,1.4
+932,642,Unova,Thundurus-Incarnate,electric,flying,Prankster,,Volt Absorb,79,115,70,125,80,111,580,134.5,1.5
+933,642,Unova,Thundurus-Therian,electric,flying,Prankster,,Defiant,79,105,70,145,80,101,580,134.5,3
+934,643,Unova,Reshiram,dragon,fire,Turboblaze,,,100,120,100,150,120,90,680,727.5,3.2
+935,644,Unova,Zekrom,dragon,electric,Teravolt,,,100,150,120,120,100,90,680,760.6,2.9
+936,645,Unova,Landorus-Incarnate,ground,flying,Sand Force,,Sheer Force,89,125,90,115,80,101,600,149.9,1.5
+937,645,Unova,Landorus-Therian,ground,flying,Intimidate,,,89,145,90,105,80,91,600,149.9,1.3
+938,646,Unova,Kyurem,dragon,ice,Pressure,,,125,130,90,130,90,95,660,716.5,3
+939,646,Unova,Kyurem-Black,dragon,ice,Teravolt,,,125,170,100,120,90,95,700,716.5,3.3
+940,646,Unova,Kyurem-White,dragon,ice,Turboblaze,,,125,120,90,170,100,95,700,716.5,3.6
+941,647,Unova,Keldeo,water,fighting,Justified,,,91,72,90,129,90,108,580,106.9,1.4
+942,647,Unova,Resolute Keldeo,water,fighting,Justified,,,91,72,90,129,90,108,580,106.9,1.4
+943,648,Unova,Meloetta-Aria,normal,psychic,Serene Grace,,,100,77,77,128,128,90,600,14.3,0.6
+944,648,Unova,Meloetta-Pirouette,normal,fighting,Serene Grace,,,100,128,90,77,77,128,600,14.3,0.6
+945,649,Unova,Genesect,bug,steel,Download,,,71,120,95,120,95,99,600,181.9,1.5
+946,650,Kalos,Chespin,grass,,Overgrow,,Bulletproof,56,61,65,48,45,38,313,19.8,0.4
+947,651,Kalos,Quilladin,grass,,Overgrow,,Bulletproof,61,78,95,56,58,57,405,63.9,0.7
+948,652,Kalos,Chesnaught,grass,fighting,Overgrow,,Bulletproof,88,107,122,74,75,64,530,198.4,1.6
+949,653,Kalos,Fennekin,fire,,Blaze,,Magician,40,45,40,62,60,60,307,20.7,0.4
+950,654,Kalos,Braixen,fire,,Blaze,,Magician,59,59,58,90,70,73,409,32,1
+951,655,Kalos,Delphox,fire,psychic,Blaze,,Magician,75,69,72,114,100,104,534,86,1.5
+952,656,Kalos,Froakie,water,,Torrent,,Protean,41,56,40,62,44,71,314,15.4,0.3
+953,657,Kalos,Frogadier,water,,Torrent,,Protean,54,63,52,83,56,97,405,24,0.6
+954,658,Kalos,Greninja,water,dark,Torrent,,Protean,72,95,67,103,71,122,530,88.2,1.5
+955,658,Kalos,Ash-Greninja,water,dark,Battle Bond,,,72,145,67,153,71,132,640,88.2,1.5
+956,659,Kalos,Bunnelby,normal,,Pickup,Cheek Pouch,Huge Power,38,36,38,32,36,57,237,11,0.4
+957,660,Kalos,Diggersby,normal,ground,Pickup,Cheek Pouch,Huge Power,85,56,77,50,77,78,423,93.5,1
+958,661,Kalos,Fletchling,normal,flying,Big Pecks,,Gale Wings,45,50,43,40,38,62,278,3.7,0.3
+959,662,Kalos,Fletchinder,fire,flying,Flame Body,,Gale Wings,62,73,55,56,52,84,382,35.3,0.7
+960,663,Kalos,Talonflame,fire,flying,Flame Body,,Gale Wings,78,81,71,74,69,126,499,54,1.2
+961,664,Kalos,Scatterbug,bug,,Shield Dust,Compound Eyes,Friend Guard,38,35,40,27,25,35,200,5.5,0.3
+962,665,Kalos,Spewpa,bug,,Shed Skin,,Friend Guard,45,22,60,27,30,29,213,18.5,0.3
+963,666,Kalos,Vivillon-Archipelago,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+964,666,Kalos,Vivillon-Continental,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+965,666,Kalos,Vivillon-Elegant,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+966,666,Kalos,Vivillon-Garden,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+967,666,Kalos,Vivillon-High Plains,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+968,666,Kalos,Vivillon-Icy Snow,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+969,666,Kalos,Vivillon-Jungle,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+970,666,Kalos,Vivillon-Marine,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+971,666,Kalos,Vivillon-Meadow,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+972,666,Kalos,Vivillon-Modern,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+973,666,Kalos,Vivillon-Monsoon,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+974,666,Kalos,Vivillon-Ocean,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+975,666,Kalos,Vivillon-Polar,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+976,666,Kalos,Vivillon-River,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+977,666,Kalos,Vivillon-Sandstorm,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+978,666,Kalos,Vivillon-Savanna,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+979,666,Kalos,Vivillon-Sun,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+980,666,Kalos,Vivillon-Tundra,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+981,666,Kalos,Vivillon-Pokeball,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+982,666,Kalos,Vivillon-Fancy,bug,flying,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411,37.5,1.2
+983,667,Kalos,Litleo,fire,normal,Rivalry,Unnerve,Moxie,62,50,58,73,54,72,369,29.8,0.6
+984,668,Kalos,Pyroar-M,fire,normal,Rivalry,Unnerve,Moxie,86,68,72,109,66,106,507,179.7,1.5
+985,668,Kalos,Pyroar-F,fire,normal,Rivalry,Unnerve,Moxie,86,68,72,109,66,106,507,179.7,1.5
+986,669,Kalos,Flabébé-Red,fairy,,Flower Veil,,Symbiosis,44,38,39,61,79,42,303,0.2,0.1
+987,669,Kalos,Flabébé-Yellow,fairy,,Flower Veil,,Symbiosis,44,38,39,61,79,42,303,0.2,0.1
+988,669,Kalos,Flabébé-Orange,fairy,,Flower Veil,,Symbiosis,44,38,39,61,79,42,303,0.2,0.1
+989,669,Kalos,Flabébé-Blue,fairy,,Flower Veil,,Symbiosis,44,38,39,61,79,42,303,0.2,0.1
+990,669,Kalos,Flabébé-White,fairy,,Flower Veil,,Symbiosis,44,38,39,61,79,42,303,0.2,0.1
+991,670,Kalos,Floette-Red,fairy,,Flower Veil,,Symbiosis,54,45,47,75,98,52,371,2,0.2
+992,670,Kalos,Floette-Yellow,fairy,,Flower Veil,,Symbiosis,54,45,47,75,98,52,371,2,0.2
+993,670,Kalos,Floette-Orange,fairy,,Flower Veil,,Symbiosis,54,45,47,75,98,52,371,2,0.2
+994,670,Kalos,Floette-Blue,fairy,,Flower Veil,,Symbiosis,54,45,47,75,98,52,371,2,0.2
+995,670,Kalos,Floette-White,fairy,,Flower Veil,,Symbiosis,54,45,47,75,98,52,371,2,0.2
+996,670,Kalos,Floette-Eternal Flower,fairy,,Flower Veil,,Symbiosis,74,65,67,125,128,92,551,2,0.2
+997,671,Kalos,Florges-Red,fairy,,Flower Veil,,Symbiosis,78,65,68,112,154,75,552,22,1.1
+998,671,Kalos,Florges-Yellow,fairy,,Flower Veil,,Symbiosis,78,65,68,112,154,75,552,22,1.1
+999,671,Kalos,Florges-Orange,fairy,,Flower Veil,,Symbiosis,78,65,68,112,154,75,552,22,1.1
+1000,671,Kalos,Florges-Blue,fairy,,Flower Veil,,Symbiosis,78,65,68,112,154,75,552,22,1.1
+1001,671,Kalos,Florges-White,fairy,,Flower Veil,,Symbiosis,78,65,68,112,154,75,552,22,1.1
+1002,672,Kalos,Skiddo,grass,,Sap Sipper,,Grass Pelt,66,65,48,62,57,52,350,68.3,0.9
+1003,673,Kalos,Gogoat,grass,,Sap Sipper,,Grass Pelt,123,100,62,97,81,68,531,200.6,1.7
+1004,674,Kalos,Pancham,fighting,,Iron Fist,Mold Breaker,Scrappy,67,82,62,46,48,43,348,17.6,0.6
+1005,675,Kalos,Pangoro,fighting,dark,Iron Fist,Mold Breaker,Scrappy,95,124,78,69,71,58,495,299.8,2.1
+1006,676,Kalos,Furfrou,normal,,Fur Coat,,,75,80,60,65,90,102,472,61.7,1.2
+1007,676,Kalos,Furfrou-Heart Trim,normal,,Fur Coat,,,75,80,60,65,90,102,472,61.7,1.2
+1008,676,Kalos,Furfrou-Star Trim,normal,,Fur Coat,,,75,80,60,65,90,102,472,61.7,1.2
+1009,676,Kalos,Furfrou-Diamond Trim,normal,,Fur Coat,,,75,80,60,65,90,102,472,61.7,1.2
+1010,676,Kalos,Furfrou-Debutante Trim,normal,,Fur Coat,,,75,80,60,65,90,102,472,61.7,1.2
+1011,676,Kalos,Furfrou-Matron Trim,normal,,Fur Coat,,,75,80,60,65,90,102,472,61.7,1.2
+1012,676,Kalos,Furfrou-Dandy Trim,normal,,Fur Coat,,,75,80,60,65,90,102,472,61.7,1.2
+1013,676,Kalos,Furfrou-La Reine Trim,normal,,Fur Coat,,,75,80,60,65,90,102,472,61.7,1.2
+1014,676,Kalos,Furfrou-Kabuki Trim,normal,,Fur Coat,,,75,80,60,65,90,102,472,61.7,1.2
+1015,676,Kalos,Furfrou-Pharaoh Trim,normal,,Fur Coat,,,75,80,60,65,90,102,472,61.7,1.2
+1016,677,Kalos,Espurr,psychic,,Keen Eye,Infiltrator,Own Tempo,62,48,54,63,60,68,355,7.7,0.3
+1017,678,Kalos,Meowstic-Male,psychic,,Keen Eye,Infiltrator,Prankster,74,48,76,83,81,104,466,18.7,0.6
+1018,678,Kalos,Meowstic-Female,psychic,,Keen Eye,Infiltrator,Competetive,74,48,76,83,81,104,466,18.7,0.6
+1019,679,Kalos,Honedge,steel,ghost,No Guard,,,45,80,100,35,37,28,325,4.4,0.8
+1020,680,Kalos,Doublade,steel,ghost,No Guard,,,59,110,150,45,49,35,448,9.9,0.8
+1021,681,Kalos,Aegislash-Blade,steel,ghost,Stance Change,,,60,150,50,150,50,60,520,116.8,1.7
+1022,681,Kalos,Aegislash-Shield,steel,ghost,Stance Change,,,60,50,150,50,150,60,520,116.8,1.7
+1023,682,Kalos,Spritzee,fairy,,Healer,,Aroma Veil,78,52,60,63,65,23,341,1.1,0.2
+1024,683,Kalos,Aromatisse,fairy,,Healer,,Aroma Veil,101,72,72,99,89,29,462,34.2,0.8
+1025,684,Kalos,Swirlix,fairy,,Sweet Veil,,Unburden,62,48,66,59,57,49,341,7.7,0.4
+1026,685,Kalos,Slurpuff,fairy,,Sweet Veil,,Unburden,82,80,86,85,75,72,480,11,0.8
+1027,686,Kalos,Inkay,dark,psychic,Contrary,Suction Cups,Infiltrator,53,54,53,37,46,45,288,7.7,0.4
+1028,687,Kalos,Malamar,dark,psychic,Contrary,Suction Cups,Infiltrator,86,92,88,68,75,73,482,103.6,1.5
+1029,688,Kalos,Binacle,rock,water,Tough Claws,Sniper,Pickpocket,42,52,67,39,56,50,306,68.3,0.5
+1030,689,Kalos,Barbaracle,rock,water,Tough Claws,Sniper,Pickpocket,72,105,115,54,86,68,500,211.6,1.3
+1031,690,Kalos,Skrelp,poison,water,Poison Point,Poison Touch,Adaptability,50,60,60,60,60,30,320,16.1,0.5
+1032,691,Kalos,Dragalge,poison,dragon,Poison Point,Poison Touch,Adaptability,65,75,90,97,123,44,494,179.7,1.8
+1033,692,Kalos,Clauncher,water,,Mega Launcher,,,50,53,62,58,63,44,330,18.3,0.5
+1034,693,Kalos,Clawitzer,water,,Mega Launcher,,,71,73,88,120,89,59,500,77.8,1.3
+1035,694,Kalos,Helioptile,electric,normal,Dry Skin,Sand Veil,Solar Power,44,38,33,61,43,70,289,13.2,0.5
+1036,695,Kalos,Heliolisk,electric,normal,Dry Skin,Sand Veil,Solar Power,62,55,52,109,94,109,481,46.3,1
+1037,696,Kalos,Tyrunt,rock,dragon,Strong Jaw,,Sturdy,58,89,77,45,45,48,362,57.3,0.8
+1038,697,Kalos,Tyrantrum,rock,dragon,Strong Jaw,,Rock Head,82,121,119,69,59,71,521,595.2,2.5
+1039,698,Kalos,Amaura,rock,ice,Refrigerate,,Snow Warning,77,59,50,67,63,46,362,55.6,1.3
+1040,699,Kalos,Aurorus,rock,ice,Refrigerate,,Snow Warning,123,77,72,99,92,58,521,496,2.7
+1041,700,Kalos,Sylveon,fairy,,Cute Charm,,Pixilate,95,65,65,110,130,60,525,51.8,1
+1042,701,Kalos,Hawlucha,fighting,flying,Limber,Unburden,Mold Breaker,78,92,75,74,63,118,500,47.4,0.8
+1043,702,Kalos,Dedenne,electric,fairy,Cheek Pouch,Pickup,Plus,67,58,57,81,67,101,431,4.9,0.2
+1044,703,Kalos,Carbink,rock,fairy,Clear Body,,Sturdy,50,50,150,50,150,50,500,12.6,0.3
+1045,704,Kalos,Goomy,dragon,,Sap Sipper,Hydration,Gooey,45,50,35,55,75,40,300,6.2,0.3
+1046,705,Kalos,Sliggoo,dragon,,Sap Sipper,Hydration,Gooey,68,75,53,83,113,60,452,38.6,0.8
+1047,705,Hisui,Hisuian Sliggoo,steel,dragon,Sap Sipper,Shell Armor,Gooey,58,75,83,83,113,40,452,151,0.7
+1048,706,Kalos,Goodra,dragon,,Sap Sipper,Hydration,Gooey,90,100,70,110,150,80,600,331.8,2
+1049,706,Hisui,Hisuian Goodra,steel,dragon,Sap Sipper,Shell Armor,Gooey,80,100,100,110,150,60,600,736.6,1.7
+1050,707,Kalos,Klefki,steel,fairy,Prankster,,Magician,57,80,91,80,87,75,470,6.6,0.2
+1051,708,Kalos,Phantump,ghost,grass,Natural Cure,Frisk,Harvest,43,70,48,50,60,38,309,15.4,0.4
+1052,709,Kalos,Trevenant,ghost,grass,Natural Cure,Frisk,Harvest,85,110,76,65,82,56,474,156.5,1.5
+1053,710,Kalos,Average Pumpkaboo,ghost,grass,Pickup,Frisk,Insomnia,49,66,70,44,55,51,335,11,0.4
+1054,710,Kalos,Small Pumpkaboo,ghost,grass,Pickup,Frisk,Insomnia,44,66,70,44,55,56,335,7.7,0.3
+1055,710,Kalos,Large Pumpkaboo,ghost,grass,Pickup,Frisk,Insomnia,54,66,70,44,55,46,335,16.5,0.5
+1056,710,Kalos,Super Pumpkaboo,ghost,grass,Pickup,Frisk,Insomnia,59,66,70,44,55,41,335,33.1,0.8
+1057,711,Kalos,Average Gourgeist,ghost,grass,Pickup,Frisk,Insomnia,65,90,122,58,75,84,494,27.6,0.9
+1058,711,Kalos,Small Gourgeist,ghost,grass,Pickup,Frisk,Insomnia,55,85,122,58,75,99,494,20.9,0.7
+1059,711,Kalos,Large Gourgeist,ghost,grass,Pickup,Frisk,Insomnia,75,95,122,58,75,69,494,30.9,1.1
+1060,711,Kalos,Super Gourgeist,ghost,grass,Pickup,Frisk,Insomnia,85,100,122,58,75,54,494,86,1.7
+1061,712,Kalos,Bergmite,ice,,Own Tempo,Ice Body,Sturdy,55,69,85,32,35,28,304,219.4,1
+1062,713,Kalos,Avalugg,ice,,Own Tempo,Ice Body,Sturdy,95,117,184,44,46,28,514,1113.3,2
+1063,713,Hisui,Hisuian Avalugg,ice,rock,Strong Jaw,Ice Body,Sturdy,95,127,184,34,36,38,514,578.5,1.4
+1064,714,Kalos,Noibat,flying,dragon,Frisk,Infiltrator,Telepathy,40,30,35,45,40,55,245,17.6,0.5
+1065,715,Kalos,Noivern,flying,dragon,Frisk,Infiltrator,Telepathy,85,70,80,97,80,123,535,187.4,1.5
+1066,716,Kalos,Xerneas-Neutral,fairy,,Fairy Aura,,,126,131,95,131,98,99,680,474,3
+1067,716,Kalos,Xerneas-Active,fairy,,Fairy Aura,,,126,131,95,131,98,99,680,474,3
+1068,717,Kalos,Yveltal,dark,flying,Dark Aura,,,126,131,95,131,98,99,680,447.5,5.8
+1069,718,Kalos,Zygarde-50%,dragon,ground,Aura Break,Power Construct,,108,100,121,81,95,95,600,672.4,5
+1070,718,Alola,Zygarde-10%,dragon,ground,Aura Break,Power Construct,,54,100,71,61,85,115,486,73.9,1.2
+1071,718,Alola,Zygarde Complete,dragon,ground,Power Construct,,,216,100,121,91,95,85,708,1344.8,4.5
+1072,719,Kalos,Diancie,rock,fairy,Clear Body,,,50,100,150,100,150,50,600,19.4,0.7
+1073,719,Kalos,Mega Diancie,rock,fairy,Magic Bounce,,,50,160,110,160,110,110,700,61.3,1.1
+1074,720,Kalos,Hoopa Confined,psychic,ghost,Magician,,,80,110,60,150,130,70,600,19.8,0.5
+1075,720,Kalos,Hoopa Unbound,psychic,dark,Magician,,,80,160,60,170,130,80,680,1080.3,6.5
+1076,721,Kalos,Volcanion,fire,water,Water Absorb,,,80,110,120,130,90,70,600,429.9,1.7
+1077,722,Alola,Rowlet,grass,flying,Overgrow,,Long Reach,68,55,55,50,50,42,320,3.3,0.3
+1078,723,Alola,Dartrix,grass,flying,Overgrow,,Long Reach,78,75,75,70,70,52,420,35.5,0.7
+1079,724,Alola,Decidueye,grass,ghost,Overgrow,,Long Reach,78,107,75,100,100,70,530,80.7,1.6
+1080,724,Hisui,Hisuian Decidueye,grass,fighting,Overgrow,,Scrappy,88,112,80,95,95,60,530,81.6,1.6
+1081,725,Alola,Litten,fire,,Blaze,,Intimidate,45,65,40,60,40,70,320,9.5,0.4
+1082,726,Alola,Torracat,fire,,Blaze,,Intimidate,65,85,50,80,50,90,420,55.1,0.7
+1083,727,Alola,Incineroar,fire,dark,Blaze,,Intimidate,95,115,90,80,90,60,530,183,1.8
+1084,728,Alola,Popplio,water,,Torrent,,Liquid Voice,50,54,54,66,56,40,320,16.5,0.4
+1085,729,Alola,Brionne,water,,Torrent,,Liquid Voice,60,69,69,91,81,50,420,38.6,0.6
+1086,730,Alola,Primarina,water,fairy,Torrent,,Liquid Voice,80,74,74,126,116,60,530,97,1.8
+1087,731,Alola,Pikipek,normal,flying,Keen Eye,Skill Link,Pickup,35,75,30,30,30,65,265,2.6,0.3
+1088,732,Alola,Trumbeak,normal,flying,Keen Eye,Skill Link,Pickup,55,85,50,40,50,75,355,32.6,0.6
+1089,733,Alola,Toucannon,normal,flying,Keen Eye,Skill Link,Sheer Force,80,120,75,75,75,60,485,57.3,1.1
+1090,734,Alola,Yungoos,normal,,Stakeout,Strong Jaw,Adaptability,48,70,30,30,30,45,253,13.2,0.4
+1091,735,Alola,Gumshoos,normal,,Stakeout,Strong Jaw,Adaptability,88,110,60,55,60,45,418,31.3,0.7
+1092,736,Alola,Grubbin,bug,,Swarm,Swarm,Swarm,47,62,45,55,45,46,300,9.7,0.4
+1093,737,Alola,Charjabug,bug,electric,Battery,Battery,Battery,57,82,95,55,75,36,400,23.1,0.5
+1094,738,Alola,Vikavolt,bug,electric,Levitate,Levitate,Levitate,77,70,90,145,75,43,500,99.2,1.5
+1095,739,Alola,Crabrawler,fighting,,Hyper Cutter,Iron Fist,Anger Point,47,82,57,42,47,63,338,15.4,0.6
+1096,740,Alola,Crabominable,fighting,ice,Hyper Cutter,Iron Fist,Anger Point,97,132,77,62,67,43,478,396.8,1.7
+1097,741,Alola,Oricorio-Baile,fire,flying,Dancer,,,75,70,70,98,70,93,476,7.5,0.6
+1098,741,Alola,Oricorio-Pom Pom,electric,flying,Dancer,,,75,70,70,98,70,93,476,7.5,0.6
+1099,741,Alola,Oricorio-Pa'u,psychic,flying,Dancer,,,75,70,70,98,70,93,476,7.5,0.6
+1100,741,Alola,Oricorio-Sensu,ghost,flying,Dancer,,,75,70,70,98,70,93,476,7.5,0.6
+1101,742,Alola,Cutiefly,bug,fairy,Honey Gather,Shield Dust,Sweet Veil,40,45,40,55,40,84,304,0.4,0.1
+1102,743,Alola,Ribombee,bug,fairy,Honey Gather,Shield Dust,Sweet Veil,60,55,60,95,70,124,464,4.4,0.4
+1103,744,Alola,Rockruff,rock,,Keen Eye,Vital spirit,Steadfast,45,65,40,30,40,60,280,20.3,0.5
+1104,745,Alola,Lycanroc-Midday,rock,,Keen Eye,Sand Rush,Steadfast,75,115,65,55,65,112,487,55.1,0.8
+1105,745,Alola,Lycanroc-Midnight,rock,,Keen Eye,Vital spirit,No Guard,85,115,75,55,75,82,487,55.1,1.1
+1106,745,Alola,Lycanroc-Dusk,rock,,Tough Claws,,,75,117,65,55,65,110,487,55.1,0.8
+1107,746,Alola,Wishiwashi-Solo,water,,Schooling,,,45,20,20,25,25,40,175,0.7,0.2
+1108,746,Alola,Wishiwashi-Schooling,water,,Schooling,,,45,140,130,140,135,30,620,173.3,8.2
+1109,747,Alola,Mareanie,water,poison,Merciless,Limber,Regenerator,50,53,62,43,52,45,305,17.6,0.4
+1110,748,Alola,Toxapex,water,poison,Merciless,Limber,Regenerator,50,63,152,53,142,35,495,32,0.7
+1111,749,Alola,Mudbray,ground,,Own Tempo,Stamina,Inner Focus,70,100,70,45,55,45,385,242.5,1
+1112,750,Alola,Mudsdale,ground,,Own Tempo,Stamina,Inner Focus,100,125,100,55,85,35,500,2028.3,2.5
+1113,751,Alola,Dewpider,water,bug,Water Bubble,,Water Absorb,38,40,52,40,72,27,269,8.8,0.3
+1114,752,Alola,Araquanid,water,bug,Water Bubble,,Water Absorb,68,70,92,50,132,42,454,180.8,1.8
+1115,753,Alola,Fomantis,grass,,Leaf Guard,Leaf Guard,Contrary,40,55,35,50,35,35,250,3.3,0.3
+1116,754,Alola,Lurantis,grass,,Leaf Guard,Leaf Guard,Contrary,70,105,90,80,90,45,480,40.8,0.9
+1117,755,Alola,Morelull,grass,fairy,Illuminate,Effect Spore,Rain Dish,40,35,55,65,75,15,285,3.3,0.2
+1118,756,Alola,Shiinotic,grass,fairy,Illuminate,Effect Spore,Rain Dish,60,45,80,90,100,30,405,25.4,1
+1119,757,Alola,Salandit,fire,poison,Corrosion,,Oblivious,48,44,40,71,40,77,320,10.6,0.6
+1120,758,Alola,Salazzle,fire,poison,Corrosion,,Oblivious,68,64,60,111,60,117,480,48.9,1.2
+1121,759,Alola,Stufful,normal,fighting,Fluffy,Klutz,Cute Charm,70,75,50,45,50,50,340,15,0.5
+1122,760,Alola,Bewear,normal,fighting,Fluffy,Klutz,Unnerve,120,125,80,55,60,60,500,297.6,2.1
+1123,761,Alola,Bounsweet,grass,,Leaf Guard,Oblivious,Sweet Veil,42,30,38,30,38,32,210,7.1,0.3
+1124,762,Alola,Steenee,grass,,Leaf Guard,Oblivious,Sweet Veil,52,40,48,40,48,62,290,18.1,0.7
+1125,763,Alola,Tsareena,grass,,Leaf Guard,Queenly Majesty,Sweet Veil,72,120,98,50,98,72,510,47.2,1.2
+1126,764,Alola,Comfey,fairy,,Flower Veil,Triage,Natural Cure,51,52,90,82,110,100,485,0.7,0.1
+1127,765,Alola,Oranguru,normal,psychic,Inner Focus,Telepahty,Symbiosis,90,60,80,90,110,60,490,167.6,1.5
+1128,766,Alola,Passimian,fighting,,Receiver,,Defiant,100,120,90,40,60,80,490,182.5,2
+1129,767,Alola,Wimpod,bug,water,Wimp Out,,,25,35,40,20,30,80,230,26.5,0.5
+1130,768,Alola,Golisopod,bug,water,Emergency Exit,,,75,125,140,60,90,40,530,238.1,2
+1131,769,Alola,Sandygast,ground,ghost,Water Compaction,,Sand Veil,55,55,80,70,45,15,320,154.3,0.5
+1132,770,Alola,Palossand,ground,ghost,Water Compaction,,Sand Veil,85,75,110,100,75,35,480,551.2,1.3
+1133,771,Alola,Pyukumuku,water,,Innards Out,,Unaware,55,60,130,30,130,5,410,2.6,0.3
+1134,772,Alola,Type: Null,normal,,Battle Armor,,,95,95,95,95,95,59,534,265.7,1.9
+1135,773,Alola,Silvally,normal,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1136,773,Alola,Silvally-Fire,fire,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1137,773,Alola,Silvally-Water,water,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1138,773,Alola,Silvally-Electric,electric,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1139,773,Alola,Silvally-Grass,grass,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1140,773,Alola,Silvally-Flying,flying,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1141,773,Alola,Silvally-Poison,poison,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1142,773,Alola,Silvally-Fighting,fighting,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1143,773,Alola,Silvally-Psychic,psychic,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1144,773,Alola,Silvally-Steel,steel,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1145,773,Alola,Silvally-Rock,rock,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1146,773,Alola,Silvally-Ground,ground,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1147,773,Alola,Silvally-Bug,bug,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1148,773,Alola,Silvally-Ghost,ghost,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1149,773,Alola,Silvally-Ice,ice,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1150,773,Alola,Silvally-Dragon,dragon,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1151,773,Alola,Silvally-Fairy,fairy,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1152,773,Alola,Silvally-Dark,dark,,RKS System,,,95,95,95,95,95,95,570,221.6,2.3
+1153,774,Alola,Minior,rock,flying,Shields Down,,,60,60,100,60,100,60,440,88.2,0.3
+1154,774,Alola,Minior-Core,rock,flying,Shields Down,,,60,100,60,100,60,120,500,0.7,0.3
+1155,775,Alola,Komala,normal,,Comatose,,,65,115,65,75,95,65,480,43.9,0.4
+1156,776,Alola,Turtonator,fire,dragon,Shell Armor,,,60,78,135,91,85,36,485,467.4,2
+1157,777,Alola,Togedemaru,steel,electric,Iron Barbs,Lightning Rod,Sturdy,65,98,63,40,73,96,435,7.3,0.3
+1158,778,Alola,Mimikyu,ghost,fairy,Disguise,,,55,90,80,50,105,96,476,1.5,0.2
+1159,779,Alola,Bruxish,water,psychic,Dazzling,Strong Jaw,Wonder Skin,68,105,70,70,70,92,475,41.9,0.9
+1160,780,Alola,Drampa,normal,dragon,Berserk,Sap Sipper,Cloud Nine,78,60,85,135,91,36,485,407.9,3
+1161,781,Alola,Dhelmise,ghost,grass,Steelworker,,,70,131,100,86,90,40,517,463,3.9
+1162,782,Alola,Jangmo-o,dragon,,Bulletproof,Soundproof,Overcoat,45,55,65,45,45,45,300,65.5,0.6
+1163,783,Alola,Hakamo-o,dragon,fighting,Bulletproof,Soundproof,Overcoat,55,75,90,65,70,65,420,103.6,1.2
+1164,784,Alola,Kommo-o,dragon,fighting,Bulletproof,Soundproof,Overcoat,75,110,125,100,105,85,600,172.4,1.6
+1165,785,Alola,Tapu Koko,electric,fairy,Electric Surge,,Telepathy,70,115,85,95,75,130,570,45.2,1.8
+1166,786,Alola,Tapu Lele,psychic,fairy,Psychic Surge,,Telepathy,70,85,75,130,115,95,570,41,1.2
+1167,787,Alola,Tapu Bulu,water,fairy,Grassy Surge,,Telepathy,70,130,115,85,95,75,570,100.3,1.9
+1168,788,Alola,Tapu Fini,grass,fairy,Misty Surge,,Telepathy,70,75,115,95,130,85,570,46.7,1.3
+1169,789,Alola,Cosmog,psychic,,Unaware,,,43,29,31,29,31,37,200,0.2,0.2
+1170,790,Alola,Cosmoem,psychic,,Sturdy,,,43,29,131,29,131,37,400,2204.4,0.1
+1171,791,Alola,Solgaleo,psychic,steel,Full Metal Body,,,137,137,107,113,89,97,680,507.1,3.4
+1172,792,Alola,Lunala,psychic,ghost,Shadow Shield,,,137,113,89,137,107,97,680,264.6,4
+1173,793,Alola,Nihilego,rock,poison,Beast Boost,,,109,53,47,127,131,103,570,122.4,1.2
+1174,794,Alola,Buzzwole,bug,fighting,Beast Boost,,,107,139,139,53,53,79,570,735.5,2.4
+1175,795,Alola,Pheromosa,bug,fighting,Beast Boost,,,71,137,37,137,37,151,570,55.1,1.8
+1176,796,Alola,Xurkitree,electric,,Beast Boost,,,83,89,71,173,71,83,570,220.5,3.8
+1177,797,Alola,Celesteela,steel,flying,Beast Boost,,,97,101,103,107,101,61,570,2204.4,9.2
+1178,798,Alola,Kartana,steel,grass,Beast Boost,,,59,181,131,59,31,109,570,0.2,0.3
+1179,799,Alola,Guzzlord,dark,dragon,Beast Boost,,,223,101,53,97,53,43,570,1957.7,5.5
+1180,800,Alola,Necrozma,psychic,,Prism Armor,,,97,107,101,127,89,79,600,507.1,2.4
+1181,800,Alola,Dusk Mane Necrozma,psychic,steel,Prism Armor,,,97,157,127,113,109,77,680,1014.1,3.8
+1182,800,Alola,Dawn Wings Necrozma,psychic,ghost,Prism Armor,,,97,113,109,157,127,77,680,771.6,4.2
+1183,800,Alola,Ultra Necrozma,psychic,dragon,Neuroforce,,,97,167,97,167,97,129,754,507.1,7.5
+1184,801,Alola,Magearna,steel,fairy,Soul-Heart,,,80,95,115,130,115,65,600,177.5,1
+1185,801,Alola,Magearna-Original,steel,fairy,Soul-Heart,,,80,95,115,130,115,65,600,177.5,1
+1186,802,Alola,Marshadow,ghost,fighting,Technician,,,90,125,80,90,90,125,600,48.9,0.7
+1187,803,Alola,Poipole,poison,,Beast Boost,,,67,73,67,73,67,73,420,4,0.6
+1188,804,Alola,Naganadel,poison,dragon,Beast Boost,,,73,73,73,127,73,121,540,330.7,3.6
+1189,805,Alola,Stakataka,steel,rock,Beast Boost,,,61,131,211,53,101,13,570,1807.8,5.5
+1190,806,Alola,Blacephalon,ghost,fire,Beast Boost,,,53,127,53,151,79,107,570,28.7,1.8
+1191,807,Alola,Zeraora,electric,,Volt Absorb,,,88,112,75,102,80,143,600,98.1,1.5
+1192,808,Kanto,Meltan,steel,,Magnet Pull,,,46,65,65,55,35,34,300,17.6,0.2
+1193,809,Kanto,Melmetal,steel,,Iron Fist,,,135,143,143,80,65,34,600,1763.7,2.5
+1194,810,Galar,Grookey,grass,,Overgrow,,,50,65,50,40,40,65,310,11,0.3
+1195,811,Galar,Thwackey,grass,,Overgrow,,,70,85,70,55,60,80,420,30.9,0.7
+1196,812,Galar,Rillaboom,grass,,Overgrow,,,100,125,90,60,70,85,530,198.4,2.1
+1197,813,Galar,Scorbunny,fire,,Blaze,,,50,71,40,40,40,69,310,9.9,0.3
+1198,814,Galar,Raboot,fire,,Blaze,,,65,86,60,55,60,94,420,19.8,0.6
+1199,815,Galar,Cinderace,fire,,Blaze,,,80,116,75,65,75,119,530,72.8,1.4
+1200,816,Galar,Sobble,water,,Torrent,,,50,40,40,70,40,70,310,8.8,0.3
+1201,817,Galar,Drizzile,water,,Torrent,,,65,60,55,95,55,90,420,25.4,0.7
+1202,818,Galar,Inteleon,water,,Torrent,,,70,85,65,125,65,120,530,99.6,1.9
+1203,819,Galar,Skwovet,normal,,Cheek Pouch,,Gluttony,70,55,55,35,35,25,275,5.5,0.3
+1204,820,Galar,Greedent,normal,,Cheek Pouch,,Gluttony,120,95,95,55,75,20,460,13.2,0.6
+1205,821,Galar,Rookidee,flying,,Keen Eye,Unnerve,Big Pecks,38,47,35,33,35,57,245,4,0.2
+1206,822,Galar,Corvisquire,flying,,Keen Eye,Unnerve,Big Pecks,68,67,55,43,55,77,365,35.3,0.8
+1207,823,Galar,Corviknight,flying,steel,Pressure,Unnerve,Mirror Armor,98,87,105,53,85,67,495,165.3,2.2
+1208,824,Galar,Blipbug,bug,,Swarm,Compound Eyes,Telepathy,25,20,20,25,45,45,180,17.6,0.4
+1209,825,Galar,Dottler,bug,psychic,Swarm,Compound Eyes,Telepathy,50,35,80,50,90,30,335,43,0.4
+1210,826,Galar,Orbeetle,bug,psychic,Swarm,Frisk,Telepathy,60,45,110,80,120,90,505,89.9,0.4
+1211,827,Galar,Nickit,dark,,Run Away,Unburden,Stakeout,40,28,28,47,52,50,245,19.6,0.6
+1212,828,Galar,Thievul,dark,,Run Away,Undurden,Stakeout,70,58,58,87,92,90,455,43.9,1.2
+1213,829,Galar,Gossifleur,grass,,Cotton Down,Regenerator,Effect Spore,40,40,60,40,60,10,250,4.9,0.4
+1214,830,Galar,Eldegoss,grass,,Cotton Down,Regenerator,Effect Spore,60,50,90,80,120,60,460,5.5,0.5
+1215,831,Galar,Wooloo,normal,,Fluffy,Run Away,Bulletproof,42,40,55,40,45,48,270,13.2,0.6
+1216,832,Galar,Dubwool,normal,,Fluffy,Steadfast,Bulletproof,72,80,100,60,90,88,490,94.8,1.3
+1217,833,Galar,Chewtle,water,,Strong Jaw,Shell Armor,Swift Swim,50,64,50,38,38,44,284,18.7,0.3
+1218,834,Galar,Drednaw,water,rock,Strong Jaw,Shell Armor,Swift Swim,90,115,90,48,68,74,485,254.6,1
+1219,835,Galar,Yamper,electric,,Ball Fetch,,Rattled,59,45,50,40,50,26,270,29.8,0.3
+1220,836,Galar,Boltund,electric,,Strong Jaw,,Competetive,69,90,60,90,60,121,490,75,1
+1221,837,Galar,Rolycoly,rock,,Steam Engine,Heatproof,Flash Fire,30,40,50,40,50,30,240,26.5,0.3
+1222,838,Galar,Carkol,rock,fire,Steam Engine,Flame Body,Flash Fire,80,60,90,60,70,50,410,172,1.1
+1223,839,Galar,Coalossal,rock,fire,Steam Engine,Flame Body,Flash Fire,110,80,120,80,90,30,510,684.5,2.8
+1224,840,Galar,Applin,grass,dragon,Ripen,Gluttony,Bulletproof,40,40,80,40,40,20,260,1.1,0.2
+1225,841,Galar,Flapple,grass,dragon,Ripen ,Gluttony,Hustle,70,110,80,95,60,70,485,2.2,0.3
+1226,842,Galar,Appletun,grass,dragon,Ripen,Gluttony,Thick Fat,110,85,80,100,80,30,485,28.7,0.4
+1227,843,Galar,Silicobra,ground,,Sand Spit,Shed Skin,Sand Veil,52,57,75,35,50,46,315,16.8,2.2
+1228,844,Galar,Sandaconda,ground,,Sand Spit,Shed Skin,Sand Veil,72,107,125,65,70,71,510,144.4,3.8
+1229,845,Galar,Cramorant,water,flying,Gulp Missile,,,70,85,55,85,95,85,475,39.7,0.8
+1230,845,Galar,Cramorant-Gulping,water,flying,Gulp Missile,,,70,85,55,85,95,85,475,39.7,0.8
+1231,845,Galar,Cramorant-Gorging,water,flying,Gulp Missile,,,70,85,55,85,95,85,475,39.7,0.8
+1232,846,Galar,Arrokuda,water,,Swift Swim,,Propeller Tail,41,63,40,40,30,66,280,2.2,0.5
+1233,847,Galar,Barraskewda,water,,Swift Swim,,Propeller Tail,61,123,60,60,50,136,490,66.1,1.3
+1234,848,Galar,Toxel,electric,poison,Rattled,Static,Klutz,40,38,35,54,35,40,242,24.3,0.4
+1235,849,Galar,Low Key Toxtricity,electric,poison,Punk Rock,Plus,Technician,75,98,70,114,70,75,502,88.2,1.6
+1236,849,Galar,Amped Toxtricity,electric,poison,Punk Rock,Minus,Technician,75,98,70,114,70,75,502,88.2,1.6
+1237,850,Galar,Sizzlipede,bug,fire,Flash Fire,White Smoke,Flame Body,50,65,45,50,50,45,305,2.2,0.7
+1238,851,Galar,Centiscorch,bug,fire,Flash Fire,White Smoke,Flame Body,100,115,65,90,90,65,525,264.6,3
+1239,852,Galar,Clobbopus,fighting,,Limber,,Technician,50,68,60,50,50,32,310,8.8,0.6
+1240,853,Galar,Grapploct,fighting,,Limber,,Technician,80,118,90,70,80,42,480,86,1.6
+1241,854,Galar,Sinistea-Phony,ghost,,Weak Armor,,Cursed Body,40,45,45,74,54,50,308,0.4,0.1
+1242,854,Galar,Sinistea-Antique,ghost,,Weak Armor,,Cursed Body,40,45,45,74,54,50,308,0.4,0.1
+1243,855,Galar,Polteageist-Phony,ghost,,Weak Armor,,Cursed Body,60,65,65,134,114,70,508,0.9,0.2
+1244,855,Galar,Polteageist-Antique,ghost,,Weak Armor,,Cursed Body,60,65,65,134,114,70,508,0.9,0.2
+1245,856,Galar,Hatenna,psychic,,Healer,Anticipation,Magic Bounce,42,30,45,56,53,39,265,7.5,0.4
+1246,857,Galar,Hattrem,psychic,,Healer,Anticipation,Magic Bounce,57,40,65,86,73,49,370,10.6,0.6
+1247,858,Galar,Hatterene,psychic,fairy,Healer,Anticipation,Magic Bounce,57,90,95,136,103,29,510,11.2,2.1
+1248,859,Galar,Impidimp,dark,fairy,Prankster,Frisk,Pickpocket,45,45,30,55,40,50,265,12.1,0.4
+1249,860,Galar,Morgrem,dark,fairy,Prankster,Frisk,Pickpocket,65,60,45,75,55,70,370,27.6,0.8
+1250,861,Galar,Grimmsnarl,dark,fairy,Prankster,Frisk,Pickpocket,95,120,65,95,75,60,510,134.5,1.5
+1251,862,Galar,Obstagoon,normal,dark,Reckless,Guts,Defiant,93,90,101,60,81,95,520,101.4,1.6
+1252,863,Galar,Perrserker,steel,,Battle Armor,Tough Claws,Steely Spirit,70,110,100,50,60,50,440,61.7,0.8
+1253,864,Galar,Cursola,ghost,,Weak Armor,,Perish Body,60,95,50,145,130,30,510,0.9,1
+1254,865,Galar,Sirfetch'd,fighting,,Steadfast,,Scrappy,62,135,95,68,82,65,507,257.9,0.8
+1255,866,Galar,Mr. Rime,ice,psychic,Tangled Feet,Screen Cleaner,Ice Body,80,85,75,110,100,70,520,128.3,1.5
+1256,867,Galar,Runerigus,ghost,ground,Wandering Spirit,,,58,95,145,50,105,30,483,146.8,1.6
+1257,868,Galar,Milcery,fairy,,Sweet Veil,,Aroma Veil,45,40,40,50,61,34,270,0.7,0.2
+1258,869,Galar,Alcremie-Strawberry Vanilla,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1259,869,Galar,Alcremie-Berry Vanilla,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1260,869,Galar,Alcremie-Love Vanilla,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1261,869,Galar,Alcremie-Star Vanilla,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1262,869,Galar,Alcremie-Clover Vanilla,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1263,869,Galar,Alcremie-Flower Vanilla,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1264,869,Galar,Alcremie-Ribbon Vanilla,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1265,869,Galar,Alcremie-Strawberry Ruby,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1266,869,Galar,Alcremie-Berry Ruby Cream,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1267,869,Galar,Alcremie-Love Ruby Cream,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1268,869,Galar,Alcremie-Star Ruby Cream,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1269,869,Galar,Alcremie-Clover Ruby Cream,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1270,869,Galar,Alcremie-Flower Ruby Cream,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1271,869,Galar,Alcremie-Ribbon Ruby Cream,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1272,869,Galar,Alcremie-Strawberry Matcha,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1273,869,Galar,Alcremie-Berry Matcha,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1274,869,Galar,Alcremie-Love Matcha,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1275,869,Galar,Alcremie-Star Matcha,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1276,869,Galar,Alcremie-Clover Matcha,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1277,869,Galar,Alcremie-Flower Matcha,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1278,869,Galar,Alcremie-Ribbon Matcha,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1279,869,Galar,Alcremie-Strawberry Mint,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1280,869,Galar,Alcremie-Berry Mint,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1281,869,Galar,Alcremie-Love Mint,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1282,869,Galar,Alcremie-Star Mint,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1283,869,Galar,Alcremie-Clover Mint,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1284,869,Galar,Alcremie-Flower Mint,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1285,869,Galar,Alcremie-Ribbon Mint,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1286,869,Galar,Alcremie-Strawberry Lemon,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1287,869,Galar,Alcremie-Berry Lemon,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1288,869,Galar,Alcremie-Love Lemon,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1289,869,Galar,Alcremie-Star Lemon,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1290,869,Galar,Alcremie-Clover Lemon,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1291,869,Galar,Alcremie-Flower Lemon,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1292,869,Galar,Alcremie-Ribbon Lemon,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1293,869,Galar,Alcremie-Strawberry Salted,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1294,869,Galar,Alcremie-Berry Salted,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1295,869,Galar,Alcremie-Love Salted,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1296,869,Galar,Alcremie-Star Salted,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1297,869,Galar,Alcremie-Clover Salted,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1298,869,Galar,Alcremie-Flower Salted,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1299,869,Galar,Alcremie-Ribbon Salted,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1300,869,Galar,Alcremie-Strawberry Ruby Swirl,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1301,869,Galar,Alcremie-Berry Ruby Swirl,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1302,869,Galar,Alcremie-Love Ruby Swirl,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1303,869,Galar,Alcremie-Star Ruby Swirl,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1304,869,Galar,Alcremie-Clover Ruby Swirl,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1305,869,Galar,Alcremie-Flower Ruby Swirl,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1306,869,Galar,Alcremie-Ribbon Ruby Swirl,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1307,869,Galar,Alcremie-Strawberry Caramel,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1308,869,Galar,Alcremie-Berry Caramel,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1309,869,Galar,Alcremie-Love Caramel,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1310,869,Galar,Alcremie-Star Caramel,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1311,869,Galar,Alcremie-Clover Caramel,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1312,869,Galar,Alcremie-Flower Caramel,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1313,869,Galar,Alcremie-Ribbon Caramel,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1314,869,Galar,Alcremie-Strawberry Rainbow,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1315,869,Galar,Alcremie-Berry Rainbow,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1316,869,Galar,Alcremie-Love Rainbow,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1317,869,Galar,Alcremie-Star Rainbow,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1318,869,Galar,Alcremie-Clover Rainbow,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1319,869,Galar,Alcremie-Flower Rainbow,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1320,869,Galar,Alcremie-Ribbon Rainbow,fairy,,Sweet Veil,,Aroma Veil,65,60,75,110,121,64,495,1.1,0.3
+1321,870,Galar,Falinks,fighting,,Battle Armor,,Defiant,65,100,100,70,60,75,470,136.7,3
+1322,871,Galar,Pincurchin,electric,,Lightning Rod,,Electric Surge,48,101,95,91,85,15,435,2.2,0.3
+1323,872,Galar,Snom,bug,ice,Shield Dust,,Ice Scales,30,25,35,45,30,20,185,8.4,0.3
+1324,873,Galar,Frosmoth,bug,ice,Sheild Dust,,Ice Scales,70,65,60,125,90,65,475,92.6,1.3
+1325,874,Galar,Stonjourner,rock,,Power Spot,,,100,125,135,20,20,70,470,1146.4,2.5
+1326,875,Galar,Eiscue,ice,,Ice Face,,,75,80,110,65,90,50,470,196.2,1.4
+1327,875,Galar,Eiscue-Noice Face,ice,,Ice Face,,,75,80,70,65,50,130,470,196.2,1.4
+1328,876,Galar,Indeedee-M,normal,psychic,Inner Focus,Synchronize,Psychic Surge,60,65,55,105,95,95,475,61.7,0.9
+1329,876,Galar,Indeedee-F,normal,psychic,Own Tempo,Synchronize,Psychic Surge,70,55,65,95,105,85,475,61.7,0.9
+1330,877,Galar,Morpeko-Full Belly,electric,dark,Hunger Switch,,,58,95,58,70,58,97,436,6.6,0.3
+1331,877,Galar,Morpeko-Hangry,electric,dark,Hunger Switch,,,58,95,58,70,58,97,436,6.6,0.3
+1332,878,Galar,Cufant,steel,,Sheer Force,,Heavy Metal,72,80,49,40,49,40,330,220.5,1.2
+1333,879,Galar,Copperajah,steel,,Sheer Force,,Heavy Metal,122,130,69,80,69,30,500,1433,3
+1334,880,Galar,Dracozolt,electric,dragon,Volt Absorb,Hustle,Sand Rush,90,100,90,80,70,75,505,418.9,1.8
+1335,881,Galar,Arctozolt,electric,ice,Volt Absorb,Static,Slush Rush,90,100,90,90,80,55,505,330.7,2.3
+1336,882,Galar,Dracovish,water,dragon,Water Absorb,Strong Jaw,Sand Rush,90,90,100,70,80,75,505,474,2.3
+1337,883,Galar,Arctovish,water,ice,Water Absorb,Ice Body,Slush Rush,90,90,100,80,90,55,505,385.8,2
+1338,884,Galar,Duraludon,steel,dragon,Light Metal,Heavy Metal,Stalwart,70,95,115,120,50,85,535,88.2,1.8
+1339,885,Galar,Dreepy,ghost,dragon,Clear Body,Infiltrator,Cursed Body,28,60,30,40,30,82,270,4.4,0.5
+1340,886,Galar,Drakloak,ghost,dragon,Clear Body,Infiltrator,Cursed Body,68,80,50,60,50,102,410,24.3,1.4
+1341,887,Galar,Dragapult,ghost,dragon,Clear Body,Infiltrator,Cursed Body,88,120,75,100,75,142,600,110.2,3
+1342,888,Galar,Zacian,fairy,,Intrepid Sword,,,92,130,115,80,115,138,670,242.5,2.8
+1343,888,Galar,Crowned Sword Zacian,fairy,steel,Intrepid Sword,,,92,170,115,80,115,148,720,782.6,2.8
+1344,889,Galar,Zamazenta,fighting,,Dauntless Shield,,,92,130,115,80,115,138,670,463,2.9
+1345,889,Galar,Crowned Shield Zamazenta,fighting,steel,Dauntless Shield,,,92,130,145,80,145,128,720,1730.6,2.9
+1346,890,Galar,Eternatus,poison,dragon,Pressure,,,140,85,95,145,95,130,690,2094.4,20
+1347,890,Galar,Eternamax Eternatus,poison,dragon,Pressure,,,255,115,250,125,250,130,1125,2094.4,100
+1348,891,Galar,Kubfu,fighting,,Inner Focus,,,60,90,60,53,50,72,385,26.5,0.6
+1349,892,Galar,Single Strike Urshifu,fighting,dark,Unseen Fist,,,100,130,100,63,60,97,550,231.5,1.9
+1350,892,Galar,Rapid Strike Urshifu,fighting,water,Unseen Fist,,,100,130,100,63,60,97,550,231.5,1.9
+1351,893,Galar,Zarude,dark,grass,Leaf Guard,,,105,120,105,70,95,105,600,154.3,1.8
+1352,893,Galar,Zarude-Dada,dark,grass,Leaf Guard,,,105,120,105,70,95,105,600,154.3,1.8
+1353,894,Galar,Regieleki,electric,,Transistor,,,80,100,50,100,50,200,580,319.7,1.2
+1354,895,Galar,Regidrago,dragon,,Dragon's Maw,,,200,100,50,100,50,80,580,440.9,2.1
+1355,896,Galar,Glastrier,ice,,Chilling Neigh,,,100,145,130,65,110,30,580,1763.7,2.2
+1356,897,Galar,Spectrier,ghost,,Grim Neigh,,,100,65,60,145,80,130,580,98.1,2
+1357,898,Galar,Calyrex,psychic,grass,Unnerve,,,100,80,80,80,80,80,500,17,1.1
+1358,898,Galar,Ice Rider Calyrex,psychic,ice,As One,,,100,165,150,85,130,50,680,1783.8,2.4
+1359,898,Galar,Shadow Rider Calyrex,psychic,ghost,As One,,,100,85,80,165,100,150,680,118.2,2.4
+1360,899,Hisui,Wyrdeer,normal,psychic,Intimidate,Frisk,Sap Sipper,103,105,72,105,75,65,525,208.7,1.8
+1361,900,Hisui,Kleavor,bug,rock,Swarm,Sheer Force,Sharpness,70,130,95,45,75,85,500,196.2,1.8
+1362,901,Hisui,Ursaluna,ground,normal,Guts,Bulletproof,Unnerve,130,140,105,45,80,50,550,639.3,2.4
+1363,902,Hisui,Basculegion-M,water,ghost,Swift Swim,Adaptability,Mold Breaker,120,112,65,80,75,78,530,242.5,3
+1364,902,Hisui,Basculegion-F,water,ghost,Swift Swim,Adaptability,Mold Breaker,120,92,65,100,75,78,530,242.5,3
+1365,903,Hisui,Sneasler,fighting,poison,Pressure,Unburden,Poison Touch,80,130,60,40,80,120,510,94.8,1.3
+1366,904,Hisui,Overqwil,dark,poison,Poison Point,Swift Swim,Intimidate,85,115,95,65,65,85,510,133.4,2.5
+1367,905,Hisui,Enamorus-Incarnate,fairy,flying,Cute Charm,,Contrary,74,115,70,135,80,106,580,105.8,1.6
+1368,905,Hisui,Enamorus-Therian,fairy,flying,Overcoat,,,74,115,110,135,100,46,580,105.8,1.6
+1369,906,Paldea,Sprigatito,grass,,Overgrow,,Protean,40,61,54,45,45,65,310,9,0.4
+1370,907,Paldea,Floragato,grass,,Overgrow,,Protean,61,80,63,60,63,83,410,26.9,0.9
+1371,908,Paldea,Meowscarada,grass,dark,Overgrow,,Protean,76,110,70,81,70,123,530,68.8,1.5
+1372,909,Paldea,Fuecoco,fire,,Blaze,,Unaware,67,45,59,63,40,36,310,21.6,0.4
+1373,910,Paldea,Crocolor,fire,,Blaze,,Unaware,81,55,78,90,58,49,411,67.7,1
+1374,911,Paldea,Skeledirge,fire,ghost,Blaze,,Unaware,104,75,100,110,75,66,530,719.8,1.6
+1375,912,Paldea,Quaxly,water,,Torrent,,Moxie,55,65,45,50,45,50,310,13.4,0.5
+1376,913,Paldea,Quaxwell,water,,Torrent,,Moxie,70,85,65,65,60,65,410,47.4,1.2
+1377,914,Paldea,Quaquaval,water,fighting,Torrent,,Moxie,85,120,80,85,75,85,530,136.5,1.8
+1378,915,Paldea,Lechonk,normal,,Aroma Veil,Gluttony,Thick Fat,54,45,40,35,45,35,254,22.5,0.5
+1379,916,Paldea,Oinkologne-M,normal,,Lingering Aroma,Gluttony,Thick Fat,110,100,75,59,80,65,489,264.6,1
+1380,916,Paldea,Oinkologne-F,normal,,Aroma Veil,Gluttony,Thick Fat,115,90,70,59,90,65,489,264.6,1
+1381,917,Paldea,Tarountula,bug,,Insomnia,,Stakeout,35,41,45,29,40,20,210,8.8,0.3
+1382,918,Paldea,Spidops,bug,,Insomnia,,Stakeout,60,79,92,52,86,35,404,36.4,1
+1383,919,Paldea,Nymble,bug,,Swarm,,Tinted Lens,33,46,40,21,25,45,210,2.2,0.2
+1384,920,Paldea,Lokix,bug,dark,Swarm,,Tinted Lens,71,102,78,52,55,92,450,38.6,1
+1385,921,Paldea,Pawmi,electric,,Static,Natural Cure,Iron Fist,45,50,20,40,25,60,240,5.5,0.3
+1386,922,Paldea,Pawmo,electric,fighting,Volt Absorb,Natural Cure,Iron Fist,60,75,40,50,40,85,350,14.3,0.4
+1387,923,Paldea,Pawmot,electric,fighting,Volt Absorb,Natural Cure,Iron Fist,70,115,70,70,60,105,490,90.4,0.9
+1388,924,Paldea,Tandemaus,normal,,Run Away,Pickup,Own Tempo,50,50,45,40,45,75,305,4,0.3
+1389,925,Paldea,Maushold-Family of Four,normal,,Friend Guard,Cheek Pouch,Technician,74,75,70,65,75,111,470,6.2,0.3
+1390,925,Paldea,Maushold-Family of Three,normal,,Friend Guard,Cheek Pouch,Technician,74,75,70,65,75,111,470,5.1,0.3
+1391,926,Paldea,Fidough,fairy,,Own Tempo,,Klutz,37,55,70,30,55,65,312,24,0.3
+1392,927,Paldea,Dachsbun,fairy,,Well-Baked Body,,Aroma Veil,57,80,115,50,80,95,477,32.8,0.5
+1393,928,Paldea,Smoliv,grass,normal,Early Bird,,Harvest,41,35,45,58,51,30,260,14.3,0.3
+1394,929,Paldea,Doliv,grass,normal,Early Bird,,Harvest,52,53,60,78,78,33,354,26.2,0.6
+1395,930,Paldea,Arboliva,grass,normal,Seed Sower,,Harvest,78,69,90,125,109,39,510,106.3,1.4
+1396,931,Paldea,Squawkabilly-Green Plumage,normal,flying,Intimidate,Hustle,Guts,82,96,51,45,51,92,417,5.3,0.6
+1397,931,Paldea,Squawkabilly-Blue Plumage,normal,flying,Intimidate,Hustle,Guts,82,96,51,45,51,92,417,5.3,0.6
+1398,931,Paldea,Squawkabilly-Yellow Plumage,normal,flying,Intimidate,Hustle,Sheer Force,82,96,51,45,51,92,417,5.3,0.6
+1399,931,Paldea,Squawkabilly-White Plumage,normal,flying,Intimidate,Hustle,Sheer Force,82,96,51,45,51,92,417,5.3,0.6
+1400,932,Paldea,Nacli,rock,,Purifying Salt,Sturdy,Clear Body,55,55,75,35,35,25,280,35.3,0.4
+1401,933,Paldea,Naclstack,rock,,Purifying Salt,Sturdy,Clear Body,60,60,100,35,65,35,355,231.5,0.6
+1402,934,Paldea,Garganacl,rock,,Purifying Salt,Sturdy,Clear Body,100,100,130,45,90,35,500,529.1,2.3
+1403,935,Paldea,Charcadet,fire,,Flash Fire,,Flame Body,40,50,40,50,40,35,255,23.1,0.6
+1404,936,Paldea,Armarouge,fire,psychic,Flash Fire,,Weak Armor,85,60,100,125,80,75,525,187.4,1.5
+1405,937,Paldea,Ceruledge,fire,ghost,Flash Fire,,Weak Armor,75,125,80,60,100,85,525,136.7,1.6
+1406,938,Paldea,Tadbulb,electric,,Own Tempo,Static,Damp,61,31,41,59,35,45,272,0.9,0.3
+1407,939,Paldea,Bellibolt,electric,,Electromorphosis,Static,Damp,109,64,91,103,83,45,495,249.1,1.2
+1408,940,Paldea,Wattrel,electric,flying,Wind Power,Volt Absorb,Competetive,40,40,35,55,40,70,280,7.9,0.4
+1409,941,Paldea,Kilowattrel,electric,flying,Wind Power,Volt Absorb,Competetive,70,70,60,105,60,125,490,85.1,1.4
+1410,942,Paldea,Maschiff,dark,,Intimidate,Run Away,Stakeout,60,78,60,40,51,51,340,35.3,0.5
+1411,943,Paldea,Mabostiff,dark,,Intimidate,Guard Dog,Stakeout,80,120,90,60,70,85,505,134.5,1.1
+1412,944,Paldea,Shroodle,poison,normal,Unburden,Pickpocket,Prankster,40,65,35,40,35,75,290,1.5,0.2
+1413,945,Paldea,Grafaiai,poison,normal,Unburden,Poison Touch,Prankster,63,95,65,80,72,110,485,60,0.7
+1414,946,Paldea,Bramblin,grass,ghost,Wind Rider,,Infiltrator,40,65,30,45,35,60,275,1.3,0.6
+1415,947,Paldea,Brambleghast,grass,ghost,Wind Rider,,Infiltrator,55,115,70,80,70,90,480,13.2,1.2
+1416,948,Paldea,Toedscool,ground,grass,Mycelium Might,,,40,40,35,50,100,70,335,72.8,0.9
+1417,949,Paldea,Toedscruel,ground,grass,Mycelium Might,,,80,70,65,80,120,100,515,127.9,1.9
+1418,950,Paldea,Klawf,rock,,Anger Shell,Shell Armor,Regenerator,70,100,115,35,55,75,450,174.2,1.3
+1419,951,Paldea,Capsakid,grass,,Chlorophyll,Insomnia,Klutz,50,62,40,62,40,50,304,6.6,0.3
+1420,952,Paldea,Scovillain,grass,fire,Chlorophyll,Insomnia,Moody,65,108,65,108,65,75,486,33.1,0.9
+1421,953,Paldea,Rellor,bug,,Compund Eyes,,Shed Skin,41,50,60,31,58,30,270,2.2,0.2
+1422,954,Paldea,Rabsca,bug,psychic,Compund Eyes,,Shed Skin,75,50,85,115,100,45,470,7.7,0.3
+1423,955,Paldea,Flittle,psychic,,Anticipation,Frisk,Speed Boost,30,35,30,55,30,75,255,3.3,0.2
+1424,956,Paldea,Espathra,psychic,,Opportunist,Frisk,Speed Boost,95,60,60,101,60,105,481,198.4,1.9
+1425,957,Paldea,Tinkatink,fairy,steel,Mold Breaker,Own Tempo,Pickpocket,50,45,45,35,64,58,297,19.6,0.4
+1426,958,Paldea,Tinkatuff,fairy,steel,Mold Breaker,Own Tempo,Pickpocket,65,55,55,45,82,78,380,130.3,0.7
+1427,959,Paldea,Tinkaton,fairy,steel,Mold Breaker,Own Tempo,Pickpocket,85,75,77,70,105,94,506,248.7,0.7
+1428,960,Paldea,Wiglett,water,,Gooey,Rattled,Sand Veil,10,55,25,35,25,95,245,4,1.2
+1429,961,Paldea,Wugtrio,water,,Gooey,Rattled,Sand Veil,35,100,50,50,70,120,425,11.9,1.2
+1430,962,Paldea,Bombirdier,flying,dark,Big Pecks,Keen Eye,Rocky Payload,70,103,85,60,85,82,485,94.6,1.5
+1431,963,Paldea,Finizen,water,,Water Veil,,,70,45,40,45,40,75,315,132.7,1.3
+1432,964,Paldea,Palafin-Zero,water,,Zero to Hero,,,100,70,72,53,62,100,457,132.7,1.3
+1433,964,Paldea,Palafin-Hero,water,,Zero to Hero,,,100,160,97,106,87,100,650,214.7,1.8
+1434,965,Paldea,Varoom,steel,poison,Overcoat,,Slow Start,45,70,63,30,45,47,300,77.2,1
+1435,966,Paldea,Revavroom,steel,poison,Overcoat,,Filter,80,119,90,54,67,90,500,264.6,1.8
+1436,967,Paldea,Cyclizr,dragon,normal,Shed Skin,,Regenerator,70,95,65,85,65,121,501,138.9,1.6
+1437,968,Paldea,Orthworm,steel,,Earth Eater,,Sand Veil,70,85,145,60,55,65,480,683.4,2.5
+1438,969,Paldea,Glimmet,rock,poison,Toxic Debris,,Corrosion,48,35,42,105,60,60,350,17.6,0.7
+1439,970,Paldea,Glimmora,rock,poison,Toxic Debris,,Corrosion,83,55,90,130,81,86,525,99.2,1.5
+1440,971,Paldea,Greavard,ghost,,Pickup,,Fluffy,50,61,60,30,55,34,290,77.2,0.6
+1441,972,Paldea,Houndstone,ghost,,Sand Rush,,Fluffy,72,101,100,50,97,68,488,33.1,2
+1442,973,Paldea,Flamigo,flying,fighting,Scrappy,Tangled Feet,Costar,82,115,74,75,64,90,500,81.6,1.6
+1443,974,Paldea,Cetoddle,ice,,Thick Fat,Snow Cloak,Sheer Force,108,68,45,30,40,43,334,99.2,1.2
+1444,975,Paldea,Cetitan,ice,,Thick Fat,Slush Rush,Sheer Force,170,113,65,45,55,73,521,1543.2,4.5
+1445,976,Paldea,Veluza,water,psychic,Mold Breaker,,Sharpness,90,102,73,78,65,70,478,198.4,2.5
+1446,977,Paldea,Dondozo,water,,Unaware,Oblivious,Water Veil,150,100,115,65,65,35,530,475,12
+1447,978,Paldea,Tatsugiri-Curly,water,dragon,Commander,,Storm Drain,68,50,60,120,95,82,475,17.6,0.3
+1448,978,Paldea,Tatsugiri-Droopy,water,dragon,Commander,,Storm Drain,68,50,60,120,95,82,475,17.6,0.3
+1449,978,Paldea,Tatsugiri-Stretchy,water,dragon,Commander,,Storm Drain,68,50,60,120,95,82,475,17.6,0.3
+1450,979,Paldea,Annihilape,fighting,ghost,Vital Spirit,Inner Focus,Defiant,110,115,80,50,90,90,535,123.5,1.2
+1451,980,Paldea,Clodsire,poison,ground,Poison Point,Water Absorb,Unaware,130,75,60,45,100,20,430,491.6,1.8
+1452,981,Paldea,Farigiraf,normal,psychic,Cud Chew,Armor Tail,Sap Sipper,120,90,70,110,70,60,520,352.7,3.2
+1453,982,Paldea,Dudunsparce-Two-Segment,normal,,Serene Grace,Run Away,Rattled,125,100,80,85,75,55,520,86.4,3.6
+1454,982,Paldea,Dudunsparce-Three-Segment,normal,,Serene Grace,Run Away,Rattled,125,100,80,85,75,55,520,104.5,4.5
+1455,983,Paldea,Kingambit,dark,steel,Defiant,Supreme Overlord,Pressure,100,135,120,60,85,50,550,264.6,2
+1456,984,Paldea,Great Tusk,ground,fighting,Protosynthesis,,,115,131,131,53,53,87,570,705.5,2.2
+1457,985,Paldea,Scream Tail,fairy,psychic,Protosynthesis,,,115,65,99,65,115,111,570,17.6,1.2
+1458,986,Paldea,Brute Bonnet,grass,dark,Protosynthesis,,,111,127,99,79,99,55,570,46.3,1.2
+1459,987,Paldea,Flutter Mane,ghost,fairy,Protosynthesis,,,55,55,55,135,135,135,570,8.8,1.4
+1460,988,Paldea,Slither Wing,bug,fighting,Protosynthesis,,,85,135,79,85,105,81,570,202.8,3.2
+1461,989,Paldea,Sandy Shocks,electric,ground,Protosynthesis,,,85,81,97,121,85,101,570,132.3,2.3
+1462,990,Paldea,Iron Treads,ground,steel,Quark Drive,,,90,112,120,72,70,106,570,529.2,0.9
+1463,991,Paldea,Iron Bundle,ice,water,Quark Drive,,,56,80,114,124,60,136,570,24.3,0.6
+1464,992,Paldea,Iron Hands,electric,fighting,Quark Drive,,,154,140,108,50,68,50,570,839.3,1.8
+1465,993,Paldea,Iron Jugulis,dark,flying,Quark Drive,,,94,80,86,122,80,108,570,244.7,1.3
+1466,994,Paldea,Iron Moth,fire,poison,Quark Drive,,,80,70,60,140,110,110,570,79.4,1.2
+1467,995,Paldea,Iron Thorns,rock,electric,Quark Drive,,,100,134,110,70,84,72,570,668,1.6
+1468,996,Paldea,Frigibax,dragon,ice,Thermal Exchange,,Ice Body,65,75,45,35,45,55,320,37.5,0.5
+1469,997,Paldea,Arctibax,dragon,ice,Thermal Exchange,,Ice Body,90,95,66,45,65,62,423,66.1,0.8
+1470,998,Paldea,Baxcalibur,dragon,ice,Thermal Exchange,,Ice Body,115,145,92,75,86,87,600,463,2.1
+1471,999,Paldea,Gimmighoul-Chest,ghost,,Rattled,,,45,30,70,75,70,10,300,11,0.3
+1472,999,Paldea,Gimmighoul-Roaming,ghost,,Run Away,,,45,30,25,75,45,80,300,0.2,0.1
+1473,1000,Paldea,Gholdengo,steel,ghost,Good as Gold,,,87,60,95,133,91,84,550,66.1,1.2
+1474,1001,Paldea,Wo-Chien,dark,grass,Tablets of Ruin,,,85,85,100,95,135,70,570,163.6,1.5
+1475,1002,Paldea,Chien-Pao,dark,ice,Sword of Ruin,,,80,120,80,90,65,135,570,335.5,1.9
+1476,1003,Paldea,Ting-Lu,dark,ground,Vessel of Ruin,,,155,110,125,55,80,45,570,1542.6,2.7
+1477,1004,Paldea,Chi-Yu,dark,fire,Beads of Ruin,,,55,80,80,135,120,100,570,10.8,0.4
+1478,1005,Paldea,Roaring Moon,dragon,dark,Protosynthesis,,,105,139,71,55,101,119,590,837.8,2
+1479,1006,Paldea,Iron Valiant,fairy,fighting,Quark Drive,,,74,130,90,120,60,116,590,77.2,1.4
+1480,1007,Paldea,Koraidon,fighting,dragon,Orichalcum Pulse,,,100,135,115,85,100,135,670,668,2.5
+1481,1008,Paldea,Miraidon,electric,dragon,Hadron Engine,,,100,85,100,135,115,135,670,529.1,3.5
+1482,1009,Paldea,Walking Wake,water,dragon,Protosynthesis,,,99,83,91,125,83,109,590,617.3,3.5
+1483,1010,Paldea,Iron Leaves,grass,psychic,Quark Drive,,,90,130,88,70,108,104,590,275.6,1.5

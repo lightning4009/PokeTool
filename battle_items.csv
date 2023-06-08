@@ -1,0 +1,93 @@
+﻿Item Name,Item Type,Boosts Move Power?,Boosts Stat?,Boosts Type?,Heals?,Reduces Type?,Boost Factor,Heal Factor,Type Reduced,Types Boosted,Stats Boosted,Criteria
+Occa Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,fire,-,-,Super effective
+Passho Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,water,-,-,Super effective
+Wacan Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,electric,-,-,Super effective
+Rindo Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,grass,-,-,Super effective
+Yache Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,ice,-,-,Super effective
+Chople Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,fighting,-,-,Super effective
+Kebia Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,poison,-,-,Super effective
+Shuca Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,ground,-,-,Super effective
+Coba Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,flying,-,-,Super effective
+Payapa Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,psychic,-,-,Super effective
+Tanga Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,bug,-,-,Super effective
+Charti Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,rock,-,-,Super effective
+Kasib Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,ghost,-,-,Super effective
+Haban Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,dragon,-,-,Super effective
+Colbur Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,dark,-,-,Super effective
+Babiri Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,steel,-,-,Super effective
+Chilan Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,normal,-,-,Super effective
+Roseli Berry,Type Berry,FALSE,FALSE,FALSE,FALSE,TRUE,-,-,fairy,-,-,Super effective
+Fire Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,fire,-,-
+Water Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,water,-,-
+Electric Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,electric,-,-
+Grass Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,grass,-,-
+Ice Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,ice,-,-
+Fighting Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,fighting,-,-
+Poison Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,poison,-,-
+Ground Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,ground,-,-
+Flying Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,flying,-,-
+Psychic Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,psychic,-,-
+Bug Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,bug,-,-
+Rock Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,rock,-,-
+Ghost Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,ghost,-,-
+Dragon Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,dragon,-,-
+Dark Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,dark,-,-
+Steel Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,steel,-,-
+Normal Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,normal,-,-
+Fairy Gem,Gem,FALSE,FALSE,TRUE,FALSE,FALSE,5325/4096,-,-,fairy,-,-
+Draco Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,dragon,-,-
+Dread Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,dark,-,-
+Earth Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,ground,-,-
+Fist Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,figthing,-,-
+Flame Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,fire,-,-
+Icicle Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,ice,-,-
+Insect Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,bug,-,-
+Iron Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,steel,-,-
+Meadow Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,grass,-,-
+Mind Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,psychic,-,-
+Pixie Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,fairy,-,-
+Sky Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,flying,-,-
+Splash Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,water,-,-
+Spooky Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,ghost,-,-
+Stone Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,rock,-,-
+Toxic Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,poison,-,-
+Zap Plate,Plate,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,electric,-,-
+Eviolite,Stat Boosting,FALSE,TRUE,FALSE,FALSE,FALSE,6144/4096,-,-,-,def:spdef,Capable of evolution
+Light Ball,Stat Boosting,FALSE,TRUE,FALSE,FALSE,FALSE,8192/4096,-,-,-,atk:spatk,Pikachu
+Metal Powder,Stat Boosting,FALSE,TRUE,FALSE,FALSE,FALSE,8192/4096,-,-,-,def,Ditto
+Quick Powder,Stat Boosting,FALSE,TRUE,FALSE,FALSE,FALSE,8192/4096,-,-,-,spd,Ditto
+Thick Club,Stat Boosting,FALSE,TRUE,FALSE,FALSE,FALSE,8192/4096,-,-,-,atk,Cubone:Marowak:Alolan Marowak
+Deep Sea Scale,Stat Boosting,FALSE,TRUE,FALSE,FALSE,FALSE,8192/4096,-,-,-,spdef,
+Deep Sea Tooth,Stat Boosting,FALSE,TRUE,FALSE,FALSE,FALSE,8192/4096,-,-,-,spatk,
+Choice Band,Stat Boosting,FALSE,TRUE,FALSE,FALSE,FALSE,6144/4096,-,-,-,atk,-
+Choice Specs,Stat Boosting,FALSE,TRUE,FALSE,FALSE,FALSE,6144/4096,-,-,-,spatk,-
+Assault Vest,Stat Boosting,FALSE,TRUE,FALSE,FALSE,FALSE,6144/4096,-,-,-,spdef,-
+Soul Dew,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,psychic:dragon,-,Latios:Latias
+Black Belt,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,fighting,-,-
+Black Glasses,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,dark,-,-
+Charcoal,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,fire,-,-
+Dragon Fang,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,dragon,-,-
+Hard Stone,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,rock,-,-
+Magnet,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,electric,-,-
+Metal Coat,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,steel,-,-
+Miracle Seed,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,grass,-,-
+Mystic Water,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,water,-,-
+Never-Melt Ice,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,ice,-,-
+Pink Bow,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,normal,-,-
+Poison Barb,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,poison,-,-
+Polkadot  Bow,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,normal,-,-
+Sharp Beak,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,flying,-,-
+Silk Scarf,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,normal,-,-
+Silver Powder,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,bug,-,-
+Soft Sand,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,ground,-,-
+Spell Tag,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,ghost,-,-
+Twisted Spoon,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,psychic,-,-
+Adamant Orb,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,dragon:steel,-,Dialga
+Griseous Orb,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,dragon:ghost,-,Girtatina
+Lustrous Orb ,Type Boosting,FALSE,FALSE,TRUE,FALSE,FALSE,4915/4096,-,-,dragon:water,-,Palkia
+Black Sludge,Healing,FALSE,FALSE,FALSE,TRUE,FALSE,-,-,-,-,-,Poison type
+Leftovers,Healing,FALSE,FALSE,FALSE,TRUE,FALSE,-,-,-,-,-,-
+Life Orb,Power Boosting,TRUE,FALSE,FALSE,FALSE,FALSE,5324/4096,-,-,-,-,-
+Expert Belt,Power Boosting,TRUE,FALSE,FALSE,FALSE,FALSE,4915/4096,-,-,-,-,Super effective
+Muscle Band,Power Boosting,TRUE,FALSE,FALSE,FALSE,FALSE,4505/4096,-,-,-,-,Physical
+Wise Glasses,Power Boosting,TRUE,FALSE,FALSE,FALSE,FALSE,4505/4096,-,-,-,-,Special

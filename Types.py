@@ -1,0 +1,21 @@
+from Pokemon import PokemonType
+
+TYPES = {'electric': PokemonType('electric', ['ground'], ['electric', 'flying', 'steel'], [], ['flying', 'water'], ['dragon', 'electric', 'grass'], ['ground']),
+         'ground': PokemonType('ground', ['ice', 'water', 'grass'], ['poison', 'rock'], ['electric'], ['electric', 'fire', 'poison', 'rock', 'steel'], ['bug', 'grass'], ['flying']),
+         'ice': PokemonType('ice', ['fighting', 'fire', 'rock', 'steel'], ['ice'], [], ['dragon', 'flying', 'grass', 'ground'], ['fire', 'ice', 'steel', 'water'], []),
+         'steel': PokemonType('steel', ['fire', 'fighting', 'ground'], ['bug', 'dragon', 'fairy', 'flying', 'grass', 'ice', 'normal', 'psychic', 'rock', 'steel'], ['poison'], ['fairy', 'ice', 'rock'], ['electric', 'fire', 'steel', 'water'], []),
+         'fighting': PokemonType('fighting', ['fairy', 'fighting', 'psychic'], ['bug', 'dark', 'rock'], [], ['dark', 'ice', 'normal', 'rock', 'steel'], ['bug', 'fairy', 'flying', 'poison', 'psychic'], ['ghost']),
+         'fairy': PokemonType('fairy', ['poison', 'steel'], ['bug', 'dark', 'fighting'], ['dragon'], ['dark', 'dragon', 'fighting'], ['fire', 'poison', 'steel'], []),
+         'poison': PokemonType('poison', ['psychic', 'ground'], ['fighting', 'poison', 'bug', 'grass', 'fairy'], [], ['fairy', 'grass'], ['poison', 'ground', 'rock', 'ghost'], ['steel']),
+         'psychic': PokemonType('psychic', ['bug', 'dark', 'ghost'], ['psychic', 'ghost'], [], ['fighting', 'poison'], ['psychic', 'steel'], ['dark']),
+         'ghost': PokemonType('ghost', ['dark', 'ghost'], ['bug', 'poiosn'], ['normal', 'fighting'], ['ghost', 'psychic'], ['dark'], ['normal']),
+         'dark': PokemonType('dark', ['bug', 'fairy', 'fighting'], ['dark', 'ghost'], ['psychic'], ['ghost', 'psychic'], ['dark', 'fairy', 'fighting'], []),
+         'bug': PokemonType('bug', ['fire', 'flying', 'rock'], ['fighting', 'grass', 'ground'], [], ['dark', 'grass', 'psychic'], ['fighting', 'fire', 'flying', 'ghost', 'poison', 'steel'], []),
+         'fire': PokemonType('fire', ['water', 'ground', 'rock'], ['fire', 'grass', 'bug', 'steel', 'fairy', 'ice'], [], ['bug', 'grass', 'ice', 'steel'], ['dragon', 'fire', 'rock', 'water'], []),
+         'water': PokemonType('water', ['electric', 'grass'], ['fire', 'ice', 'steel', 'water'], [], ['fire', 'ground', 'rock'], ['dragon', 'grass', 'water'], []),
+         'grass': PokemonType('grass', ['bug', 'fire', 'flying', 'ice', 'poison'], ['electric', 'grass', 'ground', 'water'], [], ['ground', 'rock', 'water'], ['bug', 'dragon', 'fire', 'flying', 'grass', 'poison', 'steel'], []),
+         'flying': PokemonType('flying', ['rock', 'electric', 'ice'], ['bug', 'fighting', 'grass'], ['ground'], ['bug', 'fighting', 'grass'], ['electric', 'rock', 'steel'], []),
+         'rock': PokemonType('rock', ['water', 'grass', 'steel', 'ground', 'fighting'], ['fire', 'flying', 'normal', 'poison'], [], ['bug', 'fire', 'flying', 'ice'], ['fighting', 'ground', 'steel'], []), 
+         'normal': PokemonType('normal', ['fighting'], [], ['ghost'], [], [], ['ghost']),
+         'dragon': PokemonType('dragon', ['ice', 'fairy', 'dragon'], ['fire', 'water', 'grass', 'electric'], [], ['dragon'], ['steel'], ['fairy']),
+         '': PokemonType('', [],[],[],[],[],[])}

@@ -1,0 +1,377 @@
+﻿Item Name,Item Type,In Battle Effect,Other Effect,Fling Damage,Can be held?
+PSNCureBerry,Berry,Cures poison.,,10,TRUE
+PRZCureBerry,Berry,Cures paralysis.,,10,TRUE
+Burnt Berry,Berry,Cures freeze.,,10,TRUE
+Ice Berry,Berry,Cures burn.,,10,TRUE
+Bitter Berry,Berry,Cures confusion.,,10,TRUE
+Mint Berry,Berry,Cures sleep.,,10,TRUE
+MiracleBerry,Berry,Cures any non-volatile status condition and confusion.,,10,TRUE
+MysteryBerry,Berry,Restores 5 PP.,,10,TRUE
+Berry,Berry,Restores 10 HP.,,10,TRUE
+Gold Berry,Berry,Restores 30 HP.,,10,TRUE
+Cheri Berry,Berry,Cures paralysis.,,10,TRUE
+Chesto Berry,Berry,Cures sleep.,,10,TRUE
+Pecha Berry,Berry,Cures poison.,,10,TRUE
+Rawst Berry,Berry,Cures burn.,,10,TRUE
+Aspear Berry,Berry,Cures freeze.,,10,TRUE
+Leppa Berry,Berry,Restores 10 PP.,,10,TRUE
+Oran Berry,Berry,Restores 10 HP.,,10,TRUE
+Persim Berry,Berry,Cures confusion.,,10,TRUE
+Lum Berry,Berry,Cures any non-volatile status condition and confusion.,,10,TRUE
+Sitrus Berry,Berry,Restores 25% HP when HP falls below 50%.,,10,TRUE
+Figy Berry,Berry,Restores 33% HP when HP falls below 25 but confuses Pokémon that dislike spicy food.,,10,TRUE
+Wiki Berry,Berry,Restores 33% HP when HP falls below 25% but confuses Pokémon that dislike dry food.,,10,TRUE
+Mago Berry,Berry,Restores 33% HP when HP falls below 25% but confuses Pokémon that dislike sweet food.,,10,TRUE
+Aguav Berry,Berry,Restores 33% HP when HP falls below 25% but confuses Pokémon that dislike bitter food.,,10,TRUE
+Iapapa Berry,Berry,Restores 33% HP when HP falls below 25% but confuses Pokémon that dislike sour food.,,10,TRUE
+Razz Berry,Berry,,Makes wild Pokémon easier to capture.,10,TRUE
+Bluk Berry,Berry,—,Sell for P500,10,TRUE
+Nanab Berry,Berry,,Makes wild Pokémon move less,10,TRUE
+Wepear Berry,Berry,—,Sell for P500,10,TRUE
+Pinap Berry,Berry,,Makes wild Pokémon more likely to drop items.,10,TRUE
+Pomeg Berry,Berry,,Lowers HP EVs: raises friendship,10,TRUE
+Kelpsy Berry,Berry,,Lowers Attack EVs: raises friendship,10,TRUE
+Qualot Berry,Berry,,Lowers Defense EVs: raises friendship,10,TRUE
+Hondew Berry,Berry,,Lowers Special Attack EVs: raises friendship,10,TRUE
+Grepa Berry,Berry,,Lowers Special Defense EVs: raises friendship,10,TRUE
+Tamato Berry,Berry,,Lowers Speed EVs: raises friendship,10,TRUE
+Cornn Berry,Berry,—,Sell for P500,10,TRUE
+Magost Berry,Berry,—,Sell for P500,10,TRUE
+Rabuta Berry,Berry,—,Sell for P500,10,TRUE
+Nomel Berry,Berry,—,Sell for P500,10,TRUE
+Spelon Berry,Berry,—,Sell for P500,10,TRUE
+Pamtre Berry,Berry,—,Sell for P500,10,TRUE
+Watmel Berry,Berry,—,Sell for P500,10,TRUE
+Durin Berry,Berry,—,Sell for P500,10,TRUE
+Belue Berry,Berry,—,Sell for P500,10,TRUE
+Occa Berry,Berry,Halves damage taken from a super effective Fire-type move.,,10,TRUE
+Passho Berry,Berry,Halves damage taken from a super effective Water-type move.,,10,TRUE
+Wacan Berry,Berry,Halves damage taken from a super effective Electric-type move.,,10,TRUE
+Rindo Berry,Berry,Halves damage taken from a super effective Grass-type move.,,10,TRUE
+Yache Berry,Berry,Halves damage taken from a super effective Ice-type move.,,10,TRUE
+Chople Berry,Berry,Halves damage taken from a super effective Fighting-type move.,,10,TRUE
+Kebia Berry,Berry,Halves damage taken from a super effective Poison-type move.,,10,TRUE
+Shuca Berry,Berry,Halves damage taken from a super effective Ground-type move.,,10,TRUE
+Coba Berry,Berry,Halves damage taken from a super effective Flying-type move.,,10,TRUE
+Payapa Berry,Berry,Halves damage taken from a super effective Psychic-type move.,,10,TRUE
+Tanga Berry,Berry,Halves damage taken from a super effective Bug-type move.,,10,TRUE
+Charti Berry,Berry,Halves damage taken from a super effective Rock-type move.,,10,TRUE
+Kasib Berry,Berry,Halves damage taken from a super effective Ghost-type move.,,10,TRUE
+Haban Berry,Berry,Halves damage taken from a super effective Dragon-type move.,,10,TRUE
+Colbur Berry,Berry,Halves damage taken from a super effective Dark-type move.,,10,TRUE
+Babiri Berry,Berry,Halves damage taken from a super effective Steel-type move.,,10,TRUE
+Chilan Berry,Berry,Halves damage taken from a Normal-type move.,,10,TRUE
+Liechi Berry,Berry,Raises Attack when HP falls below 25%.,,10,TRUE
+Ganlon Berry,Berry,Raises Defense when HP falls below 25%.,,10,TRUE
+Salac Berry,Berry,Raises Speed when HP falls below 25%.,,10,TRUE
+Petaya Berry,Berry,Raises Special Attack when HP falls below 25%.,,10,TRUE
+Apicot Berry,Berry,Raises Special Defense when HP falls below 25%.,,10,TRUE
+Lansat Berry,Berry,Raises critical hit ratio when HP falls below 25%.,,10,TRUE
+Starf Berry,Berry,Sharply raises a random stat when HP falls below 25%.,,10,TRUE
+Enigma Berry,Berry,Restores 25% HP when hit with a super effective move.,,10,TRUE
+Micle Berry,Berry,Raises accuracy of next move by ~20% when HP falls below 25%.,,10,TRUE
+Custap Berry,Berry,Causes next move to go first in its priority bracket when HP falls below 25%.,,10,TRUE
+Jaboca Berry,Berry,Damages attacker for 12.5% HP when hit with a physical move.,,10,TRUE
+Rowap Berry,Berry,Damages attacker for 12.5% HP when hit with a special move.,,10,TRUE
+Roseli Berry,Berry,Halves damage taken from a super effective Fairy-type move.,,10,TRUE
+Kee Berry,Berry,Raises Defense when hit with a physical move.,,10,TRUE
+Maranga Berry,Berry,Raises Special Defense when hit with a special move.,,10,TRUE
+Hopo Berry,Berry,Restores 10 PP.,If used on a wild Pokemon: the wild Pokemon's reactions are dulled,10,TRUE
+Red Orb,Orb,Allows Groudon to undergo Primal Reversion and become Primal Groudon,,0,TRUE
+Blue Orb,Orb,Allows Kyogre to undergo Primal Reversion and become Primal Kyogre,,0,TRUE
+Jade Orb,Orb,,,0,FALSE
+Shock Drive,Drive,Changes Techno Blast into an Electric Type move,,70,TRUE
+Burn Drive,Drive,Changes Techno Blast into an Fire Type move,,70,TRUE
+Chill Drive,Drive,Changes Techno Blast into an Ice Type move,,70,TRUE
+Douse Drive,Drive,Changes Techno Blast into an Water Type move,,70,TRUE
+Power Anklet,Power Item,Halves Speed,Grants 8 extra Speed Effort Values after battle and causes a parent that holds it to pass down its Speed Individual Value,70,TRUE
+Power Band,Power Item,Halves Speed,Grants 8 extra Special Defense Effort Values after battle and causes a parent that holds it to pass down its Special Defense Individual Value,70,TRUE
+Power Belt,Power Item,Halves Speed,Grants 8 extra Defense Effort Values after battle and causes a parent that holds it to pass down its Defense Individual Value,70,TRUE
+Power Bracer,Power Item,Halves Speed,Grants 8 extra Attack Effort Values after battle and causes a parent that holds it to pass down its Attack Individual Value,70,TRUE
+Power Lens,Power Item,Halves Speed,Grants 8 extra Special Attack Effort Values after battle and causes a parent that holds it to pass down its Special Attack Individual Value,70,TRUE
+Power Weight,Power Item,Halves Speed,Grants 8 extra HP Effort Values after battle and causes a parent that holds it to pass down its HP Individual Value,70,TRUE
+Auspicious Armor,Evolution Item,,Causes Charcadet to evolve into Armarouge,0,FALSE
+Black Augurite,Evolution Item,,Causes Scyther to evolve into Kleavor,0,FALSE
+Chipped Pot,Evolution Item,,Causes Sinistea-Antique to evolve into Polteageist-Antique,0,FALSE
+Cracked Pot,Evolution Item,,Causes Sinistea-Phony to evolve into Polteageist-Phony,0,FALSE
+Galarica Cuff,Evolution Item,,Causes Galarian Slowpoke to evolve into Galarian Slowbro,0,FALSE
+Galarica Wreath,Evolution Item,,Causes Galarian Slowpoke to evolve into Galarian Slowking,0,FALSE
+Malicious Armor,Evolution Item,,Causes Charcadet to evolve into Ceruledge,0,FALSE
+Peat Block,Evolution Item,,Cause Ursaring to evolve into Ursaluna,0,FALSE
+Razor Claw,Evolution Item,Raises critical hit ratio one stage,Causes Sneasel to evolve into Weavile and Hisuian Sneasel to evolve into Sneasler,80,TRUE
+Sweet Apple,Evolution Item,,Causes Applin to evolve into Appletun,0,FALSE
+Scroll of Darkness,Evolution Item,,Causes Kubfu to evolve into Urshifu-Single Strike,0,FALSE
+Scroll of Waters,Evolution Item,,Causes Kubfu to evolve into Urshifu-Rapid Strike,0,FALSE
+Tart Apple,Evolution Item,,Causes Applin to evolve into Flapple,0,FALSE
+Deep Sea Scale,Evolution Item,If held by Clamperl: doubles its Special Defense.,Causes Clamperl to evolve into Gorebyss,30,TRUE
+Deep Sea Tooth,Evolution Item,If held by Clamperl: doubles its Special Attack.,Causes Clamperl to evolve into Huntail,90,TRUE
+Dragon Scale,Evolution Item,,Causes Seadra to evolve into Kingdra,30,TRUE
+Dubious Disc,Evolution Item,,Causes Porygon2 to evolve into Porygon-Z,50,TRUE
+Electirizer,Evolution Item,,Causes Electabuzz to evolve into Electivire,80,TRUE
+King's Rock,Evolution Item,Gives attacks a 10% chance to flinch,Causes Poliwhirl to evolve into Poliwrath and Slowpoke to evolve into Slowking,30,TRUE
+Magmarizer,Evolution Item,,Causes Magmar to evolve into Magmortar,80,TRUE
+Metal Coat,Evolution Item,Boosts the power of Steel-type moves by 20%,Causes Onix to evolve into Steelix and Scyther to evolve into Scizor,30,TRUE
+Oval Stone,Evolution Item,,Causes Happiny to evolve into Chansey,80,TRUE
+Prism Scale,Evolution Item,,Causes Feebas to evolve into Milotic,30,TRUE
+Protector,Evolution Item,,Causes Rhydon to evolve into Rhyperioir,80,TRUE
+Razor Fang,Evolution Item,Gives attacks a 10% chance to flinch,Causes Gligar to evolve into Gliscor,30,TRUE
+Reaper Cloth,Evolution Item,,Causes Dusclops to evolve into Dusknoir,10,TRUE
+Sachet,Evolution Item,,Causes Spritzee to evolve into Aromatisse,80,TRUE
+Upgrade,Evolution Item,,Cause Porygon to evolve into Porygon2,30,TRUE
+Whipped Dream,Evolution Item,,Causes Swirlix to evolve into Slurpuff,80,TRUE
+Strawberry Sweet,Evolution Item,,Causes Milcery to evolve into Alcremie,10,TRUE
+Love Sweet,Evolution Item,,Causes Milcery to evolve into Alcremie,10,TRUE
+Berry Sweet,Evolution Item,,Causes Milcery to evolve into Alcremie,10,TRUE
+Clover Sweet,Evolution Item,,Causes Milcery to evolve into Alcremie,10,TRUE
+Flower Sweet,Evolution Item,,Causes Milcery to evolve into Alcremie,10,TRUE
+Star Sweet,Evolution Item,,Causes Milcery to evolve into Alcremie,10,TRUE
+Deep Sea Scale,Evolution Item,If held by Clamperl: doubles its Special Defense.,Causes Clamperl to evolve into Gorebyss,10,TRUE
+Lucky Egg,Experience,,The holder gains 150% of the experience they normally would,30,TRUE
+Fire Gem,Gem,Boosts the power of the first Fire type move used by 30%,,0,FALSE
+Water Gem,Gem,Boosts the power of the first Water type move used by 30%,,0,FALSE
+Electric Gem,Gem,Boosts the power of the first Electric type move used by 30%,,0,FALSE
+Grass Gem,Gem,Boosts the power of the first Grass type move used by 30%,,0,FALSE
+Ice Gem,Gem,Boosts the power of the first Ice type move used by 30%,,0,FALSE
+Fighting Gem,Gem,Boosts the power of the first Fighting type move used by 30%,,0,FALSE
+Poison Gem,Gem,Boosts the power of the first Poison type move used by 30%,,0,FALSE
+Ground Gem,Gem,Boosts the power of the first Ground type move used by 30%,,0,FALSE
+Flying Gem,Gem,Boosts the power of the first Flying type move used by 30%,,0,FALSE
+Psychic Gem,Gem,Boosts the power of the first Psychic type move used by 30%,,0,FALSE
+Bug Gem,Gem,Boosts the power of the first Bug type move used by 30%,,0,FALSE
+Rock Gem,Gem,Boosts the power of the first Rock type move used by 30%,,0,FALSE
+Ghost Gem,Gem,Boosts the power of the first Ghost type move used by 30%,,0,FALSE
+Dragon Gem,Gem,Boosts the power of the first Dragon type move used by 30%,,0,FALSE
+Dark Gem,Gem,Boosts the power of the first Dark type move used by 30%,,0,FALSE
+Steel Gem,Gem,Boosts the power of the first Steel type move used by 30%,,0,FALSE
+Normal Gem,Gem,Boosts the power of the first Normal type move used by 30%,,0,FALSE
+Fairy Gem,Gem,Boosts the power of the first Fairy type move used by 30%,,0,FALSE
+Full Incense,Incense,Forces the holder to move last in its priority bracket,Causes Snorlax to produce Muchlax eggs,10,TRUE
+Lax Incense,Incense,Reduces the accuracy of moves targeted at the holder by 10%,Causes Wobbuffet to produce Wynaut eggs,10,TRUE
+Luck Incense,Incense,Doubles prize money received from battles when held.,Causes Chansey and Blissey to produce Happiny eggs,10,TRUE
+Odd Incense,Incense,Boosts the power of the holder's Psychic-type moves.,Causes Mr. Mime and Mr. Rime to produce Mime Jr. eggs,10,TRUE
+Pure Incense,Incense,Lowers wild Pokémon encounter rate when held.,Causes Chimecho to produce Chingling eggs,10,TRUE
+Rock Incense,Incense,Boosts the power of the holder's Rock-type moves.,Causes Sudowoodo to produce Bonsly eggs,10,TRUE
+Rose Incense,Incense,Boosts the power of the holder's Grass-type moves.,Causes Roselia and Roserade to produce Budew eggs,10,TRUE
+Sea Incense,Incense,Boosts the power of the holder's Water-type moves.,Causes Marill and Azumarill to produce Azurill eggs,10,TRUE
+Wave Incense,Incense,Boosts the power of the holder's Water-type moves.,Causes Mantine to produce Mantyke eggs,10,TRUE
+Gengarite,Mega Stone,Allows Gengar to Mega Evolve,,0,FALSE
+Gardevoirite,Mega Stone,Allows Gardevoir to Mega Evolve,,0,FALSE
+Ampharosite,Mega Stone,Allows Ampharos to Mega Evolve,,0,FALSE
+Venusaurite,Mega Stone,Allows Venusaur to Mega Evolve,,0,FALSE
+Charizardite X ,Mega Stone,Allows Charizard to Mega Evolve,,0,FALSE
+Blastoisinite,Mega Stone,Allows Blastoise to Mega Evolve,,0,FALSE
+Mewtwonite X,Mega Stone,Allows Mewtwo to Mega Evolve,,0,FALSE
+Mewtwonite Y,Mega Stone,Allows Mewtwo to Mega Evolve,,0,FALSE
+Blazikenite,Mega Stone,Allows Blaziken to Mega Evolve,,0,FALSE
+Medichamite,Mega Stone,Allows Medicham to Mega Evolve,,0,FALSE
+Houndoominite,Mega Stone,Allows Houndoom to Mega Evolve,,0,FALSE
+Aggronite,Mega Stone,Allows Aggron to Mega Evolve,,0,FALSE
+Banettite,Mega Stone,Allows Banette to Mega Evolve,,0,FALSE
+Tyranitarite,Mega Stone,Allows Tyranitar to Mega Evolve,,0,FALSE
+Scizorite,Mega Stone,Allows Scizor to Mega Evolve,,0,FALSE
+Pinsirite,Mega Stone,Allows Pinsir to Mega Evolve,,0,FALSE
+Aerodactylite,Mega Stone,Allows Aerodactyl to Mega Evolve,,0,FALSE
+Lucarionite,Mega Stone,Allows Lucario to Mega Evolve,,0,FALSE
+Abomasite,Mega Stone,Allows Abomasnow to Mega Evolve,,0,FALSE
+Kangaskhanite,Mega Stone,Allows Kangaskhan to Mega Evolve,,0,FALSE
+Gyaradosite,Mega Stone,Allows Gyarados to Mega Evolve,,0,FALSE
+Absolite,Mega Stone,Allows Absol to Mega Evolve,,0,FALSE
+Charizardite Y,Mega Stone,Allows Charizard to Mega Evolve,,0,FALSE
+Alakazite,Mega Stone,Allows Alakazam to Mega Evolve,,0,FALSE
+Heracronite,Mega Stone,Allows Heracross to Mega Evolve,,0,FALSE
+Mawilite,Mega Stone,Allows Mawile to Mega Evolve,,0,FALSE
+Manectite,Mega Stone,Allows Manectric to Mega Evolve,,0,FALSE
+Garchompite,Mega Stone,Allows Garchomp to Mega Evolve,,0,FALSE
+Latiasite,Mega Stone,Allows Latias to Mega Evolve,,0,FALSE
+Latiosite,Mega Stone,Allows Latios to Mega Evolve,,0,FALSE
+Swampertite,Mega Stone,Allows Swampert to Mega Evolve,,0,FALSE
+Sceptilite,Mega Stone,Allows Sceptile to Mega Evolve,,0,FALSE
+Sablenite,Mega Stone,Allows Sableye to Mega Evolve,,0,FALSE
+Altarianite,Mega Stone,Allows Altaria to Mega Evolve,,0,FALSE
+Galladite,Mega Stone,Allows Gallade to Mega Evolve,,0,FALSE
+Audinite,Mega Stone,Allows Audio to Mega Evolve,,0,FALSE
+Metagrossite,Mega Stone,Allows Metagross to Mega Evolve,,0,FALSE
+Sharpedonite,Mega Stone,Allows Sharpedo to Mega Evolve,,0,FALSE
+Slowbronite,Mega Stone,Allows Slowbro to Mega Evolve,,0,FALSE
+Steelixite,Mega Stone,Allows Steelix to Mega Evolve,,0,FALSE
+Pidgeotite,Mega Stone,Allows Pidgeot to Mega Evolve,,0,FALSE
+Glalitite,Mega Stone,Allows Glalie to Mega Evolve,,0,FALSE
+Diancite,Mega Stone,Allows Diancie to Mega Evolve,,0,FALSE
+Cameruptite,Mega Stone,Allows Camerupt to Mega Evolve,,0,FALSE
+Lopunnite,Mega Stone,Allows Lopunny to Mega Evolve,,0,FALSE
+Salamencite,Mega Stone,Allows Salamence to Mega Evolve,,0,FALSE
+Beedrillite,Mega Stone,Allows Beedrill to Mega Evolve,,0,FALSE
+Bug Memory,Memory,Changes Multi Attack to a Bug type attack,,50,TRUE
+Dark Memory,Memory,Changes Multi Attack to a Dark type attack,,50,TRUE
+Dragon Memory,Memory,Changes Multi Attack to a Dragon type attack,,50,TRUE
+Electric Memory,Memory,Changes Multi Attack to an Electric type attack,,50,TRUE
+Fairy Memory,Memory,Changes Multi Attack to a Fairy type attack,,50,TRUE
+Fighting Memory,Memory,Changes Multi Attack to a Fighting type attack,,50,TRUE
+Fire Memory,Memory,Changes Multi Attack to a Fire type attack,,50,TRUE
+Flying Memory,Memory,Changes Multi Attack to a Flying type attack,,50,TRUE
+Ghost Memory,Memory,Changes Multi Attack to a Ghost type attack,,50,TRUE
+Grass Memory,Memory,Changes Multi Attack to a Grass type attack,,50,TRUE
+Ground Memory,Memory,Changes Multi Attack to a Ground type attack,,50,TRUE
+Ice Memory,Memory,Changes Multi Attack to an Ice type attack,,50,TRUE
+Poison Memory,Memory,Changes Multi Attack to a Poison type attack,,50,TRUE
+Psychic Memory,Memory,Changes Multi Attack to a Psychic type attack,,50,TRUE
+Rock Memory,Memory,Changes Multi Attack to a Rock type attack,,50,TRUE
+Steel Memory,Memory,Changes Multi Attack to a Steel type attack,,50,TRUE
+Water Memory,Memory,Changes Multi Attack to a Water type attack,,50,TRUE
+Blank Plate,Plate,Changes Judgment to a Normal type attack,Changes Arceus to the Normal type,90,TRUE
+Draco Plate,Plate,Changes Judgment to a Dragon type attack and boosts Dragon type attacks by 20%,Changes Arceus to the Dragon type,90,TRUE
+Dread Plate,Plate,Changes Judgment to a Dark type attack and boosts Dark type attacks by 20%,Changes Arceus to the Dark type,90,TRUE
+Earth Plate,Plate,Changes Judgment to a Ground type attack and boosts Ground type attacks by 20%,Changes Arceus to the Ground type,90,TRUE
+Fist Plate,Plate,Changes Judgment to a Fighting type attack and boosts Fighting type attacks by 20%,Changes Arceus to the Fighting type,90,TRUE
+Flame Plate,Plate,Changes Judgment to a Fire type attack and boosts Fire type attacks by 20%,Changes Arceus to the Fire type,90,TRUE
+Icicle Plate,Plate,Changes Judgment to a Ice type attack and boosts Ice type attacks by 20%,Changes Arceus to the Ice type,90,TRUE
+Insect Plate,Plate,Changes Judgment to a Bug type attack and boosts Bug type attacks by 20%,Changes Arceus to the Bug type,90,TRUE
+Iron Plate,Plate,Changes Judgment to a Steel type attack and boosts Steel type attacks by 20%,Changes Arceus to the Steel type,90,TRUE
+Legend Plate,Plate,Changes Judgment to whichever type is most effective against the target,Changes Arceus to whichever type is best against the target,90,TRUE
+Meadow Plate,Plate,Changes Judgment to a Grass type attack and boosts Grass type attacks by 20%,Changes Arceus to the Grass type,90,TRUE
+Mind Plate,Plate,Changes Judgment to a Psychic type attack and boosts Psychic type attacks by 20%,Changes Arceus to the Psychic type,90,TRUE
+Pixie Plate,Plate,Changes Judgment to a Fairy type attack and boosts Fairy type attacks by 20%,Changes Arceus to the Fairy type,90,TRUE
+Sky Plate,Plate,Changes Judgment to a Flying type attack and boosts Flying type attacks by 20%,Changes Arceus to the Flying type,90,TRUE
+Splash Plate,Plate,Changes Judgment to a Water type attack and boosts Water type attacks by 20%,Changes Arceus to the Water type,90,TRUE
+Spooky Plate,Plate,Changes Judgment to a Ghost type attack and boosts Ghost type attacks by 20%,Changes Arcues to the Ghost type,90,TRUE
+Stone Plate,Plate,Changes Judgment to a Rock type attack and boosts Rock type attacks by 20%,Changes Arcues to the Rock type,90,TRUE
+Toxic Plate,Plate,Changes Judgment to a Poison type attack and boosts Poison type attacks by 20%,Changes Arcues to the Poison type,90,TRUE
+Zap Plate,Plate,Changes Judgment to a Electric type attack and boosts Electric type attacks by 20%,Changes Arcues to the Electric type,90,TRUE
+Eviolite,Stat Boosting,Raises Defense and Special Defense by 50% of held by a Pokemon that can evolve,,40,TRUE
+Leek,Pokemon Exclusive,Increases critical hit ratio by two stages if held by Farfetch'd; Galarian Farfetch'd; or Sirfetch'd,,20,TRUE
+Light Ball,Pokemon Exclusive,Doubles Attack and Special Attack if held by Pikachu,If held by the parent of a bred Pichu; the Pichu will know Volt Tackle,30,TRUE
+Lucky Punch,Pokemon Exclusive,Increases critical hit ratio by two stages if held by Chansey,,40,TRUE
+Metal Powder,Pokemon Exclusive,Doubles Defense if held by an untransformed Ditto,,10,TRUE
+Quick Powder,Pokemon Exclusive,Doubles Speed if held by an untransformed Ditto,,10,TRUE
+Soul Dew,Pokemon Exclusive,Boosts the power of Psychic and Dragon type attacks by 20% if held by Latios or Latias,,30,TRUE
+Thick Club,Pokemon Exclusive,Doubles Attack if held by Cubone; Marowak; or Alolan Marowak,,90,TRUE
+Black Belt,Type Boosting,Boosts the power of Fighting type attacks by 20%,,30,TRUE
+Black Glasses,Type Boosting,Boosts the power of Dark type attacks by 20%,,30,TRUE
+Charcoal,Type Boosting,Boosts the power of Fire type attacks by 20%,,30,TRUE
+Dragon Fang,Type Boosting,Boosts the power of Dragon type attacks by 20%,,70,TRUE
+Hard Stone,Type Boosting,Boosts the power of Rock type attacks by 20%,,100,TRUE
+Magnet,Type Boosting,Boosts the power of Electric type attacks by 20%,,30,TRUE
+Metal Coat,Type Boosting,Boosts the power of Steel type attacks by 20%,,30,TRUE
+Miracle Seed,Type Boosting,Boosts the power of Grass type attacks by 20%,,30,TRUE
+Mystic Water,Type Boosting,Boosts the power of Water type attacks by 20%,,30,TRUE
+Never-Melt Ice,Type Boosting,Boosts the power of Ice type attacks by 20%,,30,TRUE
+Pink Bow,Type Boosting,Boosts the power of Normal type attacks by 20%,,0,FALSE
+Poison Barb,Type Boosting,Boosts the power of Poison type attacks by 20%,,70,TRUE
+Polkadot  Bow,Type Boosting,Boosts the power of Normal type attacks by 20%,,0,FALSE
+Sharp Beak,Type Boosting,Boosts the power of Flying type attacks by 20%,,50,TRUE
+Silk Scarf,Type Boosting,Boosts the power of Normal type attacks by 20%,,10,TRUE
+Silver Powder,Type Boosting,Boosts the power of Bug type attacks by 20%,,10,TRUE
+Soft Sand,Type Boosting,Boosts the power of Ground type attacks by 20%,,10,TRUE
+Spell Tag,Type Boosting,Boosts the power of Ghost type attacks by 20%,,30,TRUE
+Twisted Spoon,Type Boosting,Boosts the power of Psychic type attacks by 20%,,30,TRUE
+Adamant Orb,Type Boosting,Boosts the power of Dragon and Steel type attacks by 20% when held by Dialga,,60,TRUE
+Griseous Orb,Type Boosting,Boosts the power of Dragon and Ghost type attacks by 20% when held by Giratina,,60,TRUE
+Lustrous Orb ,Type Boosting,Boosts the power of Dragon and Water type attacks by 20% when held by Palkia,,60,TRUE
+Buginum Z,Z Crystal,Transforms a Bug type move into the Z-Move; Savage Spin-Out,,0,FALSE
+Darkinum Z,Z Crystal,Transforms a Dark type attack into the Z-Move; Black Hole Eclipse,,0,FALSE
+Dragonium Z,Z Crystal,Transforms a Dragon type attack into the Z-Move; Devastating Drake,,0,FALSE
+Electrium Z,Z Crystal,Transforms an Electric type attack into the Z-Move; Gigavolt Havoc,,0,FALSE
+Fairium Z,Z Crystal,Transforms a Fairy type attack into the Z-Move; Twinkle Tackle,,0,FALSE
+Fightinium Z,Z Crystal,Transforms a Fighting type attack into the Z-Move; All-Out Pummeling,,0,FALSE
+Firium Z,Z Crystal,Transforms a Fire type attack into the Z-Move; Inferno Overdrive,,0,FALSE
+Flyinium Z,Z Crystal,Transforms a Flying type attack into the Z-Move; Supersonic Skystrike,,0,FALSE
+Ghostium Z,Z Crystal,Transforms a Ghost type attack into the Z-Move; Never-Ending Nightmare,,0,FALSE
+Grassium Z,Z Crystal,Transforms a Grass type attack into the Z-Move; Bloom Doom,,0,FALSE
+Groundium Z,Z Crystal,Transforms a Ground type attack into the Z-Move; Tectonic Rage,,0,FALSE
+Icium Z,Z Crystal,Transforms an Ice type attack into the Z-Move; Subzero Slammer,,0,FALSE
+Normalium Z,Z Crystal,Transforms a Normal type attack into the Z-Move; Breakneck Blitz,,0,FALSE
+Poisonium Z,Z Crystal,Transforms a Poison type attack into the Z-Move; Acid Downpour,,0,FALSE
+Psychium Z,Z Crystal,Transforms a Psychic type attack into the Z-Move; Shattered Psyche,,0,FALSE
+Rockium Z,Z Crystal,Transforms a Rock type attack into the Z-Move; Continental Crush,,0,FALSE
+Steelium Z,Z Crystal,Transforms a Steel type attack into the Z-Move; Corkscrew Crash,,0,FALSE
+Waterium Z,Z Crystal,Transforms a Water type attack into the Z-Move; Hydro Vortex,,0,FALSE
+Aloraichium Z,Z Crystal,Transforms Alolan Raichu's Thunderbolt into the Z-Move; Stoked Sparksurfer,,0,FALSE
+Decidium Z,Z Crystal,Transforms Decidueye's Spriti Shackle into the Z-Move; Sinister Arrow Raid,,0,FALSE
+Eevium Z,Z Crystal,Transforms Eevee's Last Resort into the Z-Move; Extreme Evoboost,,0,FALSE
+Incinium Z,Z Crystal,Transforms Incineroar's Darkest Lariat into the Z-Move; Malicious Moonsault,,0,FALSE
+Kommonium Z,Z Crystal,Transforms Kommo-o's Clanging Scales into the Z-Move; Clangorous Soulblaze,,0,FALSE
+Lunalium Z,Z Crystal,Transforms Lunala's or Dawn Wings Necrozma's Moongeist Beam into the Z-Move; Menacing Moonraze Maelstrom,,0,FALSE
+Lycanium Z,Z Crystal,Transforms Lycanroc's Stone Edge into the Z-Move; Splintered Stormshards,,0,FALSE
+Marshadium Z,Z Crystal,Transforms Marshadow's Spectral Theif into the Z-Move; Soul-Stealing 7-Star Strike,,0,FALSE
+Mewnium Z,Z Crystal,Transforms Mew's Psychic into the Z-Move; Genesis Supernova,,0,FALSE
+Mimikium Z,Z Crystal,Transforms Mimikyu's Play Rough into the Z-Move; Let's Snuggle Forever,,0,FALSE
+Pikanium Z,Z Crystal,Transforms Pikachu's Volt Tackle into the Z-Move; Catastropika,,0,FALSE
+Pikashunium Z,Z Crystal,Transforms Cap Pikachu's Thunderbolt into the Z-Move; 10000000 Volt Thunderbolt,,0,FALSE
+Primarium Z,Z Crystal,Transforms Primarina's Sparkling Aria into the Z-Move; Oceanic Opperetta,,0,FALSE
+Snorlium Z,Z Crystal,Transforms Snorlax's Giga Impact into the Z-Move; Pulverizing Pancake,,0,FALSE
+Solganium Z,Z Crystal,Transforms Solgaleo's or Dusk Mane Necrozma's Sunsteel Strike into the Z-Move; Searing Sunraze Smash,,0,FALSE
+Tapunium Z,Z Crystal,Transforms Tapu Koko's; Tapu Bulu's; Tapu Lele's; or Tapu Fini's Nature's Madness into the Z-Move; Guardian of Alola,,0,FALSE
+Ultranecrozium Z,Z Crystal,Transforms Ultra Necrozma's Photon Geyser into the Z-Move; Light That Burns the Sky,Allows Dawn Wings Necrozma and Dusk Mane Necrozma to transform into Ultra Necrozma,0,FALSE
+Damp Rock,Extension,Extends duration of Rain to 8 turns from 5,,60,TRUE
+Heat Rock,Extension,Extends duration of Sun to 8 turns from 5,,60,TRUE
+Icy Rock,Extension,Extends duration of Hail or Snow to 8 turns from 5,,40,TRUE
+Smooth Rock,Extension,Extends duration of Sandstorm to 8 turns from 5,,10,TRUE
+Grip Claw,Extension,Extends duration of binding moves to 7 turns,,90,TRUE
+Light Clay,Extension,Extends duration of Light Screen; Reflect; or Aurora Veil to 8 turns from 5,,30,TRUE
+Terrain Extender,Extension,Extends duration of terrain to 8 turns from 5,,60,TRUE
+Choice Band,Stat Boosting,Boosts Attack by 50%; but locks the holder into the first move they use until they switch out,,10,TRUE
+Choice Scarf,Stat Boosting,Boosts Speed by 50%; but locks the holder into the first move they use until they switch out,,10,TRUE
+Choice Specs,Stat Boosting,Boosts Special Attack by 50%; but locks the holder into the first move they use until they switch out,,10,TRUE
+Assault Vest,Stat Boosting,Boosts Special Degemse by 50%; but prevents the user from selecting any status move other than Me First,,80,TRUE
+Black Sludge,Healing,Restores 1/16 of the holder's maximum HP at the end of each turn if the holder is Poison type; Damages the holder for 1/8 of their maximum HP at the end of each turn otherwise,,30,TRUE
+Life Orb,Power Boosting,Increases the damage of the holder's attacks by 30%; but damages the holder for 10% of their maximum HP every time they use an attack,,30,TRUE
+Rocky Helmet,Harming,Damages any Pokemon that makes contact with the holder for 1/6 of the attacker's maximum HP,,60,TRUE
+Sticky Barb,Harming,Damages the holder for 12.5% of their maximum HP at the end of each turn; transfers to any Pokemon that makes contact with the current holder,,80,TRUE
+Berserk Gene,Stat Boosting,Raises Attack 2 stages; but confuses the holder for 256 turns,,0,FALSE
+Flame Orb,Statusing,Burns its holder at the end of the turn,,30,TRUE
+Toxic Orb,Statusing,Bady poisons its holder at the end of the turn,,30,TRUE
+Iron Ball,Immunity Removing,Grounds the holder and halves its speed,,130,TRUE
+Ring Target,Immunity Removing,Holder loses type immunities to attacks,,10,TRUE
+Lagging Tail,Priority,Forces the holder to move last in its priority bracket,,10,TRUE
+Macho Brace,EV,Halves Speed,Doubles any Evs gained during a battle,60,TRUE
+Utility Umbrella,Etc,Protects the holder from the effects of sun and rain,,60,TRUE
+Berry Juice,Healing,Restores 20 HP when the holder falls below 50% of its maximum HP,,30,TRUE
+Leftovers,Healing,Restores 1/16 of the holder's maximum HP at the end of each turn,,10,TRUE
+Shell Bell,Healing,Whenever the holder deals damage with a move; restores HP equal 1/8 of the damage dealt ,,30,TRUE
+Absorb Bulb,Absorbing,Raises the holder's Special Attack by 1 stage the first time it is hit by a Water type attack,,30,TRUE
+Cell Battery,Absorbing,Raises the holder's Attack by 1 stage the first time it is hit by an Electric type attack ,,30,TRUE
+Eject Button,Switching,Forces the holder to switch out upon being hit by an attack without fainting,,30,TRUE
+Luminous Moss,Absorbing,Raises the holder's Special Defense by 1 stage the first time it is hit by a Water type attack,,30,TRUE
+Snowball,Absorbing,Raises the holder's Attack by 1 stage the first time it is hit by an Ice type attack ,,30,TRUE
+Weakness Policy,Etc,Raises the holder's Attack and Special Attack by 2 stages each the first time it is hit by a super effective attack,,80,TRUE
+Wide Lens,Stat Boosting,Boosts the holder's accuracy by 10%,,10,TRUE
+Ability Shield,Etc,Protects the holder from having rheir ability changed or ignored,,30,TRUE
+Air Balloon,Etc,Ungrounds the holder; but breaks when the holder is hit,,10,TRUE
+Amulet Coin,Money,Doubles prize money received from battles when held,,30,TRUE
+Big Root,Etc,Causes the holder to gain 30% more HP when using a draining move; but increases damage taken when using a draining move on a Pokemon with the ability Liquid Ooze,,10,TRUE
+Binding Band,Etc,Causes binding moves to deal 1/6 of the target's HP at the end of the turn instead of 1/8,,30,TRUE
+Blunder Policy,Etc,The first time a move misses; rajses the holder's Speed by 2 stages,,80,TRUE
+Bright Powder,Etc,Reduces the accuracy of moves targeted at the holder by 10%,,10,TRUE
+Covert Cloak,Etc,Protects the holder from the secondary effects of other Pokemon's attacks,,30,TRUE
+Destiny Knot,Etc,If the holder becomes infactuated; the Pokemon the holder is infatuated with becomes infatuated as well,If held by a parent Pokemon; 5 of the parents' combined 12 IVs will be passed down to the child,10,TRUE
+Eject Pack,Etc,The first time any of the holder's stats are lowered; they are forced to switch out,,50,TRUE
+Expert Belt,Etc,Boosts the power of super effective attacks by 20%,,10,TRUE
+Float Stone,Etc,Halves the holder's weight,,30,TRUE
+Focus Band,Etc,If the holder is hit by an attack that would cause it to faint; there is a 10% chance it will survive with 1HP,,10,TRUE
+Focus Sash,Etc,If the holder is at full HP and is hit by an attack that would otherwise cause it to faint; it survives with 1 HP,,10,TRUE
+Heavy-Duty Boots,Etc,Protects the holder from entry hazards,,80,TRUE
+Mental Herb,Etc,Cures the holder of infatuation and the effects of Taunt; Encore; Torment; Heal Block; and Disable once,,10,TRUE
+Metronome,Etc,Boosts the power of a move by 20% for every previous; consecutive turn that move has been used; up to 100%,,30,TRUE
+Mirror Herb,Etc,Allows the holder to copy an opponent's stat changes once,Allows Pokemon to learn Egg Moves by picnicking with Pokemon that know that Egg Move,30,TRUE
+Muscle Band,Etc,Boosts the power of physical moves by 10%,,10,TRUE
+Power Herb,Etc,Allows the holder to execute charge moves immediately after charging,,10,TRUE
+Protective Pads,Etc,Protects the holder from effects caused by making contact with opposing Pokemon,,30,TRUE
+Quick Claw,Etc,Gives the holder a 20% of going first in its priority bracket,,80,TRUE
+Red Card,Etc,Forcibly switches out the first Pokemon to successfully damage the holder with an attack,0,10,TRUE
+Room Service,Etc,Lowers the holder's speed the first time they are in Trick Room,,100,TRUE
+Safety Goggles,Etc,Makes the holder immune to powder moves; spore moves; hail; and sandstorm,,80,TRUE
+Scope Lens,Etc,Raises the holder's critical hit ratio by one stage,,30,TRUE
+Shed Shell,Etc,Allows the holder to switch no matter what,,10,TRUE
+Smoke Ball,Etc,Allows the holder to escape battles against wild Pokemon no matter what,,30,TRUE
+Throat Spray,Etc,Raises the holder's Special Attack by 1 stage the first time it uses a sound move,,30,TRUE
+White Herb,Etc,Resets the holder's negative stat changes 1 time,,10,TRUE
+Wise Glasses,Etc,Boosts the power of the holder's special attacks by 10%,,10,TRUE
+Zoom Lens,Etc,Boosts the holder's accuracy by 20% against any Pokemon that have already moved,,10,TRUE
+Everstone,Etc,,Prevents holder from evolving; guarantees bred Pokemon have the same Nature as the holder; forces bred Pokemon to be the same regional form as the parent,30,TRUE
+Blue Scarf,Scarf,,Increases the holder's Beauty,10,TRUE
+Green Scarf,Scarf,,Increases the holder's Cleverness,10,TRUE
+Pink Scarf,Scarf,,Increases the holder's Cuteness,10,TRUE
+Red Scarf,Scarf,,Increases the holder's Coolness,10,TRUE
+Yellow Scarf,Scarf,,Increases the holder's Toughness,10,TRUE
+Cleanse Tag,Etc,,Decreases encounter rate of wild Pokemon by 1/3 if held by the first member of the party,30,TRUE
+Soothe Bell,Etc,,Boosts increases to the holder's friendship by 50%,10,TRUE
